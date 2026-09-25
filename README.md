@@ -1,6 +1,6 @@
 # Alma House · Capítulo III — *La Casa*
 
-**Contenidos de cierre de septiembre 2026 · Instagram**
+**Contenidos de Instagram · 26 de septiembre – 13 de octubre de 2026**
 Por **We Rock Agencia** para Alma House Nails Bar (Cajicá).
 
 **Página para la cliente (captions con botón copiar, carruseles, video):** https://werockagencia.github.io/alma-house-contenidos-septiembre/
@@ -32,13 +32,15 @@ Todo el discurso sale del ADN de marca (Studio Ecoartes). Nada es inventado: cad
 
 | Fecha | # | Pieza | Formato | Para qué |
 |---|---|---|---|---|
-| Vie 25 sep · 7:00 p. m. | 00 | [**Reel — La anfitriona**](piezas/00-reel-la-anfitriona/copy.md) | Reel 35 s (video final `Contenidos/03.mp4`) + portada | Prólogo: la marca tiene cara y se ve el local real. Confianza antes que concepto. |
-| Sáb 26 sep · 10:00 a. m. | 01 | [**Manifiesto** — *Esto no es un spa de uñas*](piezas/01-manifiesto/copy.md) | Carrusel 3 | Rompe la categoría. Fijar en el perfil. |
-| Dom 27 sep · 6:00 p. m. | 04 | [**Lo que nunca vas a escuchar en esta casa**](piezas/04-frases-que-no-escucharas/copy.md) | Carrusel 7 | Voz de marca con humor fino. El más compartible. |
-| Lun 28 sep · 7:00 a. m. | 05 | [**Reel — Todo puede esperar una hora. Tú no.**](piezas/05-reel-todo-puede-esperar/copy.md) | Reel 9:16 (kit de edición) | El insight del celular saturado, el día que más duele. |
-| Mar 29 sep · 12:30 p. m. | 02 | [**Los códigos de la casa**](piezas/02-codigos-de-la-casa/copy.md) | Carrusel 9 | Demuestra la exclusividad con 7 reglas. El más guardable. |
-| Mié 30 sep · 12:30 p. m. | 03 | [**La edición de octubre**](piezas/03-edicion-de-octubre/copy.md) | Carrusel 7 | Curaduría de color como lujo. La pieza más *fashion*. |
+| Sáb 26 sep · 7:00 p. m. | 00 | [**Reel — La anfitriona**](piezas/00-reel-la-anfitriona/copy.md) | Reel 35 s (video final `Contenidos/03.mp4`) + portada | Prólogo: la marca tiene cara y se ve el local real. Confianza antes que concepto. |
+| Dom 27 sep · 6:00 p. m. | 01 | [**Manifiesto** — *Esto no es un spa de uñas*](piezas/01-manifiesto/copy.md) | Carrusel 3 | Rompe la categoría. Fijar en el perfil. |
+| Mar 29 sep · 12:30 p. m. | 04 | [**Lo que nunca vas a escuchar en esta casa**](piezas/04-frases-que-no-escucharas/copy.md) | Carrusel 7 | Voz de marca con humor fino. El más compartible. |
 | Jue 1 oct · 12:30 p. m. | 06 | [**La agenda de octubre**](piezas/06-agenda-de-octubre/copy.md) | Post 2 + 3 historias | Abre octubre convirtiendo en reservas, con escasez real y sin gritar. |
+| Mar 6 oct · 12:30 p. m. | 03 | [**La edición de octubre**](piezas/03-edicion-de-octubre/copy.md) | Carrusel 7 | Curaduría de color como lujo. La pieza más *fashion*. |
+| Jue 8 oct · 7:00 p. m. | 02 | [**Los códigos de la casa**](piezas/02-codigos-de-la-casa/copy.md) | Carrusel 9 | Demuestra la exclusividad con 7 reglas. El más guardable. |
+| Mar 13 oct · 7:00 a. m. | 05 | [**Reel — Todo puede esperar una hora. Tú no.**](piezas/05-reel-todo-puede-esperar/copy.md) | Reel 9:16 (kit de edición) | El insight del celular saturado, a primera hora de la semana. |
+
+**Ritmo:** sábado 26 y domingo 27 de septiembre; desde ahí, **dos por semana, martes y jueves**.
 
 El número (Nº) es la edición impresa en cada pieza; el orden de publicación es el de la tabla. El calendario vive en [`scripts/plan.mjs`](scripts/plan.mjs) y de ahí salen la página, los previews y CAPTIONS.md.
 

@@ -1,7 +1,7 @@
 # 00 · Reel — La anfitriona
 
 **Formato:** Reel 9:16 · 35 s · video final editado en Premiere (`Contenidos/03.mp4`) + portada diseñada
-**Publicar:** viernes 25 de septiembre · 7:00 p. m. — **abre el capítulo III**
+**Publicar:** sábado 26 de septiembre · 7:00 p. m. — **abre el capítulo III**
 **Rol en la narrativa:** es el prólogo. Antes de mostrar los códigos de la casa, aparece quien la abre. Es la primera vez que la marca tiene cara y que se ve el local real (el wordmark en la pared, la barra de color, el lounge de pedicure, las tres estaciones). Resuelve el "respaldo profesional" que pide el ADN (2.2): la gente le compra a personas.
 **Perfil al que le habla:** los tres. Es el contenido de confianza.
 

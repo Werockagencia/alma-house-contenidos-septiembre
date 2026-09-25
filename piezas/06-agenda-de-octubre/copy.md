@@ -2,7 +2,7 @@
 
 **Formato:** post carrusel 2 slides (1080×1350) + 3 historias (1080×1920)
 **Publicar:** jueves 1 de octubre · post 12:30 p. m. · historias 7:00 p. m.; repetir historias el viernes 2 en la mañana
-**Rol en la narrativa:** cierra el mes convirtiendo todo lo anterior en reservas. La escasez es real, no inventada: tres sillas y una hora por clienta. Sin "¡últimos cupos!" ni cuenta regresiva agresiva — la marca no grita.
+**Rol en la narrativa:** abre octubre convirtiendo lo que ya se contó (anfitriona, manifiesto, frases) en reservas. La escasez es real, no inventada: tres sillas y una hora por clienta. Sin "¡últimos cupos!" ni cuenta regresiva agresiva — la marca no grita.
 
 ## Caption (post)
 

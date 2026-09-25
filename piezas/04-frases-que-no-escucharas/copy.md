@@ -1,7 +1,7 @@
 # 04 · Lo que nunca vas a escuchar en esta casa
 
 **Formato:** carrusel 7 slides · 1080×1350
-**Publicar:** domingo 27 de septiembre · 6:00 p. m.
+**Publicar:** martes 29 de septiembre · 12:30 p. m.
 **Rol en la narrativa:** la voz de la marca, con humor fino. Todas conocemos estas frases; nadie las había dicho en voz alta. Es la pieza diseñada para **envíos** ("mira, esto es lo que te digo") y para que el diferencial se entienda sin explicarlo.
 **Perfil al que le habla:** los tres; especialmente la profesional ocupada (frases 1, 3, 4).
 

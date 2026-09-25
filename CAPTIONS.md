@@ -6,7 +6,7 @@ La fuente de cada uno está en `piezas/<pieza>/copy.md`.
 ---
 
 ## Nº 00 · La anfitriona
-**Vie 25 sep · 7:00 p. m.** · Reel
+**Sáb 26 sep · 7:00 p. m.** · Reel
 
 ### Caption
 
@@ -25,7 +25,7 @@ Reserva tu hora por WhatsApp: 311 566 2051
 ---
 
 ## Nº 01 · Esto no es un spa de uñas
-**Sáb 26 sep · 10:00 a. m.** · Carrusel · 3
+**Dom 27 sep · 6:00 p. m.** · Carrusel · 3
 
 ### Caption
 
@@ -51,7 +51,7 @@ Esto no es un spa de uñas. Es una casa en Cajicá donde tu hora es solo tuya. M
 ---
 
 ## Nº 04 · Lo que nunca vas a escuchar en esta casa
-**Dom 27 sep · 6:00 p. m.** · Carrusel · 7
+**Mar 29 sep · 12:30 p. m.** · Carrusel · 7
 
 ### Caption
 
@@ -79,26 +79,60 @@ En Alma House nadie te dice "¿quién sigue?". Te llamamos por tu nombre, tu hor
 
 ---
 
-## Nº 05 · Todo puede esperar una hora
-**Lun 28 sep · 7:00 a. m.** · Reel · kit de edición
+## Nº 06 · La agenda de octubre
+**Jue 1 oct · 12:30 p. m.** · Post · 2 + Historias · 3
 
 ### Caption
 
-Todo puede esperar una hora.
-Los correos. Los grupos. Ese audio de cuatro minutos.
+Tu mejor carta de octubre: una hora tuya.
 
-Tú no.
+Tres sillas. Una hora completa por clienta. Por eso aquí las horas se cuentan con los dedos, y por eso se reservan.
 
-Una hora para volver a ti, en Cajicá.
-Reserva por WhatsApp: 311 566 2051
-CC Montaña Plaza, local 7, piso 2
+Así de sencillo:
+1. Escríbenos por WhatsApp: 311 566 2051
+2. Elige tu hora y tu servicio
+3. Llega. El resto es nuestro.
 
-#AlmaHouse #Cajicá #UnaHoraParaTi #SlowLiving #NailBarCajicá #Autocuidado
+Manicure y pedicure · tradicional, semipermanente, secado rápido, acrílico y polygel.
+CC Montaña Plaza, local 7, piso 2 (Km 2 vía Tabio) · Cajicá
+
+#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #PedicureCajicá #ReservaTuHora
+
+### Versión corta
+
+La agenda de octubre ya está abierta en Alma House. Tres sillas, una hora completa solo para ti. Reserva por WhatsApp: 311 566 2051 · CC Montaña Plaza, Cajicá.
+
+---
+
+## Nº 03 · La edición de octubre
+**Mar 6 oct · 12:30 p. m.** · Carrusel · 7
+
+### Caption
+
+La edición de octubre.
+
+Cinco tonos. Cero improvisación.
+
+01 — Cereza negra. Profundo, casi negro.
+02 — Rojo casa. El clásico, cálido y terroso.
+03 — Café con leche. El nude en su mejor día.
+04 — Leche de almendra. Lechoso, luminoso, silencioso.
+05 — Verde oliva. El inesperado.
+
+¿Cuál es el tuyo? Cuéntanos en comentarios, o dínoslo al reservar y lo tenemos listo.
+
+WhatsApp 311 566 2051 · CC Montaña Plaza, piso 2 · Cajicá
+
+#AlmaHouse #OctoberNails #UñasOtoño #CherryNails #Cajicá #NailBarCajicá
+
+### Versión corta
+
+Cinco tonos curados para octubre: cereza negra, rojo casa, café con leche, leche de almendra y verde oliva. Elige el tuyo y reserva tu hora en Alma House, Cajicá. WhatsApp 311 566 2051.
 
 ---
 
 ## Nº 02 · Los códigos de la casa
-**Mar 29 sep · 12:30 p. m.** · Carrusel · 9
+**Jue 8 oct · 7:00 p. m.** · Carrusel · 9
 
 ### Caption
 
@@ -127,53 +161,19 @@ Solo con reserva. Tres sillas. Café antes que la lima. Kit individual siempre. 
 
 ---
 
-## Nº 03 · La edición de octubre
-**Mié 30 sep · 12:30 p. m.** · Carrusel · 7
+## Nº 05 · Todo puede esperar una hora
+**Mar 13 oct · 7:00 a. m.** · Reel · kit de edición
 
 ### Caption
 
-La edición de octubre.
+Todo puede esperar una hora.
+Los correos. Los grupos. Ese audio de cuatro minutos.
 
-Cinco tonos. Cero improvisación.
+Tú no.
 
-01 — Cereza negra. Profundo, casi negro.
-02 — Rojo casa. El clásico, cálido y terroso.
-03 — Café con leche. El nude en su mejor día.
-04 — Leche de almendra. Lechoso, luminoso, silencioso.
-05 — Verde oliva. El inesperado.
+Una hora para volver a ti, en Cajicá.
+Reserva por WhatsApp: 311 566 2051
+CC Montaña Plaza, local 7, piso 2
 
-¿Cuál es el tuyo? Cuéntanos en comentarios, o dínoslo al reservar y lo tenemos listo.
-
-WhatsApp 311 566 2051 · CC Montaña Plaza, piso 2 · Cajicá
-
-#AlmaHouse #OctoberNails #UñasOtoño #CherryNails #Cajicá #NailBarCajicá
-
-### Versión corta
-
-Cinco tonos curados para octubre: cereza negra, rojo casa, café con leche, leche de almendra y verde oliva. Elige el tuyo y reserva tu hora en Alma House, Cajicá. WhatsApp 311 566 2051.
-
----
-
-## Nº 06 · La agenda de octubre
-**Jue 1 oct · 12:30 p. m.** · Post · 2 + Historias · 3
-
-### Caption
-
-Tu mejor carta de octubre: una hora tuya.
-
-Tres sillas. Una hora completa por clienta. Por eso aquí las horas se cuentan con los dedos, y por eso se reservan.
-
-Así de sencillo:
-1. Escríbenos por WhatsApp: 311 566 2051
-2. Elige tu hora y tu servicio
-3. Llega. El resto es nuestro.
-
-Manicure y pedicure · tradicional, semipermanente, secado rápido, acrílico y polygel.
-CC Montaña Plaza, local 7, piso 2 (Km 2 vía Tabio) · Cajicá
-
-#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #PedicureCajicá #ReservaTuHora
-
-### Versión corta
-
-La agenda de octubre ya está abierta en Alma House. Tres sillas, una hora completa solo para ti. Reserva por WhatsApp: 311 566 2051 · CC Montaña Plaza, Cajicá.
+#AlmaHouse #Cajicá #UnaHoraParaTi #SlowLiving #NailBarCajicá #Autocuidado
 

@@ -1,7 +1,7 @@
 # 05 · Reel — "Todo puede esperar una hora. Tú no."
 
 **Formato:** Reel 9:16 · 18–22 s · portada + 6 textos en pantalla (PNG transparentes) + placa de cierre
-**Publicar:** lunes 28 de septiembre · 7:00 a. m. (el lunes es el día del celular saturado: el insight pega más)
+**Publicar:** martes 13 de octubre · 7:00 a. m. (arranque de semana laboral, el celular más saturado: el insight pega más)
 **Rol en la narrativa:** lleva el código II ("tu hora no se comparte") a video. Es el reel para la profesional ocupada. Sigue la línea de los reels de lanzamiento (el diagnóstico, el ritual) pero ya desde adentro de la casa.
 
 ## Guion

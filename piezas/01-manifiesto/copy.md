@@ -1,7 +1,7 @@
 # 01 · Manifiesto — "Esto no es un spa de uñas."
 
 **Formato:** carrusel 3 slides · 1080×1350
-**Publicar:** sábado 26 de septiembre · 10:00 a. m.
+**Publicar:** domingo 27 de septiembre · 6:00 p. m.
 **Rol en la narrativa:** llega justo después del reel de la anfitriona (Nº 00). Después de "ya abrimos", la marca dice quién es y rompe la categoría en la que la gente la quiere meter. Es la pieza que define todo lo demás del mes.
 **Perfil al que le habla:** los tres. Es la tesis.
 
