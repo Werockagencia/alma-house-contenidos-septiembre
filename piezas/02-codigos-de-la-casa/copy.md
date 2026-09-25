@@ -10,7 +10,7 @@
 Toda casa tiene sus códigos. Estos son los nuestros.
 
 I. Solo con reserva.
-II. Tu hora no se comparte.
+II. Tu momento no se comparte.
 III. Tres sillas. Ni una más.
 IV. El café llega antes que la lima.
 V. Kit individual. Siempre.
@@ -21,12 +21,12 @@ No son reglas para ponerte límites. Son las que nos ponemos nosotras, para que 
 
 Guárdalo. Lo vas a sentir desde la primera visita.
 
-Reserva tu hora por WhatsApp: 311 566 2051
+Reserva tu momento por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 7, piso 2 · Cajicá
 
 ## Versión corta (pauta)
 
-Solo con reserva. Tres sillas. Café antes que la lima. Kit individual siempre. Así funciona Alma House, el nails bar de Cajicá donde tu hora es tuya. Reserva: 311 566 2051.
+Solo con reserva. Tres sillas. Café antes que la lima. Kit individual siempre. Así funciona Alma House, el nails bar de Cajicá donde tu momento es tuyo. Reserva: 311 566 2051.
 
 ## Hashtags
 
@@ -36,7 +36,7 @@ Solo con reserva. Tres sillas. Café antes que la lima. Kit individual siempre. 
 
 1. Mano con uñas rojo vino y anillos finos sobre un libro. "Los códigos de la casa."
 2. Manos con uñas nude sosteniendo celular y café. "Código I: Solo con reserva."
-3. Manos sobre un teclado. "Código II: Tu hora no se comparte."
+3. Manos sobre un teclado. "Código II: Tu momento no se comparte."
 4. Fondo terracota con tres arcos. "Código III: Tres sillas. Ni una más."
 5. Manos alrededor de un espresso. "Código IV: El café llega antes que la lima."
 6. Mano con guante negro sostiene alicate esterilizado. "Código V: Kit individual. Siempre."

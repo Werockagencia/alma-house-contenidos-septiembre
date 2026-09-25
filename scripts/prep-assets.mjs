@@ -51,10 +51,10 @@ const photos = {
   'pin-24.jpg': 'frases-iced-latte.jpg',
   'pin-53.jpg': 'frases-gafas-burgundy.jpg',
   'pin-32.jpg': 'frases-cierre-vaso.jpg',
+  'pin-34.jpg': 'hora-flor-blazer.jpg',
   'pin-38.jpg': 'agenda-as-corazones.jpg',
   'pin-23.jpg': 'agenda-carta-roja.jpg',
   'pin-41.jpg': 'agenda-calle-flor.jpg',
-  'pin-10.jpg': 'agenda-tacon-blanco.jpg',
 };
 
 await mkdir(LOGO_OUT, { recursive: true });

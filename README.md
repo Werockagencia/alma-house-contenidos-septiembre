@@ -20,7 +20,7 @@ La marca ya contó dos capítulos:
 | II · Apertura | *"No vendemos manicure. Vendemos tiempo."* | 5 reels: el diagnóstico, el ritual, el umbral, lo que incluye tu hora, reserva ya |
 | **III · La Casa** | **"Esto no es un spa de uñas. Es una casa. Y toda casa tiene sus códigos."** | **Estas 7 piezas** (Nº 00–06) |
 
-Ya abrimos la puerta. Ahora mostramos cómo se vive adentro. El capítulo III deja de *prometer* una experiencia y empieza a *demostrarla* con reglas concretas, una voz propia y curaduría. Así se construye lo exclusivo: no diciendo "somos exclusivas", sino con tres sillas, una hora bloqueada por clienta y un café que llega antes que la lima.
+Ya abrimos la puerta. Ahora mostramos cómo se vive adentro. El capítulo III deja de *prometer* una experiencia y empieza a *demostrarla* con reglas concretas, una voz propia y curaduría. Así se construye lo exclusivo: no diciendo "somos exclusivas", sino con tres sillas, un momento sin reloj encima para cada clienta y un café que llega antes que la lima.
 
 Todo el discurso sale del ADN de marca (Studio Ecoartes). Nada es inventado: cada código, cada frase y cada respuesta tiene su origen en el documento (3.1, 3.3, 3.8, 3.9).
 
@@ -38,7 +38,7 @@ Todo el discurso sale del ADN de marca (Studio Ecoartes). Nada es inventado: cad
 | Jue 1 oct · 12:30 p. m. | 06 | [**La agenda de octubre**](piezas/06-agenda-de-octubre/copy.md) | Post 2 + 3 historias | Abre octubre convirtiendo en reservas, con escasez real y sin gritar. |
 | Mar 6 oct · 12:30 p. m. | 03 | [**La edición de octubre**](piezas/03-edicion-de-octubre/copy.md) | Carrusel 7 | Curaduría de color como lujo. La pieza más *fashion*. |
 | Jue 8 oct · 7:00 p. m. | 02 | [**Los códigos de la casa**](piezas/02-codigos-de-la-casa/copy.md) | Carrusel 9 | Demuestra la exclusividad con 7 reglas. El más guardable. |
-| Mar 13 oct · 7:00 a. m. | 05 | [**Reel — Todo puede esperar una hora. Tú no.**](piezas/05-reel-todo-puede-esperar/copy.md) | Reel 9:16 (kit de edición) | El insight del celular saturado, a primera hora de la semana. |
+| Mar 13 oct · 7:00 a. m. | 05 | [**Todo puede esperar. Tú no.**](piezas/05-todo-puede-esperar/copy.md) | Carrusel 5 | El insight del celular saturado, a primera hora de la semana. |
 
 **Ritmo:** sábado 26 y domingo 27 de septiembre; desde ahí, **dos por semana, martes y jueves**.
 
@@ -52,7 +52,7 @@ Cada carpeta trae: `export/` (PNG finales listos para subir), `copy.md` (caption
 |---|---|
 | ![01](preview/01-manifiesto.jpg) | ![02](preview/02-codigos-de-la-casa.jpg) |
 | ![03](preview/03-edicion-de-octubre.jpg) | ![04](preview/04-frases-que-no-escucharas.jpg) |
-| ![05](preview/05-reel-todo-puede-esperar.jpg) | ![06](preview/06-agenda-de-octubre.jpg) |
+| ![05](preview/05-todo-puede-esperar.jpg) | ![06](preview/06-agenda-de-octubre.jpg) |
 | ![00](preview/00-reel-la-anfitriona.jpg) | |
 
 ---
@@ -73,12 +73,14 @@ Todos los estilos viven en [`assets/css/alma.css`](assets/css/alma.css). Los log
 
 ---
 
+**Lenguaje:** se habla de *momento*, nunca de *hora*: la experiencia dura lo que tenga que durar.
+
 ## Antes de publicar: validar con la cliente
 
 Son afirmaciones que vienen del ADN de marca. Hay que confirmar que la operación real hoy las cumple; si alguna cambió, se ajusta el slide antes de publicar:
 
 - [ ] **Máximo 3 sillas** (piezas 02, 06)
-- [ ] **Atención 100% con reserva** y **hora completa bloqueada por clienta** (02, 04, 06)
+- [ ] **Atención 100% con reserva** y **momento completo por clienta, sin solapamientos** (02, 04, 06)
 - [ ] **Café incluido** en la experiencia (02, 04). Si tiene costo, en `04/copy.md` está la frase de reemplazo
 - [ ] **Kit individual e instrumental esterilizado a la vista** (02)
 - [ ] **Nombre de la fundadora** para el caption del reel Nº 00
@@ -103,7 +105,7 @@ npm run preview      # regenera preview/
 
 - Cambiar un texto: editar `piezas/<pieza>/slides.html` y correr `npm run render -- <nº>`.
 - Cambiar una foto: reemplazar el archivo en `assets/photos/` (mismo nombre) o mapear otro pin en `scripts/prep-assets.mjs`.
-- Cada `<section class="slide" data-file="…">` es un PNG. Con `data-transparent` se exporta con fondo transparente (así están hechos los textos del reel).
+- Cada `<section class="slide" data-file="…">` es un PNG. Con `data-transparent` se exporta con fondo transparente (útil para textos que producción audiovisual monte sobre video).
 
 ```
 piezas/
@@ -112,7 +114,7 @@ piezas/
   02-codigos-de-la-casa/
   03-edicion-de-octubre/
   04-frases-que-no-escucharas/
-  05-reel-todo-puede-esperar/   (portada, 6 textos PNG transparentes, placa de cierre)
+  05-todo-puede-esperar/
   06-agenda-de-octubre/         (post ×2 + historias ×3)
 assets/
   css/alma.css             sistema de diseño

@@ -23,7 +23,7 @@ WhatsApp 311 566 2051 · CC Montaña Plaza, piso 2 · Cajicá
 
 ## Versión corta (pauta)
 
-Cinco tonos curados para octubre: cereza negra, rojo casa, café con leche, leche de almendra y verde oliva. Elige el tuyo y reserva tu hora en Alma House, Cajicá. WhatsApp 311 566 2051.
+Cinco tonos curados para octubre: cereza negra, rojo casa, café con leche, leche de almendra y verde oliva. Elige el tuyo y reserva tu momento en Alma House, Cajicá. WhatsApp 311 566 2051.
 
 ## Hashtags
 

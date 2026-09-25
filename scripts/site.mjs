@@ -282,7 +282,7 @@ td{padding:10px 10px 10px 0;border-bottom:1px solid var(--line);vertical-align:t
       <div>
         <p class="label">Archivos</p>
         <h4>Todo listo para subir</h4>
-        <p>Cada imagen de esta página abre su PNG final (1080×1350 feed · 1080×1920 historias y reels). Los captions de todo el mes están también en un solo documento.</p>
+        <p>Cada imagen de esta página abre su PNG final (1080×1350 feed · 1080×1920 historias y portada del reel). Los captions de todo el mes están también en un solo documento.</p>
         <a class="btn" href="${REPO}/blob/main/CAPTIONS.md" target="_blank">Todos los captions</a>
         <a class="btn" href="${REPO}/archive/refs/heads/main.zip">Descargar todo (.zip)</a>
       </div>

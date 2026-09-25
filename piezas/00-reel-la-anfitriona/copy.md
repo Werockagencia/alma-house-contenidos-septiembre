@@ -12,13 +12,13 @@
 
 Toda casa tiene quien te abra la puerta.
 
-Esta es la nuestra. Soñamos Alma House como el lugar al que siempre quisimos llegar: sin afán, sin ruido, con un café bien hecho y una hora que nadie te acelera.
+Esta es la nuestra. Soñamos Alma House como el lugar al que siempre quisimos llegar: sin afán, sin ruido, con un café bien hecho y un momento que nadie te acelera.
 
 Ya está abierta. Y te estamos esperando.
 
 Alma House · Nails Bar
 CC Montaña Plaza, local 7, piso 2 (Km 2 vía Tabio), Cajicá
-Reserva tu hora por WhatsApp: 311 566 2051
+Reserva tu momento por WhatsApp: 311 566 2051
 
 ## Hashtags
 

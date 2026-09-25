@@ -9,20 +9,20 @@
 
 Esto no es un spa de uñas.
 
-Es una casa. De tres sillas, con café recién hecho y una hora que nadie te va a acelerar.
+Es una casa. De tres sillas, con café recién hecho y un momento que nadie te va a acelerar.
 
-Allá te dan un turno. Aquí te guardamos una hora.
+Allá te dan un turno. Aquí te guardamos tu momento.
 Allá cuentan clientas. Aquí recordamos tu nombre.
 
 La belleza es la excusa. La pausa es el regalo.
 
 Alma House · Nails Bar
 CC Montaña Plaza, local 7, piso 2 (Km 2 vía Tabio), Cajicá
-Reserva tu hora por WhatsApp: 311 566 2051
+Reserva tu momento por WhatsApp: 311 566 2051
 
 ## Versión corta (pauta / Meta Ads)
 
-Esto no es un spa de uñas. Es una casa en Cajicá donde tu hora es solo tuya. Manicure y pedicure con café, silencio y cero afán. Reserva por WhatsApp: 311 566 2051.
+Esto no es un spa de uñas. Es una casa en Cajicá donde tu momento es solo tuyo. Manicure y pedicure con café, silencio y cero afán. Reserva por WhatsApp: 311 566 2051.
 
 ## Hashtags
 
@@ -31,7 +31,7 @@ Esto no es un spa de uñas. Es una casa en Cajicá donde tu hora es solo tuya. M
 ## Texto alternativo
 
 1. Manos con uñas rojo cereza y anillos dorados sobre el cabello recogido. Texto: "Esto no es un spa de uñas. Es una casa."
-2. Contraste tipográfico: "Allá te dan un turno. Aquí te guardamos una hora. Allá cuentan clientas. Aquí recordamos tu nombre. Allá suenan secadores, música y televisor. Aquí solo suena el café. Allá sales con las uñas listas. Aquí sales distinta."
+2. Contraste tipográfico: "Allá te dan un turno. Aquí te guardamos tu momento. Allá cuentan clientas. Aquí recordamos tu nombre. Allá suenan secadores, música y televisor. Aquí solo suena el café. Allá sales con las uñas listas. Aquí sales distinta."
 3. Mano con uñas verde salvia sobre un libro abierto. Texto: "La belleza es la excusa. La pausa es el regalo." Logo Alma House.
 
 ## Notas

@@ -20,12 +20,12 @@ Lo que sí vas a escuchar:
 
 Envíaselo a la amiga que necesita esta casa.
 
-Reserva tu hora por WhatsApp: 311 566 2051
+Reserva tu momento por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 7, piso 2 · Cajicá
 
 ## Versión corta (pauta)
 
-En Alma House nadie te dice "¿quién sigue?". Te llamamos por tu nombre, tu hora empieza a tu hora y el café va por la casa. Nails bar en Cajicá. Reserva: 311 566 2051.
+En Alma House nadie te dice "¿quién sigue?". Te llamamos por tu nombre, tu cita empieza a tiempo y el café va por la casa. Nails bar en Cajicá. Reserva: 311 566 2051.
 
 ## Hashtags
 
@@ -34,9 +34,9 @@ En Alma House nadie te dice "¿quién sigue?". Te llamamos por tu nombre, tu hor
 ## Texto alternativo
 
 1. Manos con anillos plateados sobre una taza con margaritas. "Lo que nunca vas a escuchar en esta casa. (Y lo que sí.)"
-2. Frase tachada: "¿Quién sigue?" Respuesta: "No hay fila. Hay una hora con tu nombre."
+2. Frase tachada: "¿Quién sigue?" Respuesta: "No hay fila. Hay un momento con tu nombre."
 3. Frase tachada: "Mi reina, ¿qué nos hacemos hoy?" Respuesta: "Te llamamos por tu nombre. Siempre."
-4. Frase tachada: "Espérame diez minuticos, ya te atiendo." Respuesta: "Tu hora empieza a tu hora."
+4. Frase tachada: "Espérame diez minuticos, ya te atiendo." Respuesta: "Tu cita empieza a tiempo. Siempre."
 5. Frase tachada: "Rapidito, que tengo otra clienta." Respuesta: "La belleza no se acelera. Se habita."
 6. Frase tachada: "El café se paga aparte." Respuesta: "El café llega antes que la lima. Y va por la casa."
 7. Manos sosteniendo un vaso de vidrio. "Lo que sí vas a escuchar: 'Hola, Camila. ¿Tu café como la última vez?'"

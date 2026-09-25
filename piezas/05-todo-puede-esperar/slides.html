@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>05 · Todo puede esperar — Alma House</title>
+<link rel="stylesheet" href="../../assets/css/alma.css">
+<style>
+  /* 1 · Portada */
+  .s1 { background: #120d0a; }
+  .s1 .photo { bottom: auto; height: 900px; }
+  .s1 .photo img { object-position: 50% 42%; }
+  .s1 .fade { position: absolute; left: 0; right: 0; top: 560px; height: 360px; z-index: 4; background: linear-gradient(0deg, #120d0a 6%, rgba(18,13,10,0)); }
+  .s1 .t { position: absolute; left: 72px; right: 72px; bottom: 150px; z-index: 5; color: var(--white-beach); }
+  .s1 .kick { color: var(--smoke-dragon); margin-bottom: 28px; }
+  .s1 h1 { font-size: 150px; line-height: .88; letter-spacing: -.025em; }
+  .s1 h1 em { color: var(--smoke-dragon); }
+
+  /* 2 · Allá afuera: notificaciones en clave de marca (genéricas, sin apps reales) */
+  .s2 { padding: 130px 72px 100px; display: flex; flex-direction: column; justify-content: center; }
+  .s2 .intro { font-family: var(--serif); font-style: italic; font-size: 96px; line-height: 1.02; color: var(--white-beach); }
+  .s2 .intro em { color: var(--smoke-dragon); }
+  .s2 .stack { margin-top: 90px; display: flex; flex-direction: column; gap: 28px; }
+  .note {
+    display: grid; grid-template-columns: 96px 1fr auto; gap: 30px; align-items: center;
+    padding: 38px 40px; border-radius: 40px;
+    background: rgba(247,239,231,.08); border: 1px solid rgba(247,239,231,.14);
+  }
+  .note:nth-child(2) { margin-left: 30px; opacity: .88; }
+  .note:nth-child(3) { margin-left: 60px; opacity: .74; }
+  .note .ic { width: 96px; height: 96px; border-radius: 22px; background: rgba(206,186,170,.18); display: grid; place-items: center; }
+  .note .ic svg { width: 46px; height: 46px; stroke: var(--smoke-dragon); fill: none; stroke-width: 1.6; }
+  .note .k { color: var(--smoke-dragon); font-size: 17px; margin-bottom: 10px; }
+  .note .m { font-family: var(--sans); font-size: 38px; color: var(--white-beach); line-height: 1.25; }
+  .note .when { font-family: var(--sans); font-size: 22px; color: rgba(247,239,231,.5); align-self: start; }
+
+  /* 3 · Todo eso puede esperar */
+  .s3 .photo img { object-position: 50% 35%; }
+  .s3 .t { position: absolute; left: 72px; right: 72px; bottom: 150px; z-index: 5; color: var(--white-beach); }
+  .s3 h2 { font-size: 132px; line-height: .9; letter-spacing: -.02em; }
+  .s3 h2 em { color: var(--smoke-dragon); }
+  .s3 .sub { margin-top: 30px; font-family: var(--serif); font-style: italic; font-size: 44px; color: rgba(247,239,231,.9); }
+
+  /* 4 · Tú no. */
+  .s4 { display: flex; flex-direction: column; justify-content: center; padding: 0 72px; }
+  .s4 .pre { font-family: var(--serif); font-size: 60px; line-height: 1.05; color: #6b6a58; max-width: 820px; }
+  .s4 .big { font-family: var(--serif); font-style: italic; font-size: 330px; line-height: .86; letter-spacing: -.04em; color: var(--hot-brown); margin-top: 40px; }
+
+  /* 5 · Cierre */
+  .s5 { display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+  .s5 h2 { font-size: 130px; line-height: .9; color: var(--white-beach); }
+  .s5 h2 em { color: var(--smoke-dragon); }
+  .s5 .logo { width: 400px; margin-top: 100px; }
+  .s5 .cta { margin-top: 80px; color: var(--white-beach); }
+</style>
+</head>
+<body>
+
+<!-- 1 · Portada -->
+<section class="slide s1 grain light-grain" data-file="05-esperar-01.png">
+  <div class="photo grade-deep"><img src="../../assets/photos/codigos-reserva-cafe.jpg" alt=""></div>
+  <div class="fade"></div>
+  <div class="masthead label" style="color:var(--white-beach)"><span>Alma House</span><span class="rule"></span><span>Nº 05 — El momento</span></div>
+  <div class="t">
+    <p class="label kick">Tu momento en Alma House</p>
+    <h1 class="serif">Todo puede<br><em>esperar.</em></h1>
+  </div>
+  <div class="folio label sm" style="color:var(--white-beach)"><span>01 / 05</span><span class="swipe">Desliza</span></div>
+</section>
+
+<!-- 2 · Mientras tanto, allá afuera -->
+<section class="slide s2 bg-espresso grain light-grain" data-file="05-esperar-02.png">
+  <div class="masthead label" style="color:var(--smoke-dragon)"><span>Alma House</span><span class="rule"></span><span>Nº 05 — El momento</span></div>
+  <p class="intro">Mientras tanto,<br><em>allá afuera…</em></p>
+  <div class="stack">
+    <div class="note">
+      <span class="ic"><svg viewBox="0 0 24 24"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg></span>
+      <div><p class="k label">Correo · 14 sin leer</p><p class="m">RE: RE: RE: ajustes finales</p></div>
+      <span class="when">ahora</span>
+    </div>
+    <div class="note">
+      <span class="ic"><svg viewBox="0 0 24 24"><path d="M4 5h16v10H9l-5 4z"/></svg></span>
+      <div><p class="k label">Grupo · Familia</p><p class="m">32 mensajes nuevos</p></div>
+      <span class="when">2 min</span>
+    </div>
+    <div class="note">
+      <span class="ic"><svg viewBox="0 0 24 24"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0014 0M12 18v3"/></svg></span>
+      <div><p class="k label">Audio · 4:07</p><p class="m">“Te cuento rapidito…”</p></div>
+      <span class="when">5 min</span>
+    </div>
+  </div>
+  <div class="folio label sm" style="color:var(--smoke-dragon)"><span>02 / 05</span><span class="swipe">Desliza</span></div>
+</section>
+
+<!-- 3 · Todo eso puede esperar -->
+<section class="slide s3 grain light-grain" data-file="05-esperar-03.png">
+  <div class="photo grade shade-bottom"><img src="../../assets/photos/hora-flor-blazer.jpg" alt=""></div>
+  <div class="t">
+    <h2 class="serif">Todo eso<br><em>puede esperar.</em></h2>
+    <p class="sub">El celular, boca abajo. El café, recién servido.</p>
+  </div>
+  <div class="folio label sm" style="color:var(--white-beach)"><span>03 / 05</span><span class="swipe">Desliza</span></div>
+</section>
+
+<!-- 4 · Tú no. -->
+<section class="slide s4 bg-cream grain" data-file="05-esperar-04.png">
+  <div class="masthead label" style="color:var(--bakery-brown)"><span>Alma House</span><span class="rule"></span><span>Nº 05 — El momento</span></div>
+  <p class="pre">Los correos, los grupos, ese audio de cuatro minutos…</p>
+  <p class="big">Tú no.</p>
+  <div class="folio label sm" style="color:var(--bakery-brown)"><span>04 / 05</span><span class="swipe">Desliza</span></div>
+</section>
+
+<!-- 5 · Cierre -->
+<section class="slide s5 bg-espresso grain light-grain" data-file="05-esperar-05.png">
+  <h2 class="serif">Un momento<br><em>para volver a ti.</em></h2>
+  <img class="logo" src="../../assets/brand/logos/logo-crema.png" alt="Alma House Nails Bar">
+  <p class="cta label pill">Reserva tu momento &nbsp;·&nbsp; WhatsApp 311 566 2051</p>
+  <div class="folio label sm" style="color:var(--smoke-dragon)"><span>05 / 05</span><span>CC Montaña Plaza · Piso 2 · Cajicá</span></div>
+</section>
+
+</body>
+</html>
