@@ -1,7 +1,7 @@
 # 03 · La edición de octubre
 
 **Formato:** carrusel 7 slides · 1080×1350
-**Publicar:** martes 29 de septiembre · 12:30 p. m.
+**Publicar:** miércoles 30 de septiembre · 12:30 p. m.
 **Rol en la narrativa:** la curaduría como lujo. Un spa convencional te pasa un abanico de 200 colores; una casa te recomienda cinco. Es la pieza más "fashion" del mes y la que conecta directo con el tablero de Pinterest de la cliente (rojos cereza, vino, nude lechoso).
 **Perfil al que le habla:** la emprendedora estética (la que comparte). Es el contenido con más potencial de envíos y guardados.
 

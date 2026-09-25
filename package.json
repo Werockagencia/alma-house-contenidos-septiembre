@@ -6,8 +6,9 @@
   "scripts": {
     "prep": "node scripts/prep-assets.mjs",
     "render": "node scripts/render.mjs",
-    "build": "npm run prep && npm run render && npm run preview",
-    "preview": "node scripts/preview.mjs"
+    "build": "npm run prep && npm run render && npm run preview && npm run site",
+    "preview": "node scripts/preview.mjs",
+    "site": "node scripts/site.mjs"
   },
   "devDependencies": {
     "puppeteer-core": "^23.0.0",

@@ -1,7 +1,7 @@
 # 02 · Los códigos de la casa
 
 **Formato:** carrusel 9 slides · 1080×1350
-**Publicar:** sábado 26 de septiembre · 10:00 a. m.
+**Publicar:** martes 29 de septiembre · 12:30 p. m.
 **Rol en la narrativa:** convierte el manifiesto en pruebas concretas. La exclusividad no se declara: se demuestra con reglas. Es el contenido más "guardable" del mes.
 **Perfil al que le habla:** la profesional ocupada (códigos I, II) y la buscadora de pausa (VI, VII).
 
