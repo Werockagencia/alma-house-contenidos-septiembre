@@ -20,7 +20,7 @@ La marca ya contó dos capítulos:
 | II · Apertura | *"No vendemos manicure. Vendemos tiempo."* | 5 reels: el diagnóstico, el ritual, el umbral, lo que incluye tu hora, reserva ya |
 | **III · La Casa** | **"Esto no es un spa de uñas. Es una casa. Y toda casa tiene sus códigos."** | **Estas 7 piezas** (Nº 00–06) |
 
-Ya abrimos la puerta. Ahora mostramos cómo se vive adentro. El capítulo III deja de *prometer* una experiencia y empieza a *demostrarla* con reglas concretas, una voz propia y curaduría. Así se construye lo exclusivo: no diciendo "somos exclusivas", sino con tres sillas, un momento sin reloj encima para cada clienta y un café que llega antes que la lima.
+Ya abrimos la puerta. Ahora mostramos cómo se vive adentro. El capítulo III deja de *prometer* una experiencia y empieza a *demostrarla* con reglas concretas, una voz propia y curaduría. Así se construye lo exclusivo: no diciendo "somos exclusivas", sino con cuatro sillas, un momento sin reloj encima para cada clienta y un café que llega antes que la lima.
 
 Todo el discurso sale del ADN de marca (Studio Ecoartes). Nada es inventado: cada código, cada frase y cada respuesta tiene su origen en el documento (3.1, 3.3, 3.8, 3.9).
 
@@ -79,7 +79,7 @@ Todos los estilos viven en [`assets/css/alma.css`](assets/css/alma.css). Los log
 
 Son afirmaciones que vienen del ADN de marca. Hay que confirmar que la operación real hoy las cumple; si alguna cambió, se ajusta el slide antes de publicar:
 
-- [ ] **Máximo 3 sillas** (piezas 02, 06)
+- [x] **4 sillas** — confirmado por la cliente el 25-sep (el ADN decía 3; se corrigió en 01, 02 y 06)
 - [ ] **Atención 100% con reserva** y **momento completo por clienta, sin solapamientos** (02, 04, 06)
 - [ ] **Café incluido** en la experiencia (02, 04). Si tiene costo, en `04/copy.md` está la frase de reemplazo
 - [ ] **Kit individual e instrumental esterilizado a la vista** (02)

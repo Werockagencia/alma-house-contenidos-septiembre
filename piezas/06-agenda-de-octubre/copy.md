@@ -2,13 +2,13 @@
 
 **Formato:** post carrusel 2 slides (1080×1350) + 3 historias (1080×1920)
 **Publicar:** jueves 1 de octubre · post 12:30 p. m. · historias 7:00 p. m.; repetir historias el viernes 2 en la mañana
-**Rol en la narrativa:** abre octubre convirtiendo lo que ya se contó (anfitriona, manifiesto, frases) en reservas. La escasez es real, no inventada: tres sillas y un momento sin prisa para cada clienta. Sin "¡últimos cupos!" ni cuenta regresiva agresiva — la marca no grita.
+**Rol en la narrativa:** abre octubre convirtiendo lo que ya se contó (anfitriona, manifiesto, frases) en reservas. La escasez es real, no inventada: cuatro sillas y un momento sin prisa para cada clienta. Sin "¡últimos cupos!" ni cuenta regresiva agresiva — la marca no grita.
 
 ## Caption (post)
 
 Tu mejor carta de octubre: un momento tuyo.
 
-Tres sillas y cero prisa: cada clienta tiene su momento completo, sin nadie esperando detrás. Por eso aquí los cupos se cuentan con los dedos, y por eso se reservan.
+Cuatro sillas y cero prisa: cada clienta tiene su momento completo, sin nadie esperando detrás. Por eso aquí los cupos se cuentan con los dedos, y por eso se reservan.
 
 Así de sencillo:
 1. Escríbenos por WhatsApp: 311 566 2051
@@ -20,7 +20,7 @@ CC Montaña Plaza, local 7, piso 2 (Km 2 vía Tabio) · Cajicá
 
 ## Versión corta (pauta)
 
-La agenda de octubre ya está abierta en Alma House. Tres sillas y un momento completo, solo para ti. Reserva por WhatsApp: 311 566 2051 · CC Montaña Plaza, Cajicá.
+La agenda de octubre ya está abierta en Alma House. Cuatro sillas y un momento completo, solo para ti. Reserva por WhatsApp: 311 566 2051 · CC Montaña Plaza, Cajicá.
 
 ## Hashtags
 
@@ -31,7 +31,7 @@ La agenda de octubre ya está abierta en Alma House. Tres sillas y un momento co
 | Historia | Sticker | Dónde |
 |---|---|---|
 | 1 · "Octubre ya tiene agenda" | Ninguno, o música suave | — |
-| 2 · "¿Eres de mañana o de tarde?" | **Encuesta**: "Mañana ☀ / Tarde ☕" | Sobre los tres arcos (zona y≈1100–1450) |
+| 2 · "¿Eres de mañana o de tarde?" | **Encuesta**: "Mañana ☀ / Tarde ☕" | Sobre los cuatro arcos (zona y≈1100–1450) |
 | 3 · "Escríbenos. Te esperamos." | **Enlace** a `wa.me/573115662051` con texto "Reservar mi momento" | Zona libre inferior (y≈1500–1650) |
 
 Responder cada voto de la encuesta por DM, por nombre: "Hola, Laura. Tengo un espacio el jueves a las 10. ¿Te lo guardo?" (voz del ADN: sugerir, no presionar).
@@ -41,5 +41,5 @@ Responder cada voto de la encuesta por DM, por nombre: "Hola, Laura. Tengo un es
 - Post 1: mano con uñas rojas sosteniendo un as de corazones. "Tu mejor carta de octubre: un momento tuyo."
 - Post 2: "Reservar es así de sencillo" en tres pasos, con servicios y dirección.
 - Historia 1: mano con uñas rojas y una carta. "Octubre ya tiene agenda."
-- Historia 2: tres arcos sobre fondo verde. "¿Eres de mañana o de tarde?"
+- Historia 2: cuatro arcos sobre fondo verde. "¿Eres de mañana o de tarde?"
 - Historia 3: mano con flor y tacones vino en una calle adoquinada. "Escríbenos. Te esperamos."

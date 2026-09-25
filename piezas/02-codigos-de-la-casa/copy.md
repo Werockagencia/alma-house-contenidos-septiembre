@@ -11,7 +11,7 @@ Toda casa tiene sus códigos. Estos son los nuestros.
 
 I. Solo con reserva.
 II. Tu momento no se comparte.
-III. Tres sillas. Ni una más.
+III. Cuatro sillas. Ni una más.
 IV. El café llega antes que la lima.
 V. Kit individual. Siempre.
 VI. Te llamamos por tu nombre.
@@ -26,7 +26,7 @@ CC Montaña Plaza, local 7, piso 2 · Cajicá
 
 ## Versión corta (pauta)
 
-Solo con reserva. Tres sillas. Café antes que la lima. Kit individual siempre. Así funciona Alma House, el nails bar de Cajicá donde tu momento es tuyo. Reserva: 311 566 2051.
+Solo con reserva. Cuatro sillas. Café antes que la lima. Kit individual siempre. Así funciona Alma House, el nails bar de Cajicá donde tu momento es tuyo. Reserva: 311 566 2051.
 
 ## Hashtags
 
@@ -37,7 +37,7 @@ Solo con reserva. Tres sillas. Café antes que la lima. Kit individual siempre. 
 1. Mano con uñas rojo vino y anillos finos sobre un libro. "Los códigos de la casa."
 2. Manos con uñas nude sosteniendo celular y café. "Código I: Solo con reserva."
 3. Manos sobre un teclado. "Código II: Tu momento no se comparte."
-4. Fondo terracota con tres arcos. "Código III: Tres sillas. Ni una más."
+4. Fondo terracota con cuatro arcos. "Código III: Cuatro sillas. Ni una más."
 5. Manos alrededor de un espresso. "Código IV: El café llega antes que la lima."
 6. Mano con guante negro sostiene alicate esterilizado. "Código V: Kit individual. Siempre."
 7. Mano con uñas crema junto a una taza. "Código VI: Te llamamos por tu nombre."
@@ -47,4 +47,4 @@ Solo con reserva. Tres sillas. Café antes que la lima. Kit individual siempre. 
 ## Notas
 
 - Todos los códigos salen del ADN (3.1 ¿Cómo lo hace? y 3.9 Valores). Ninguno es inventado.
-- **Confirmar con la cliente antes de publicar:** que la operación sea hoy efectivamente de máximo 3 sillas, 100% con reserva y con kit individual por clienta. Si algo cambió, ajustar ese slide — no publicar un código que la experiencia real no cumpla.
+- **Confirmar con la cliente antes de publicar:** que la operación sea hoy efectivamente 100% con reserva y con kit individual por clienta. Si algo cambió, ajustar ese slide — no publicar un código que la experiencia real no cumpla.

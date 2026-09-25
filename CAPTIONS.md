@@ -31,7 +31,7 @@ Reserva tu momento por WhatsApp: 311 566 2051
 
 Esto no es un spa de uñas.
 
-Es una casa. De tres sillas, con café recién hecho y un momento que nadie te va a acelerar.
+Es una casa. De cuatro sillas, con café recién hecho y un momento que nadie te va a acelerar.
 
 Allá te dan un turno. Aquí te guardamos tu momento.
 Allá cuentan clientas. Aquí recordamos tu nombre.
@@ -86,7 +86,7 @@ En Alma House nadie te dice "¿quién sigue?". Te llamamos por tu nombre, tu cit
 
 Tu mejor carta de octubre: un momento tuyo.
 
-Tres sillas y cero prisa: cada clienta tiene su momento completo, sin nadie esperando detrás. Por eso aquí los cupos se cuentan con los dedos, y por eso se reservan.
+Cuatro sillas y cero prisa: cada clienta tiene su momento completo, sin nadie esperando detrás. Por eso aquí los cupos se cuentan con los dedos, y por eso se reservan.
 
 Así de sencillo:
 1. Escríbenos por WhatsApp: 311 566 2051
@@ -100,7 +100,7 @@ CC Montaña Plaza, local 7, piso 2 (Km 2 vía Tabio) · Cajicá
 
 ### Versión corta
 
-La agenda de octubre ya está abierta en Alma House. Tres sillas y un momento completo, solo para ti. Reserva por WhatsApp: 311 566 2051 · CC Montaña Plaza, Cajicá.
+La agenda de octubre ya está abierta en Alma House. Cuatro sillas y un momento completo, solo para ti. Reserva por WhatsApp: 311 566 2051 · CC Montaña Plaza, Cajicá.
 
 ---
 
@@ -140,7 +140,7 @@ Toda casa tiene sus códigos. Estos son los nuestros.
 
 I. Solo con reserva.
 II. Tu momento no se comparte.
-III. Tres sillas. Ni una más.
+III. Cuatro sillas. Ni una más.
 IV. El café llega antes que la lima.
 V. Kit individual. Siempre.
 VI. Te llamamos por tu nombre.
@@ -157,7 +157,7 @@ CC Montaña Plaza, local 7, piso 2 · Cajicá
 
 ### Versión corta
 
-Solo con reserva. Tres sillas. Café antes que la lima. Kit individual siempre. Así funciona Alma House, el nails bar de Cajicá donde tu momento es tuyo. Reserva: 311 566 2051.
+Solo con reserva. Cuatro sillas. Café antes que la lima. Kit individual siempre. Así funciona Alma House, el nails bar de Cajicá donde tu momento es tuyo. Reserva: 311 566 2051.
 
 ---
 

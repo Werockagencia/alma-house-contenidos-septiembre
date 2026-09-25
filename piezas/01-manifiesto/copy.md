@@ -9,7 +9,7 @@
 
 Esto no es un spa de uñas.
 
-Es una casa. De tres sillas, con café recién hecho y un momento que nadie te va a acelerar.
+Es una casa. De cuatro sillas, con café recién hecho y un momento que nadie te va a acelerar.
 
 Allá te dan un turno. Aquí te guardamos tu momento.
 Allá cuentan clientas. Aquí recordamos tu nombre.
