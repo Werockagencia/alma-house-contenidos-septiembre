@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>02 · Los códigos de la casa — Alma House</title>
+<link rel="stylesheet" href="../../assets/css/alma.css">
+<style>
+  /* Portada */
+  .cover .photo img { object-position: 50% 60%; }
+  .cover .topshade { position:absolute; inset:0 0 auto 0; height:260px; z-index:4; background:linear-gradient(180deg, rgba(20,14,10,.55), rgba(20,14,10,0)); }
+  .cover .t { position: absolute; left: 72px; right: 72px; bottom: 150px; color: var(--white-beach); z-index: 5; }
+  .cover .kick { color: var(--smoke-dragon); margin-bottom: 30px; }
+  .cover h1 { font-size: 150px; line-height: .88; letter-spacing: -.02em; }
+  .cover h1 em { color: var(--smoke-dragon); }
+  .cover .sub { margin-top: 34px; font-family: var(--serif); font-style: italic; font-size: 40px; max-width: 760px; line-height: 1.2; color: rgba(247,239,231,.9); }
+
+  /* Layout A — foto arriba, texto en papel */
+  .A .photo { top: 0; left: 0; right: 0; height: 830px; }
+  .A .txt { position: absolute; left: 72px; right: 72px; bottom: 138px; }
+  .A .num { display: flex; align-items: center; gap: 22px; color: var(--hot-brown); margin-bottom: 30px; }
+  .A .num .hairline { width: 70px; background: var(--hot-brown); opacity: .5; }
+  .A h2 { font-size: 92px; line-height: .96; color: var(--ink); }
+  .A h2 em { color: var(--hot-brown); }
+  .A .body { margin-top: 26px; color: #5E6150; max-width: 860px; }
+
+  /* Layout B — foto a sangre, texto sobre sombra */
+  .B .t { position: absolute; left: 72px; right: 72px; bottom: 150px; color: var(--white-beach); z-index: 5; }
+  .B .num { display: flex; align-items: center; gap: 22px; color: var(--smoke-dragon); margin-bottom: 30px; }
+  .B .num .hairline { width: 70px; background: var(--smoke-dragon); opacity: .7; }
+  .B h2 { font-size: 100px; line-height: .95; }
+  .B h2 em { color: var(--smoke-dragon); }
+  .B .body { margin-top: 26px; color: rgba(247,239,231,.86); max-width: 820px; }
+
+  /* Layout C — tipográfico con numeral monumental */
+  .C .numeral {
+    position: absolute; right: 60px; top: 70px; z-index: 1;
+    font-family: var(--serif); font-style: italic; font-size: 640px; line-height: .8; letter-spacing: -.04em;
+    opacity: .13;
+  }
+  .C .t { position: absolute; left: 72px; right: 72px; bottom: 150px; z-index: 5; }
+  .C .num { display: flex; align-items: center; gap: 22px; margin-bottom: 34px; }
+  .C .num .hairline { width: 70px; background: currentColor; opacity: .5; }
+  .C h2 { font-size: 132px; line-height: .9; letter-spacing: -.02em; }
+  .C .body { margin-top: 30px; max-width: 800px; }
+
+  .chairs { position: absolute; left: 72px; top: 150px; display: flex; gap: 34px; z-index: 5; }
+  .chairs span { width: 120px; height: 300px; border: 1.5px solid currentColor; border-radius: 60px 60px 8px 8px; opacity: .8; }
+
+  /* Cierre */
+  .close { display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+  .close .iso { width: 150px; margin-bottom: 70px; }
+  .close h2 { font-size: 150px; line-height: .9; }
+  .close h2 em { color: var(--smoke-dragon); }
+  .close .body { margin-top: 38px; color: rgba(247,239,231,.8); max-width: 760px; }
+  .close .cta { margin-top: 64px; color: var(--white-beach); }
+  .close .cta b { font-weight: 500; }
+</style>
+</head>
+<body>
+
+<!-- 1 · Portada -->
+<section class="slide cover grain light-grain" data-file="02-codigos-01.png">
+  <div class="photo grade-deep shade-bottom"><img src="../../assets/photos/codigos-portada-libro.jpg" alt=""></div>
+  <div class="topshade"></div>
+  <div class="masthead label" style="color:var(--white-beach)"><span>Alma House</span><span class="rule"></span><span>Nº 02 — La casa</span></div>
+  <div class="t">
+    <p class="label kick">Siete reglas que no negociamos</p>
+    <h1 class="serif">Los códigos<br>de <em>la casa.</em></h1>
+    <p class="sub">Toda casa tiene los suyos.<br>Estos existen para que tu hora sea tuya.</p>
+  </div>
+  <div class="folio label sm" style="color:var(--white-beach)"><span>01 / 09</span><span class="swipe">Desliza</span></div>
+</section>
+
+<!-- I · Solo con reserva (A) -->
+<section class="slide A bg-cream grain" data-file="02-codigos-02.png">
+  <div class="photo grade"><img src="../../assets/photos/codigos-reserva-cafe.jpg" alt="" style="object-position:50% 45%"></div>
+  <div class="txt">
+    <p class="num label"><span>Código I</span><span class="hairline"></span></p>
+    <h2 class="serif">Solo con<br><em>reserva.</em></h2>
+    <p class="body">Aquí nadie hace fila. Llegas a tu hora, y tu hora ya te está esperando.</p>
+  </div>
+  <div class="folio label sm" style="color:var(--bakery-brown)"><span>02 / 09</span><span>Alma House</span></div>
+</section>
+
+<!-- II · Tu hora no se comparte (B) -->
+<section class="slide B grain light-grain" data-file="02-codigos-03.png">
+  <div class="photo grade-deep shade-bottom"><img src="../../assets/photos/codigos-hora-teclado.jpg" alt="" style="object-position:50% 30%"></div>
+  <div class="t">
+    <p class="num label"><span>Código II</span><span class="hairline"></span></p>
+    <h2 class="serif">Tu hora<br><em>no se comparte.</em></h2>
+    <p class="body">Una hora completa, bloqueada solo para ti. Sin solapamientos. Sin “ya casi”.</p>
+  </div>
+  <div class="folio label sm" style="color:var(--white-beach)"><span>03 / 09</span><span>Alma House</span></div>
+</section>
+
+<!-- III · Tres sillas (C) -->
+<section class="slide C bg-brown grain light-grain" data-file="02-codigos-04.png">
+  <div class="numeral">III</div>
+  <div class="chairs"><span></span><span></span><span></span></div>
+  <div class="t">
+    <p class="num label"><span>Código III</span><span class="hairline"></span></p>
+    <h2 class="serif">Tres sillas.<br><em>Ni una más.</em></h2>
+    <p class="body" style="color:rgba(247,239,231,.85)">Porque la intimidad no se produce en serie. Y porque así te podemos atender como mereces.</p>
+  </div>
+  <div class="folio label sm"><span>04 / 09</span><span>Alma House</span></div>
+</section>
+
+<!-- IV · El café (A) -->
+<section class="slide A bg-cream grain" data-file="02-codigos-05.png">
+  <div class="photo grade"><img src="../../assets/photos/codigos-cafe-espresso.jpg" alt="" style="object-position:50% 50%"></div>
+  <div class="txt">
+    <p class="num label"><span>Código IV</span><span class="hairline"></span></p>
+    <h2 class="serif">El café llega<br><em>antes que la lima.</em></h2>
+    <p class="body">Apenas te sientas. No después, no “si sobra tiempo”.</p>
+  </div>
+  <div class="folio label sm" style="color:var(--bakery-brown)"><span>05 / 09</span><span>Alma House</span></div>
+</section>
+
+<!-- V · Kit individual (B) -->
+<section class="slide B grain light-grain" data-file="02-codigos-06.png">
+  <div class="photo grade shade-bottom"><img src="../../assets/photos/codigos-kit-higiene.jpg" alt="" style="object-position:50% 20%"></div>
+  <div class="t">
+    <p class="num label"><span>Código V</span><span class="hairline"></span></p>
+    <h2 class="serif">Kit individual.<br><em>Siempre.</em></h2>
+    <p class="body">Instrumental esterilizado, a la vista. La higiene no se anuncia: se demuestra.</p>
+  </div>
+  <div class="folio label sm" style="color:var(--white-beach)"><span>06 / 09</span><span>Alma House</span></div>
+</section>
+
+<!-- VI · Tu nombre (A) -->
+<section class="slide A bg-cream grain" data-file="02-codigos-07.png">
+  <div class="photo grade"><img src="../../assets/photos/codigos-nombre-taza.jpg" alt="" style="object-position:50% 40%"></div>
+  <div class="txt">
+    <p class="num label"><span>Código VI</span><span class="hairline"></span></p>
+    <h2 class="serif">Te llamamos<br><em>por tu nombre.</em></h2>
+    <p class="body">Y recordamos cómo te gusta el café. Y el tono de la última vez.</p>
+  </div>
+  <div class="folio label sm" style="color:var(--bakery-brown)"><span>07 / 09</span><span>Alma House</span></div>
+</section>
+
+<!-- VII · El silencio (C) -->
+<section class="slide C bg-blush grain" data-file="02-codigos-08.png">
+  <div class="numeral" style="color:var(--hot-brown); opacity:.12">VII</div>
+  <div class="t">
+    <p class="num label" style="color:var(--hot-brown)"><span>Código VII</span><span class="hairline"></span></p>
+    <h2 class="serif" style="color:var(--espresso)">El silencio<br><em style="color:var(--hot-brown)">también se ofrece.</em></h2>
+    <p class="body" style="color:#4a3d33">Si quieres conversar, conversamos. Si no, el silencio es tuyo. Aquí la charla es opción, nunca obligación.</p>
+  </div>
+  <div class="folio label sm" style="color:var(--hot-brown)"><span>08 / 09</span><span>Alma House</span></div>
+</section>
+
+<!-- Cierre -->
+<section class="slide close bg-espresso grain light-grain" data-file="02-codigos-09.png">
+  <img class="iso" src="../../assets/brand/logos/isotipo-crema.png" alt="">
+  <h2 class="serif">Bienvenida<br><em>a casa.</em></h2>
+  <p class="body">Guarda estos códigos. Los vas a sentir desde que cruces la puerta.</p>
+  <p class="cta label pill">Reserva tu hora &nbsp;·&nbsp; WhatsApp 311 566 2051</p>
+  <div class="folio label sm" style="color:var(--smoke-dragon)"><span>09 / 09</span><span>CC Montaña Plaza · Piso 2 · Cajicá</span></div>
+</section>
+
+</body>
+</html>

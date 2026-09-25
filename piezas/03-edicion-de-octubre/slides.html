@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>03 · La edición de octubre — Alma House</title>
+<link rel="stylesheet" href="../../assets/css/alma.css">
+<style>
+  /* Uña-muestra: forma almendra con brillo de esmalte */
+  .nail {
+    position: relative; width: 150px; height: 220px;
+    border-radius: 50% 50% 46% 46% / 62% 62% 38% 38%;
+    background: var(--c);
+    box-shadow: inset -10px -14px 26px rgba(0,0,0,.28), inset 8px 10px 18px rgba(255,255,255,.12), 0 20px 40px rgba(40,25,15,.18);
+  }
+  .nail::after {
+    content: ''; position: absolute; left: 26%; top: 12%; width: 18%; height: 42%;
+    border-radius: 50%; background: linear-gradient(180deg, rgba(255,255,255,.75), rgba(255,255,255,0));
+    filter: blur(1.5px); transform: rotate(-8deg);
+  }
+
+  /* Portada estilo revista */
+  .cover .photo img { object-position: 50% 40%; }
+  .cover .botshade { position:absolute; inset:auto 0 0 0; height:560px; z-index:4; background:linear-gradient(0deg, rgba(18,12,9,.8), rgba(18,12,9,0)); }
+  .cover .mast {
+    position: absolute; left: 0; right: 0; top: 120px; z-index: 5; text-align: center; color: var(--white-beach);
+    font-family: var(--serif); font-size: 250px; line-height: .8; letter-spacing: -.035em;
+  }
+  .cover .mast em { color: var(--smoke-dragon); }
+  .cover .issue { position: absolute; left: 72px; right: 72px; top: 400px; z-index: 5; display: flex; justify-content: space-between; color: var(--white-beach); }
+  .cover .lines { position: absolute; left: 72px; right: 72px; bottom: 140px; z-index: 5; color: var(--white-beach); }
+  .cover .lines .big { font-family: var(--serif); font-size: 84px; line-height: .98; }
+  .cover .lines .big em { color: var(--smoke-dragon); }
+  .cover .lines .label { color: var(--smoke-dragon); margin-top: 30px; line-height: 1.8; }
+  .cover .topshade { position:absolute; inset:0 0 auto 0; height:620px; z-index:4; background:linear-gradient(180deg, rgba(18,12,9,.62), rgba(18,12,9,0)); }
+
+  /* Tono */
+  .tone { display: grid; grid-template-columns: 1fr 520px; }
+  .tone.flip { grid-template-columns: 520px 1fr; }
+  .tone.flip .info { order: 2; }
+  .tone .pic { position: relative; overflow: hidden; }
+  .tone .pic img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .tone .info { position: relative; padding: 150px 64px 140px 72px; display: flex; flex-direction: column; }
+  .tone.flip .info { padding: 150px 72px 140px 64px; }
+  .tone .idx { color: var(--bakery-brown); display: flex; align-items: center; gap: 18px; }
+  .tone .idx .hairline { width: 60px; background: var(--bakery-brown); }
+  .tone .nail { margin: 70px 0 64px; }
+  .tone h2 { font-size: 104px; line-height: .9; letter-spacing: -.02em; color: var(--ink); }
+  .tone h2 em { color: var(--c); }
+  .tone .line { margin-top: 30px; font-family: var(--serif); font-style: italic; font-size: 40px; line-height: 1.18; color: #5a4c40; }
+  .tone .meta { margin-top: auto; border-top: 1px solid rgba(50,52,42,.2); padding-top: 26px; color: var(--bakery-brown); line-height: 1.9; }
+  .tone .hex { font-family: var(--sans); font-size: 18px; letter-spacing: .12em; color: #8b7d6c; margin-top: 12px; }
+
+  /* Cierre */
+  .close { padding: 200px 72px 0; }
+  .close h2 { font-size: 132px; line-height: .9; letter-spacing: -.02em; color: var(--white-beach); }
+  .close h2 em { color: var(--smoke-dragon); }
+  .close .row { display: flex; justify-content: space-between; margin-top: 150px; }
+  .close .row figure { display: flex; flex-direction: column; align-items: center; gap: 30px; }
+  .close .row .nail { width: 140px; height: 206px; }
+  .close .row figcaption { color: var(--smoke-dragon); text-align: center; font-size: 15px; }
+  .close .cta { margin-top: 150px; color: var(--white-beach); }
+  .close .note { margin-top: 30px; font-size: 22px; color: rgba(247,239,231,.6); max-width: 800px; line-height: 1.5; }
+</style>
+</head>
+<body>
+
+<!-- Portada -->
+<section class="slide cover grain light-grain" data-file="03-edicion-01.png">
+  <div class="photo grade-deep shade-bottom"><img src="../../assets/photos/edicion-portada-as.jpg" alt=""></div>
+  <div class="topshade"></div><div class="botshade"></div>
+  <div class="masthead label sm" style="color:var(--white-beach)"><span>Alma House</span><span class="rule"></span><span>Nº 03 — Color</span></div>
+  <div class="mast">Oc<em>tubre</em></div>
+  <div class="issue label sm"><span>La edición de temporada</span><span>Otoño · 2026</span></div>
+  <div class="lines">
+    <p class="big">Cinco tonos.<br><em>Cero improvisación.</em></p>
+    <p class="label sm">Del cereza negra al verde oliva · Curados por la casa</p>
+  </div>
+  <div class="folio label sm" style="color:var(--white-beach)"><span>01 / 07</span><span class="swipe">Desliza</span></div>
+</section>
+
+<!-- Tono 01 -->
+<section class="slide tone bg-cream grain" style="--c:#4A1018" data-file="03-edicion-02.png">
+  <div class="info">
+    <p class="idx label sm"><span>Tono 01 / 05</span><span class="hairline"></span></p>
+    <div class="nail"></div>
+    <h2 class="serif">Cereza<br><em>negra.</em></h2>
+    <p class="line">Profundo, casi negro. Para la que no necesita levantar la voz.</p>
+    <div class="meta label sm">Noches de octubre<div class="hex">REF · #4A1018</div></div>
+  </div>
+  <div class="pic grade"><img src="../../assets/photos/edicion-cereza-negra.jpg" alt="" style="object-position:40% 50%"></div>
+</section>
+
+<!-- Tono 02 -->
+<section class="slide tone flip bg-paper grain" style="--c:#8E1C17" data-file="03-edicion-03.png">
+  <div class="info">
+    <p class="idx label sm"><span>Tono 02 / 05</span><span class="hairline"></span></p>
+    <div class="nail"></div>
+    <h2 class="serif">Rojo<br><em>casa.</em></h2>
+    <p class="line">El clásico, en versión Alma: cálido, terroso, sin estridencia.</p>
+    <div class="meta label sm">El que nunca falla<div class="hex">REF · #8E1C17</div></div>
+  </div>
+  <div class="pic grade"><img src="../../assets/photos/edicion-rojo-casa.jpg" alt="" style="object-position:38% 50%"></div>
+</section>
+
+<!-- Tono 03 -->
+<section class="slide tone bg-cream grain" style="--c:#C99D86" data-file="03-edicion-04.png">
+  <div class="info">
+    <p class="idx label sm"><span>Tono 03 / 05</span><span class="hairline"></span></p>
+    <div class="nail"></div>
+    <h2 class="serif">Café<br><em>con leche.</em></h2>
+    <p class="line">El nude que parece tu uña, pero en su mejor día.</p>
+    <div class="meta label sm">De lunes a lunes<div class="hex">REF · #C99D86</div></div>
+  </div>
+  <div class="pic grade"><img src="../../assets/photos/edicion-cafe-con-leche.jpg" alt="" style="object-position:45% 40%"></div>
+</section>
+
+<!-- Tono 04 -->
+<section class="slide tone flip bg-paper grain" style="--c:#EADCD2" data-file="03-edicion-05.png">
+  <div class="info">
+    <p class="idx label sm"><span>Tono 04 / 05</span><span class="hairline"></span></p>
+    <div class="nail"></div>
+    <h2 class="serif">Leche de<br><em style="color:#B08E7A">almendra.</em></h2>
+    <p class="line">Lechoso, luminoso, silencioso. Elegancia que no pide permiso.</p>
+    <div class="meta label sm">Manos a la vista<div class="hex">REF · #EADCD2</div></div>
+  </div>
+  <div class="pic grade"><img src="../../assets/photos/edicion-leche-almendra.jpg" alt="" style="object-position:50% 50%"></div>
+</section>
+
+<!-- Tono 05 -->
+<section class="slide tone bg-cream grain" style="--c:#56632F" data-file="03-edicion-06.png">
+  <div class="info">
+    <p class="idx label sm"><span>Tono 05 / 05</span><span class="hairline"></span></p>
+    <div class="nail"></div>
+    <h2 class="serif">Verde<br><em>oliva.</em></h2>
+    <p class="line">El inesperado. Para cuando el rojo ya te lo sabes de memoria.</p>
+    <div class="meta label sm">Para atreverse<div class="hex">REF · #56632F</div></div>
+  </div>
+  <div class="pic grade"><img src="../../assets/photos/edicion-salvia.jpg" alt="" style="object-position:50% 50%"></div>
+</section>
+
+<!-- Cierre -->
+<section class="slide close bg-espresso grain light-grain" data-file="03-edicion-07.png">
+  <div class="masthead label sm" style="color:var(--smoke-dragon)"><span>Alma House</span><span class="rule"></span><span>Nº 03 — Color</span></div>
+  <h2 class="serif">¿Cuál es<br><em>el tuyo?</em></h2>
+  <div class="row">
+    <figure><div class="nail" style="--c:#4A1018"></div><figcaption class="label sm">Cereza<br>negra</figcaption></figure>
+    <figure><div class="nail" style="--c:#8E1C17"></div><figcaption class="label sm">Rojo<br>casa</figcaption></figure>
+    <figure><div class="nail" style="--c:#C99D86"></div><figcaption class="label sm">Café<br>con leche</figcaption></figure>
+    <figure><div class="nail" style="--c:#EADCD2"></div><figcaption class="label sm">Leche de<br>almendra</figcaption></figure>
+    <figure><div class="nail" style="--c:#56632F"></div><figcaption class="label sm">Verde<br>oliva</figcaption></figure>
+  </div>
+  <p class="cta label pill">Dínoslo al reservar &nbsp;·&nbsp; WhatsApp 311 566 2051</p>
+  <p class="note">Tonos de referencia. En tu cita te asesoramos con el equivalente exacto de nuestra carta de color.</p>
+  <div class="folio label sm" style="color:var(--smoke-dragon)"><span>07 / 07</span><span>Guárdalo para tu próxima cita</span></div>
+</section>
+
+</body>
+</html>

@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>05 · Reel — Todo puede esperar una hora — Alma House</title>
+<link rel="stylesheet" href="../../assets/css/alma.css">
+<style>
+  /* Portada del reel (9:16). Todo lo importante vive entre y=285 y y=1635:
+     es la franja que Instagram muestra al recortar la portada a 4:5 en el grid. */
+  .cover { background: #120d0a; }
+  .cover .photo { bottom: auto; height: 1180px; }
+  .cover .photo img { object-position: 50% 40%; }
+  .cover .t { position: absolute; left: 72px; right: 72px; top: 1090px; z-index: 5; color: var(--white-beach); }
+  .cover .kick { color: var(--smoke-dragon); margin-bottom: 34px; }
+  .cover h1 { font-size: 150px; line-height: .9; letter-spacing: -.025em; }
+  .cover h1 em { color: var(--smoke-dragon); }
+  .cover .masthead { top: 330px; }
+  .cover .topshade { position:absolute; inset:0 0 auto 0; height:700px; z-index:4; background:linear-gradient(180deg, rgba(18,12,9,.55), rgba(18,12,9,0)); }
+  .cover .botshade { position:absolute; left:0; right:0; top:760px; height:430px; z-index:4; background:linear-gradient(0deg, #120d0a 8%, rgba(18,13,10,0)); }
+  .cover .play { position: absolute; left: 72px; top: 1560px; z-index: 5; color: var(--smoke-dragon); }
+
+  /* Textos en pantalla (fondo transparente). Zona segura de Reels: evitar 250px arriba y 420px abajo. */
+  .super { background: transparent !important; }
+  .super .box {
+    position: absolute; left: 72px; right: 72px; top: 760px;
+    display: flex; flex-direction: column; align-items: flex-start; gap: 10px;
+  }
+  .super .ln {
+    font-family: var(--serif); font-size: 104px; line-height: 1; letter-spacing: -.015em; color: var(--white-beach);
+    text-shadow: 0 4px 30px rgba(0,0,0,.35), 0 1px 2px rgba(0,0,0,.25);
+  }
+  .super .ln em { color: var(--smoke-dragon); }
+  .super .tag { color: var(--white-beach); text-shadow: 0 2px 14px rgba(0,0,0,.4); margin-bottom: 14px; }
+
+  /* Placa de cierre */
+  .end { display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
+  .end .iso { width: 170px; margin-bottom: 80px; }
+  .end h2 { font-size: 150px; line-height: .9; color: var(--white-beach); }
+  .end h2 em { color: var(--smoke-dragon); }
+  .end .logo { width: 460px; margin-top: 130px; }
+  .end .cta { margin-top: 90px; color: var(--white-beach); }
+  .end .addr { margin-top: 40px; color: var(--smoke-dragon); line-height: 1.9; }
+</style>
+</head>
+<body>
+
+<!-- Portada -->
+<section class="slide story cover grain light-grain" data-file="05-reel-portada.png">
+  <div class="photo grade-deep"><img src="../../assets/photos/codigos-reserva-cafe.jpg" alt=""></div>
+  <div class="topshade"></div><div class="botshade"></div>
+  <div class="masthead label sm" style="color:var(--white-beach)"><span>Alma House</span><span class="rule"></span><span>Nº 05 — Reel</span></div>
+  <div class="t">
+    <p class="label kick">Una hora en Alma House</p>
+    <h1 class="serif">Todo puede<br>esperar<br><em>una hora.</em></h1>
+  </div>
+  <p class="play label sm">▶ &nbsp;Con sonido</p>
+</section>
+
+<!-- Supers (PNG transparentes) -->
+<section class="slide story super" data-transparent data-file="05-reel-super-01-dejalo-vibrar.png">
+  <div class="box"><p class="ln serif">Déjalo<br><em>vibrar.</em></p></div>
+</section>
+
+<section class="slide story super" data-transparent data-file="05-reel-super-02-correos.png">
+  <div class="box"><p class="label tag">Mientras tanto, allá afuera</p><p class="ln serif">Correos.</p></div>
+</section>
+
+<section class="slide story super" data-transparent data-file="05-reel-super-03-grupos.png">
+  <div class="box"><p class="label tag">Mientras tanto, allá afuera</p><p class="ln serif">Grupos.</p></div>
+</section>
+
+<section class="slide story super" data-transparent data-file="05-reel-super-04-audio.png">
+  <div class="box"><p class="label tag">Mientras tanto, allá afuera</p><p class="ln serif">Ese audio<br>de <em>cuatro minutos.</em></p></div>
+</section>
+
+<section class="slide story super" data-transparent data-file="05-reel-super-05-todo-puede-esperar.png">
+  <div class="box"><p class="ln serif">Todo puede esperar<br><em>una hora.</em></p></div>
+</section>
+
+<section class="slide story super" data-transparent data-file="05-reel-super-06-tu-no.png">
+  <div class="box" style="top:820px"><p class="ln serif" style="font-size:190px"><em>Tú no.</em></p></div>
+</section>
+
+<!-- Placa de cierre -->
+<section class="slide story end bg-espresso grain light-grain" data-file="05-reel-cierre.png">
+  <h2 class="serif">Una hora<br><em>para volver a ti.</em></h2>
+  <img class="logo" src="../../assets/brand/logos/logo-crema.png" alt="Alma House Nails Bar">
+  <p class="cta label pill">Reserva por WhatsApp &nbsp;·&nbsp; 311 566 2051</p>
+  <p class="addr label sm">CC Montaña Plaza · Local 7 · Piso 2<br>Km 2 vía Tabio · Cajicá</p>
+</section>
+
+</body>
+</html>

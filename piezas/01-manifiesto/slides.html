@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>01 · Manifiesto — Alma House</title>
+<link rel="stylesheet" href="../../assets/css/alma.css">
+<style>
+  /* S1 — portada */
+  .s1 .photo img { object-position: 50% 0%; }
+  .s1 .head {
+    position: absolute; left: 72px; right: 72px; bottom: 140px; z-index: 5; color: var(--white-beach);
+  }
+  .s1 h1 { font-size: 132px; line-height: .9; letter-spacing: -.025em; }
+  .s1 h1 .no { font-style: italic; color: var(--smoke-dragon); }
+  .s1 .sub { margin-top: 36px; display: flex; align-items: center; gap: 26px; }
+  .s1 .sub .hairline { width: 90px; opacity: .6; }
+  .s1 .sub p { font-family: var(--serif); font-style: italic; font-size: 44px; color: var(--white-beach); }
+
+  /* S2 — el contraste */
+  .s2 { padding: 150px 72px 110px; display:flex; flex-direction:column; justify-content:center; }
+  .s2 .intro { font-size: 40px; font-family: var(--serif); font-style: italic; color: var(--bakery-brown); margin-bottom: 40px; font-size: 46px; }
+  .s2 .row { display: grid; grid-template-columns: 150px 1fr; align-items: baseline; padding: 38px 0; border-top: 1px solid rgba(50,52,42,.18); }
+  .s2 .row:last-of-type { border-bottom: 1px solid rgba(50,52,42,.18); }
+  .s2 .row .label { color: var(--bakery-brown); }
+  .s2 .alla { font-family: var(--sans); font-size: 34px; color: #8a8672; text-decoration: line-through; text-decoration-color: rgba(153,71,29,.55); text-decoration-thickness: 2px; margin-bottom: 14px; }
+  .s2 .aqui { font-family: var(--serif); font-size: 68px; line-height: 1.02; color: var(--ink); }
+  .s2 .aqui em { color: var(--hot-brown); }
+
+  /* S3 — cierre */
+  .s3 .photo { left: 0; right: 0; top: 0; height: 580px; }
+  .s3 .photo img { object-position: 50% 20%; }
+  .s3 .copy { position: absolute; left: 72px; right: 72px; top: 632px; }
+  .s3 h2 { font-size: 100px; line-height: .98; color: var(--white-beach); }
+  .s3 h2 em { color: var(--smoke-dragon); }
+  .s3 .sign { position: absolute; left: 72px; right: 72px; bottom: 150px; display: flex; justify-content: space-between; align-items: flex-end; }
+  .s3 .sign img { width: 330px; }
+  .s3 .sign .label { color: var(--smoke-dragon); text-align: right; line-height: 1.7; }
+</style>
+</head>
+<body>
+
+<!-- S1 · Portada -->
+<section class="slide s1 grain light-grain" data-file="01-manifiesto-1.png">
+  <div class="photo grade-deep shade-bottom"><img src="../../assets/photos/manifiesto-rojo-cabello.jpg" alt=""></div>
+  <div class="masthead label" style="color:var(--white-beach)">
+    <span>Alma House</span><span class="rule"></span><span>Nº 01 — Manifiesto</span>
+  </div>
+  <div class="head">
+    <h1 class="serif">Esto <span class="no">no</span> es<br>un spa de uñas.</h1>
+    <div class="sub"><span class="hairline" style="background:var(--white-beach)"></span><p>Es una casa.</p></div>
+  </div>
+  <div class="folio label sm" style="color:var(--white-beach)"><span>Cajicá</span><span class="swipe">Desliza</span></div>
+</section>
+
+<!-- S2 · Allá / Aquí -->
+<section class="slide s2 bg-cream grain" data-file="01-manifiesto-2.png">
+  <div class="masthead label" style="color:var(--bakery-brown)">
+    <span>Alma House</span><span class="rule"></span><span>Nº 01 — Manifiesto</span>
+  </div>
+  <p class="intro">La diferencia no está en el esmalte.</p>
+
+  <div class="row">
+    <span class="label">Allá</span>
+    <div>
+      <p class="alla">te dan un turno.</p>
+      <p class="aqui serif">Aquí te guardamos <em>una hora.</em></p>
+    </div>
+  </div>
+  <div class="row">
+    <span class="label">Allá</span>
+    <div>
+      <p class="alla">cuentan clientas.</p>
+      <p class="aqui serif">Aquí recordamos <em>tu nombre.</em></p>
+    </div>
+  </div>
+  <div class="row">
+    <span class="label">Allá</span>
+    <div>
+      <p class="alla">suenan secadores, música y televisor.</p>
+      <p class="aqui serif">Aquí solo suena <em>el café.</em></p>
+    </div>
+  </div>
+  <div class="row">
+    <span class="label">Allá</span>
+    <div>
+      <p class="alla">sales con las uñas listas.</p>
+      <p class="aqui serif">Aquí sales <em>distinta.</em></p>
+    </div>
+  </div>
+
+  <div class="folio label sm" style="color:var(--bakery-brown)"><span>02 / 03</span><span class="swipe">Desliza</span></div>
+</section>
+
+<!-- S3 · Cierre -->
+<section class="slide s3 bg-forest grain light-grain" data-file="01-manifiesto-3.png">
+  <div class="photo grade"><img src="../../assets/photos/codigos-silencio-libro.jpg" alt=""></div>
+  <div class="copy">
+    <h2 class="serif">La belleza<br>es <em>la excusa.</em><br>La pausa<br>es <em>el regalo.</em></h2>
+  </div>
+  <div class="sign">
+    <img class="logo" src="../../assets/brand/logos/logo-crema.png" alt="Alma House Nails Bar">
+    <span class="label sm">CC Montaña Plaza · Piso 2<br>Cajicá</span>
+  </div>
+  <div class="folio label sm" style="color:var(--smoke-dragon)"><span>03 / 03</span><span>almahousenail.com</span></div>
+</section>
+
+</body>
+</html>

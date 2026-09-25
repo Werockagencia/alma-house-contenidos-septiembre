@@ -1,0 +1,16 @@
+{
+  "name": "alma-house-contenidos-septiembre",
+  "private": true,
+  "type": "module",
+  "description": "Alma House Nails Bar — contenidos de cierre de septiembre 2026. Piezas diseñadas en HTML/CSS con la tipografía real de marca y exportadas a PNG listas para Instagram.",
+  "scripts": {
+    "prep": "node scripts/prep-assets.mjs",
+    "render": "node scripts/render.mjs",
+    "build": "npm run prep && npm run render && npm run preview",
+    "preview": "node scripts/preview.mjs"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^23.0.0",
+    "sharp": "^0.33.0"
+  }
+}
