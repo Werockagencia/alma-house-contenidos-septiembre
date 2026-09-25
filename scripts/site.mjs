@@ -289,7 +289,7 @@ td{padding:10px 10px 10px 0;border-bottom:1px solid var(--line);vertical-align:t
     </div>
     <div class="sign">
       <img src="assets/brand/logos/logo-crema.png" alt="Alma House Nails Bar">
-      <span class="label" style="color:var(--blush)">WhatsApp 311 566 2051 · CC Montaña Plaza, piso 2 · Cajicá</span>
+      <span class="label" style="color:var(--blush)">WhatsApp 311 566 2051 · CC Montaña Plaza, local 4 · Cajicá</span>
     </div>
   </div>
 </footer>

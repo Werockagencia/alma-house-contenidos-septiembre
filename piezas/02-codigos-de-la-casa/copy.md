@@ -22,7 +22,7 @@ No son reglas para ponerte límites. Son las que nos ponemos nosotras, para que 
 Guárdalo. Lo vas a sentir desde la primera visita.
 
 Reserva tu momento por WhatsApp: 311 566 2051
-CC Montaña Plaza, local 7, piso 2 · Cajicá
+CC Montaña Plaza, local 4 · Cajicá
 
 ## Versión corta (pauta)
 

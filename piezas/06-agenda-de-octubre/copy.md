@@ -16,7 +16,7 @@ Así de sencillo:
 3. Llega. El resto es nuestro.
 
 Manicure y pedicure · tradicional, semipermanente, secado rápido, acrílico y polygel.
-CC Montaña Plaza, local 7, piso 2 (Km 2 vía Tabio) · Cajicá
+CC Montaña Plaza, local 4 (Km 2 vía Tabio) · Cajicá
 
 ## Versión corta (pauta)
 

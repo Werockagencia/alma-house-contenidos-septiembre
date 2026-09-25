@@ -21,7 +21,7 @@ Lo que sí vas a escuchar:
 Envíaselo a la amiga que necesita esta casa.
 
 Reserva tu momento por WhatsApp: 311 566 2051
-CC Montaña Plaza, local 7, piso 2 · Cajicá
+CC Montaña Plaza, local 4 · Cajicá
 
 ## Versión corta (pauta)
 

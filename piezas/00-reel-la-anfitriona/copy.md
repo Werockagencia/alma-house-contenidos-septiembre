@@ -17,7 +17,7 @@ Esta es la nuestra. Soñamos Alma House como el lugar al que siempre quisimos ll
 Ya está abierta. Y te estamos esperando.
 
 Alma House · Nails Bar
-CC Montaña Plaza, local 7, piso 2 (Km 2 vía Tabio), Cajicá
+CC Montaña Plaza, local 4 (Km 2 vía Tabio), Cajicá
 Reserva tu momento por WhatsApp: 311 566 2051
 
 ## Hashtags

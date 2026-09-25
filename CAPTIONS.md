@@ -17,7 +17,7 @@ Esta es la nuestra. Soñamos Alma House como el lugar al que siempre quisimos ll
 Ya está abierta. Y te estamos esperando.
 
 Alma House · Nails Bar
-CC Montaña Plaza, local 7, piso 2 (Km 2 vía Tabio), Cajicá
+CC Montaña Plaza, local 4 (Km 2 vía Tabio), Cajicá
 Reserva tu momento por WhatsApp: 311 566 2051
 
 #AlmaHouse #Cajicá #NailBarCajicá #EmprendimientoFemenino #DetrásDeLaMarca #UnaHoraParaTi
@@ -39,7 +39,7 @@ Allá cuentan clientas. Aquí recordamos tu nombre.
 La belleza es la excusa. La pausa es el regalo.
 
 Alma House · Nails Bar
-CC Montaña Plaza, local 7, piso 2 (Km 2 vía Tabio), Cajicá
+CC Montaña Plaza, local 4 (Km 2 vía Tabio), Cajicá
 Reserva tu momento por WhatsApp: 311 566 2051
 
 #AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #UnaHoraParaTi #BellezaConAlma
@@ -69,7 +69,7 @@ Lo que sí vas a escuchar:
 Envíaselo a la amiga que necesita esta casa.
 
 Reserva tu momento por WhatsApp: 311 566 2051
-CC Montaña Plaza, local 7, piso 2 · Cajicá
+CC Montaña Plaza, local 4 · Cajicá
 
 #AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #CosasDeSalón #UnaHoraParaTi
 
@@ -94,7 +94,7 @@ Así de sencillo:
 3. Llega. El resto es nuestro.
 
 Manicure y pedicure · tradicional, semipermanente, secado rápido, acrílico y polygel.
-CC Montaña Plaza, local 7, piso 2 (Km 2 vía Tabio) · Cajicá
+CC Montaña Plaza, local 4 (Km 2 vía Tabio) · Cajicá
 
 #AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #PedicureCajicá #ReservaTuMomento
 
@@ -121,7 +121,7 @@ Cinco tonos. Cero improvisación.
 
 ¿Cuál es el tuyo? Cuéntanos en comentarios, o dínoslo al reservar y lo tenemos listo.
 
-WhatsApp 311 566 2051 · CC Montaña Plaza, piso 2 · Cajicá
+WhatsApp 311 566 2051 · CC Montaña Plaza, local 4 · Cajicá
 
 #AlmaHouse #OctoberNails #UñasOtoño #CherryNails #Cajicá #NailBarCajicá
 
@@ -151,7 +151,7 @@ No son reglas para ponerte límites. Son las que nos ponemos nosotras, para que 
 Guárdalo. Lo vas a sentir desde la primera visita.
 
 Reserva tu momento por WhatsApp: 311 566 2051
-CC Montaña Plaza, local 7, piso 2 · Cajicá
+CC Montaña Plaza, local 4 · Cajicá
 
 #AlmaHouse #Cajicá #NailBarCajicá #ManicurePremium #SlowBeauty #Autocuidado
 
@@ -175,7 +175,7 @@ Tú no.
 En Alma House el celular se queda boca abajo, el café llega recién servido y tu momento dura lo que tenga que durar. Sin reloj encima.
 
 Reserva tu momento por WhatsApp: 311 566 2051
-CC Montaña Plaza, local 7, piso 2 · Cajicá
+CC Montaña Plaza, local 4 · Cajicá
 
 #AlmaHouse #Cajicá #TuMomento #SlowLiving #NailBarCajicá #Autocuidado
 

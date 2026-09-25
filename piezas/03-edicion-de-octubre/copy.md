@@ -19,7 +19,7 @@ Cinco tonos. Cero improvisación.
 
 ¿Cuál es el tuyo? Cuéntanos en comentarios, o dínoslo al reservar y lo tenemos listo.
 
-WhatsApp 311 566 2051 · CC Montaña Plaza, piso 2 · Cajicá
+WhatsApp 311 566 2051 · CC Montaña Plaza, local 4 · Cajicá
 
 ## Versión corta (pauta)
 

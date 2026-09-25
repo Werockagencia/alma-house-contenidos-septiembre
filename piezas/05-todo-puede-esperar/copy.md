@@ -16,7 +16,7 @@ Tú no.
 En Alma House el celular se queda boca abajo, el café llega recién servido y tu momento dura lo que tenga que durar. Sin reloj encima.
 
 Reserva tu momento por WhatsApp: 311 566 2051
-CC Montaña Plaza, local 7, piso 2 · Cajicá
+CC Montaña Plaza, local 4 · Cajicá
 
 ## Versión corta
 

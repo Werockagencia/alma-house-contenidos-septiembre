@@ -129,4 +129,4 @@ CAPTIONS.md                todos los captions en orden de publicación
 
 ---
 
-**Datos de contacto usados en las piezas:** WhatsApp +57 311 566 2051 · CC Montaña Plaza, local 7, piso 2 (Km 2 vía Tabio), Cajicá · almahousenail.com
+**Datos de contacto usados en las piezas:** WhatsApp +57 311 566 2051 · CC Montaña Plaza, local 4 (Km 2 vía Tabio), Cajicá · almahousenail.com
