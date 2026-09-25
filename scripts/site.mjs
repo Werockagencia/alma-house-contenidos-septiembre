@@ -276,14 +276,14 @@ td{padding:10px 10px 10px 0;border-bottom:1px solid var(--line);vertical-align:t
       <div>
         <p class="label">Sobre las imágenes</p>
         <h4>Fotografía de referencia</h4>
-        <p>Salvo el reel de la anfitriona, filmado en el local, las fotografías vienen del tablero de Pinterest aprobado por la cliente y pertenecen a sus autores. Se usan como dirección de arte en contenido orgánico, no en pauta paga. El registro de fuentes está en <a href="assets/pinterest/SOURCES.md">SOURCES.md</a>.</p>
+        <p>Salvo el reel de la anfitriona, filmado en el local, las fotografías vienen del tablero de Pinterest aprobado por la cliente y pertenecen a sus autores. Se usan como dirección de arte en contenido orgánico, no en pauta paga. El registro de fuentes está en <a href="${REPO}/blob/main/assets/pinterest/SOURCES.md" target="_blank">SOURCES.md</a>.</p>
         <p>Si más adelante una pieza va a pauta, se reemplaza la foto por una sesión propia con la misma dirección, sin rehacer el diseño.</p>
       </div>
       <div>
         <p class="label">Archivos</p>
         <h4>Todo listo para subir</h4>
         <p>Cada imagen de esta página abre su PNG final (1080×1350 feed · 1080×1920 historias y reels). Los captions de todo el mes están también en un solo documento.</p>
-        <a class="btn" href="CAPTIONS.md">Todos los captions</a>
+        <a class="btn" href="${REPO}/blob/main/CAPTIONS.md" target="_blank">Todos los captions</a>
         <a class="btn" href="${REPO}/archive/refs/heads/main.zip">Descargar todo (.zip)</a>
       </div>
     </div>
