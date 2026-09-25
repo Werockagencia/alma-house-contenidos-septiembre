@@ -20,7 +20,7 @@ Alma House · Nails Bar
 CC Montaña Plaza, local 4 (Km 2 vía Tabio), Cajicá
 Reserva tu momento por WhatsApp: 311 566 2051
 
-#AlmaHouse #Cajicá #NailBarCajicá #EmprendimientoFemenino #DetrásDeLaMarca #UnaHoraParaTi
+#AlmaHouse #Cajicá #NailBarCajicá #EmprendimientoFemenino #DetrásDeLaMarca #TuMomento
 
 ---
 
@@ -42,7 +42,7 @@ Alma House · Nails Bar
 CC Montaña Plaza, local 4 (Km 2 vía Tabio), Cajicá
 Reserva tu momento por WhatsApp: 311 566 2051
 
-#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #UnaHoraParaTi #BellezaConAlma
+#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #TuMomento #BellezaConAlma
 
 ### Versión corta
 
@@ -71,7 +71,7 @@ Envíaselo a la amiga que necesita esta casa.
 Reserva tu momento por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #CosasDeSalón #UnaHoraParaTi
+#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #CosasDeSalón #TuMomento
 
 ### Versión corta
 

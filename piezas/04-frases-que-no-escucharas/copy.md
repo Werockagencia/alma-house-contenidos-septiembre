@@ -29,7 +29,7 @@ En Alma House nadie te dice "¿quién sigue?". Te llamamos por tu nombre, tu cit
 
 ## Hashtags
 
-#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #CosasDeSalón #UnaHoraParaTi
+#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #CosasDeSalón #TuMomento
 
 ## Texto alternativo
 

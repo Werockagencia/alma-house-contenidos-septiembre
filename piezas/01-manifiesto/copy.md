@@ -26,7 +26,7 @@ Esto no es un spa de uñas. Es una casa en Cajicá donde tu momento es solo tuyo
 
 ## Hashtags
 
-#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #UnaHoraParaTi #BellezaConAlma
+#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #TuMomento #BellezaConAlma
 
 ## Texto alternativo
 

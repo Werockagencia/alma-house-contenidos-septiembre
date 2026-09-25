@@ -22,7 +22,7 @@ Reserva tu momento por WhatsApp: 311 566 2051
 
 ## Hashtags
 
-#AlmaHouse #Cajicá #NailBarCajicá #EmprendimientoFemenino #DetrásDeLaMarca #UnaHoraParaTi
+#AlmaHouse #Cajicá #NailBarCajicá #EmprendimientoFemenino #DetrásDeLaMarca #TuMomento
 
 ## Texto alternativo (portada)
 
