@@ -305,4 +305,26 @@ document.querySelectorAll('.copy').forEach(b => b.addEventListener('click', asyn
 </html>
 `;
 await writeFile(path.join(ROOT, 'index.html'), html);
-console.log(`index.html · CAPTIONS.md · web/ (${pieces.reduce((a, p) => a + p.slides.length, 0)} imágenes)`);
+
+// ---------- artifact.html ----------
+// Misma página, adaptada al sandbox de claude.ai Artifacts: sin esqueleto propio,
+// fuentes embebidas como data URI y archivos pesados (PNG finales, captions) enlazados al repo.
+const fontData = async f => `data:font/${f.endsWith('.ttf') ? 'ttf' : 'otf'};base64,${(await readFile(path.join(ROOT, 'assets/brand/fonts', f))).toString('base64')}`;
+let art = html
+  .replace(/^[\s\S]*?<title>/, '<title>')
+  .replace(/<link rel="icon"[^>]*>\n/, '')
+  .replace('</head>\n<body>\n', '')
+  .replace('</body>\n</html>\n', '')
+  .replace(/:root\{--cream/, ':root{color-scheme:light;--cream');
+for (const f of ['aurora-serif-italic.otf', 'aurora-serif.otf', 'uncage-vf.ttf', 'figtree-vf.ttf'])
+  art = art.replaceAll(`url('assets/brand/fonts/${f}')`, `url('${await fontData(f)}')`);
+art = art
+  .replace(/href="(piezas\/[^"]+\.png)"/g, `href="${REPO}/blob/main/$1"`)
+  .replace('href="CAPTIONS.md"', `href="${REPO}/blob/main/CAPTIONS.md" target="_blank"`)
+  .replace('href="assets/pinterest/SOURCES.md"', `href="${REPO}/blob/main/assets/pinterest/SOURCES.md" target="_blank"`)
+  .replace(`href="${REPO}/archive/refs/heads/main.zip"`, `href="${REPO}" target="_blank"`)
+  .replace('>Descargar todo (.zip)<', '>Abrir el repositorio<')
+  .replace('clic en una imagen para abrir el PNG final', 'clic en una imagen para abrir el PNG final en el repositorio');
+await writeFile(path.join(ROOT, 'artifact.html'), art);
+
+console.log(`index.html · artifact.html · CAPTIONS.md · web/ (${pieces.reduce((a, p) => a + p.slides.length, 0)} imágenes)`);

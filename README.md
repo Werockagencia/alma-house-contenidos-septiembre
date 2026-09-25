@@ -3,7 +3,7 @@
 **Contenidos de cierre de septiembre 2026 · Instagram**
 Por **We Rock Agencia** para Alma House Nails Bar (Cajicá).
 
-**Página de revisión (captions con botón copiar, carruseles, video):** https://werockagencia.github.io/alma-house-contenidos-septiembre/
+**Página de revisión (captions con botón copiar, carruseles, video):** https://claude.ai/artifact/Aphehb9YoQnBBLDQ3v3BTn (Artifact privado de claude.ai; se comparte desde su menú Share). `index.html` es la misma página, lista para GitHub Pages si el repo se hace público.
 **Todos los captions en un documento:** [CAPTIONS.md](CAPTIONS.md)
 
 ![Así queda el perfil tras publicar las 7 piezas](preview/feed-grid.jpg)
