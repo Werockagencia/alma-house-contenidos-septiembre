@@ -22,21 +22,21 @@ CC Montaña Plaza, local 4 · Cajicá
 
 ---
 
-## Nº 08 · Tres secretos para que te duren más
+## Nº 08 · ¿Cuál eliges?
 **Jue 22 oct · 12:30 p. m.** · Reel · 20–25 s
 
-Tres secretos para que tus uñas te duren más. 📌
+Solo puedes elegir uno. ¿1, 2 o 3? 👇
 
-1 · Guantes para lavar la loza: el agua caliente y el jabón son sus peores enemigos.
-2 · Una gotica de aceite en la cutícula todas las noches.
-3 · Tus uñas no son herramientas: nada de abrir latas con ellas.
+1 · Cereza negra: la reina de octubre.
+2 · Rojo casa: el que nunca falla.
+3 · Espresso: casi negro.
 
-Guárdalo para no olvidarlo. Y el miércoles 28 tienes 15% en todos los servicios.
+Y el miércoles 28 tienes 15% en todos los servicios para estrenarlo.
 
 Reserva por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #TipsDeUñas #CuidadoDeUñas #Cajicá #NailBarCajicá #TuMomento
+#AlmaHouse #UñasDeTemporada #Cajicá #NailBarCajicá #TuMomento #ColoresDeOtoño
 
 ---
 

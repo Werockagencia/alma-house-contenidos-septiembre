@@ -24,7 +24,7 @@ El capítulo IV lo cuenta **Yissel, hablando a cámara en los 6 reels**: la anfi
 | Fecha | Nº | Reel | La idea |
 |---|---|---|---|
 | Mar 20 oct · 7:00 p. m. | 07 | [Afuera todo corre. Adentro, tú.](piezas/07-pov-llegas-a-tu-momento/guion.md) | El día de la clienta (notificaciones, trancón) y luego Yissel a cámara: "¿cómo llegas hoy?". El celular puede esperar |
-| Jue 22 oct · 12:30 p. m. | 08 | [Tres secretos para que te duren más](piezas/08-que-te-duren-mas/guion.md) | Yissel da tres consejos en su estación: contenido que se guarda. Empuja el miércoles 28 con 15% |
+| Jue 22 oct · 12:30 p. m. | 08 | [¿Cuál eliges?](piezas/08-cual-eliges/guion.md) | Yissel presenta tres tonos de octubre y pide que comenten 1, 2 o 3. Empuja el miércoles 28 con 15% |
 | Mar 27 oct · 7:00 p. m. | 09 | [Así preparo la casa antes de que llegues](piezas/09-asi-preparo-la-casa/guion.md) | Yissel abre el local: luces, café, toalla y la silla lista. "Ahora solo faltas tú" |
 | Jue 29 oct · 7:00 p. m. | 10 | [Algo se está sirviendo](piezas/10-algo-se-esta-sirviendo/guion.md) | Yissel cuenta un secreto a medias: en noviembre vas a querer venir con tu amiga. Copas y brindis |
 | Mar 3 nov · 8:00 p. m. | 11 | [El sonido de tu momento](piezas/11-el-sonido-de-tu-momento/guion.md) | ASMR: Yissel abre y cierra en susurro; en el medio solo los sonidos reales |
@@ -35,7 +35,6 @@ Cada guion trae: la idea, **lo que dice Yissel**, el gancho de los primeros 2 se
 ## Por validar con Yissel
 
 - [ ] Café para todas las clientas (lo dicen los reels 07 y 09)
-- [ ] Que los tres consejos del reel 08 son los que ella da (si tiene otros favoritos, se cambian)
 - [ ] Carta de cócteles y Miércoles de Amigas en noviembre, y si los cócteles tienen alcohol (reel 10)
 - [ ] Permiso de la clienta del antes y después (reel 12)
 
