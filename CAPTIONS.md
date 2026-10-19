@@ -40,19 +40,21 @@ CC Montaña Plaza, local 4 · Cajicá
 
 ---
 
-## Nº 09 · Así preparo la casa antes de que llegues
+## Nº 09 · Tres secretos para que te duren más
 **Mar 27 oct · 7:00 p. m.** · Reel · 20–25 s
 
-Antes de que llegues, la casa se prepara para ti. ☕
+Tres secretos para que tus uñas te duren más. 📌
 
-Las luces, el café, la toalla doblada y tu silla lista. Son detalles que no se ven, pero que hacen que cuando entres todo esté esperándote.
+1 · Guantes para lavar la loza: el agua caliente y el jabón son sus peores enemigos.
+2 · Una gotica de aceite en la cutícula todas las noches.
+3 · Tus uñas no son herramientas: nada de abrir latas con ellas.
 
-Ya está todo listo. Ahora solo faltas tú.
+Guárdalo para no olvidarlo. Y mañana, miércoles 28, tienes 15% en todos los servicios.
 
-Reserva tu momento por WhatsApp: 311 566 2051
+Reserva por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #DetrásDeCámaras #TuMomento #Cajicá #NailBarCajicá #EmprendimientoFemenino
+#AlmaHouse #TipsDeUñas #CuidadoDeUñas #Cajicá #NailBarCajicá #TuMomento
 
 ---
 

@@ -155,7 +155,7 @@ code{font-size:13px;background:rgba(153,71,29,.08);padding:1px 5px;border-radius
 <main class="wrap">
   <section class="sec">
     <h2>La continuidad</h2>
-    <p>El capítulo I creó la expectativa, el II abrió la puerta y el III mostró los códigos de la casa. El IV lo cuenta Yissel: la anfitriona que abrió la puerta en el reel Nº 00 ahora le habla a cámara en cada reel. Habla de cómo llegas, de sus colores de octubre, de cómo prepara la casa antes de que llegues, de lo que viene en noviembre, del sonido de la casa y de un resultado real. Todo se graba con un celular, dentro del local. La gente le compra a personas: una cara y una voz constantes hacen que la marca se sienta cercana.</p>
+    <p>El capítulo I creó la expectativa, el II abrió la puerta y el III mostró los códigos de la casa. El IV lo cuenta Yissel: la anfitriona que abrió la puerta en el reel Nº 00 ahora le habla a cámara en cada reel. Habla de cómo llegas, de sus colores de octubre, de sus secretos para que las uñas duren, de lo que viene en noviembre, del sonido de la casa y de un resultado real. Todo se graba con un celular, dentro del local. La gente le compra a personas: una cara y una voz constantes hacen que la marca se sienta cercana.</p>
   </section>
 
   <section class="sec">
@@ -166,7 +166,7 @@ code{font-size:13px;background:rgba(153,71,29,.08);padding:1px 5px;border-radius
       <li><b>Bloquea el enfoque y la exposición:</b> deja el dedo presionado sobre lo que quieres enfocar.</li>
       <li><b>Pulso firme:</b> celular con las dos manos y los codos pegados al cuerpo, movimientos lentos y nada de zoom digital.</li>
       <li>Graba <b>2 o 3 segundos de más</b> antes y después de cada toma, y repite las importantes.</li>
-      <li><b>Todo en el local, con un solo celular.</b> Orden sugerido para hoy: primero el 09 (con el local vacío), luego 07, 08, 10 y 11, y el 12 cuando haya una clienta. Las tomas del carro y el portátil del 07 se pueden grabar en otro momento.</li>
+      <li><b>Todo en el local, con un solo celular.</b> Orden sugerido para hoy: 07, 08, 09, 10 y 11, y el 12 cuando haya una clienta. Las tomas del carro y el portátil del 07 se pueden grabar en otro momento.</li>
       <li><b>Sonido:</b> apaga la música del local mientras Yissel habla, y para el 11 graba muy cerca.</li>
       <li><b>Yissel a cámara:</b> celular a la altura de sus ojos, a un brazo de distancia, sobre un trípode o algo estable. Que mire al <b>lente</b>, no a la pantalla.</li>
       <li><b>Luz de frente</b> (la ventana detrás del celular, nunca detrás de ella) y el wordmark o la barra de color de fondo.</li>
