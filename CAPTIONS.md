@@ -22,37 +22,37 @@ CC Montaña Plaza, local 4 · Cajicá
 
 ---
 
-## Nº 08 · ¿Cuál eliges?
-**Jue 22 oct · 12:30 p. m.** · Reel · 15–20 s
+## Nº 08 · Tres secretos para que te duren más
+**Jue 22 oct · 12:30 p. m.** · Reel · 20–25 s
 
-Solo puedes elegir uno. ¿1, 2 o 3? 👇
+Tres secretos para que tus uñas te duren más. 📌
 
-1 · Cereza negra: la reina de octubre.
-2 · Rojo casa: el que nunca falla.
-3 · Espresso: casi negro.
+1 · Guantes para lavar la loza: el agua caliente y el jabón son sus peores enemigos.
+2 · Una gotica de aceite en la cutícula todas las noches.
+3 · Tus uñas no son herramientas: nada de abrir latas con ellas.
 
-Y el miércoles 28 tienes 15% en todos los servicios para estrenarlo.
+Guárdalo para no olvidarlo. Y el miércoles 28 tienes 15% en todos los servicios.
 
 Reserva por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #UñasDeTemporada #Cajicá #NailBarCajicá #TuMomento #ColoresDeOtoño
+#AlmaHouse #TipsDeUñas #CuidadoDeUñas #Cajicá #NailBarCajicá #TuMomento
 
 ---
 
-## Nº 09 · Lo que nunca vas a escuchar aquí
-**Mar 27 oct · 7:00 p. m.** · Reel · 20–30 s
+## Nº 09 · Así preparo la casa antes de que llegues
+**Mar 27 oct · 7:00 p. m.** · Reel · 20–25 s
 
-Frases que nunca vas a escuchar en Alma House. 😌
+Antes de que llegues, la casa se prepara para ti. ☕
 
-Aquí nadie te apura porque viene otra, nadie te cambia el color que elegiste y el café no se acaba.
+Las luces, el café, la toalla doblada y tu silla lista. Son detalles que no se ven, pero que hacen que cuando entres todo esté esperándote.
 
-¿Cuál has escuchado tú? Te leemos.
+Ya está todo listo. Ahora solo faltas tú.
 
 Reserva tu momento por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #TuMomento #Cajicá #NailBarCajicá #HumorDeSalon #UñasCajicá
+#AlmaHouse #DetrásDeCámaras #TuMomento #Cajicá #NailBarCajicá #EmprendimientoFemenino
 
 ---
 

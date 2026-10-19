@@ -1,10 +1,10 @@
 # Nº 07 · Afuera todo corre. Adentro, tú.
 
-**Formato:** Reel 9:16 · 20–25 s · grabado con celular
+**Formato:** Reel 9:16 · 20–25 s · grabado con celular en el local
 **Publicar:** martes 20 de octubre · 7:00 p. m. — **abre el capítulo IV**
-**Rol en la narrativa:** el reel con el que la clienta se identifica. Primero su día (el celular que no para, el trancón, todo "para ya"); luego se abre la puerta y Yissel le habla directo: sabe cómo llega y por eso aquí lo primero es preguntarle cómo está. Afuera todo corre; adentro estás tú. Retoma el insight de "Todo puede esperar. Tú no."
+**Rol en la narrativa:** el reel con el que la clienta se identifica. Llega con su día encima (el celular que no para, todo "para ya") y, al cruzar la puerta, Yissel le habla directo: sabe cómo llega y por eso aquí lo primero es preguntarle cómo está. Afuera todo corre; adentro estás tú. Retoma el insight de "Todo puede esperar. Tú no."
 **Gancho (primeros 2 s):** la pantalla del celular llenándose de notificaciones, con el texto "Afuera, todo es para ya".
-**Audio:** primera parte con el sonido real del día (notificaciones, pitos, teclado), rápido. Al abrirse la puerta, un segundo de silencio y entra la voz de Yissel; música house suave muy baja debajo.
+**Audio:** primera parte con el sonido de las notificaciones, rápido. Al entrar, un segundo de silencio y la voz de Yissel; música house suave muy baja debajo.
 **Quién sale:** Yissel hablando a cámara. La clienta solo de espaldas o en manos.
 
 ## Lo que dice Yissel
@@ -17,9 +17,9 @@
 
 | # | Qué grabar | Cómo | Dura |
 |---|---|---|---|
-| 1 | La pantalla del celular llena de notificaciones | Primer plano; usar un celular de prueba, sin datos reales | 2 s |
-| 2 | Trancón o semáforo desde el carro | Desde el puesto del pasajero, celular quieto | 1 s |
-| 3 | Manos tecleando rápido en un portátil | Primer plano, corte rápido | 1 s |
+| 1 | La pantalla del celular llena de notificaciones, en la mano de la clienta | Primer plano; usar un celular de prueba, sin datos reales | 2 s |
+| 2 | La clienta, de pie en la entrada, escribe rápido con las dos manos | Primer plano de las manos, corte rápido | 1 s |
+| 3 | Mira la hora en el celular y suspira | Primer plano | 1 s |
 | 4 | La puerta de Alma House abriéndose hacia la luz del local | Celular a la altura del pecho, caminando despacio hacia adentro | 2 s |
 | 5 | Yissel dice las frases 1 y 2 | Plano medio, celular a la altura de sus ojos, con el wordmark detrás | 6 s |
 | 6 | Sobre su voz: la clienta pone el celular boca abajo y recibe el café | Primer plano, gestos lentos | 3 s |
@@ -29,7 +29,7 @@
 ## Texto en pantalla
 
 1. (0–2 s) Afuera, todo es para ya
-2. (tomas 2–3, rápido) 47 notificaciones · trancón · "¿me confirmas?"
+2. (tomas 1–3, rápido) 47 notificaciones · el trancón · "¿me confirmas?"
 3. Subtítulos de todo lo que dice Yissel
 4. (final) Adentro, estás tú · Reserva tu momento: WhatsApp 311 566 2051
 
