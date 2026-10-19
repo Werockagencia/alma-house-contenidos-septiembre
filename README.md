@@ -15,22 +15,22 @@ Por **We Rock Agencia** para Alma House Nails Bar (Cajicá).
 | I · Expectativa | *"Algo está por llegar."* |
 | II · Apertura | *"No vendemos manicure. Vendemos tiempo."* (5 reels) |
 | III · La Casa | *"Esto no es un spa de uñas. Es una casa, y toda casa tiene sus códigos."* (Nº 00–06) |
-| **IV · Adentro** | **"Ya conoces la casa. Ahora vívela desde la silla."** (Nº 07–12) |
+| **IV · Adentro** | **"Ya conoces la casa. Ahora te la cuenta quien la abrió."** (Nº 07–12) |
 
-El capítulo IV pone la cámara en los ojos de la clienta. Se vive la experiencia en primera persona, se escuchan los sonidos de la casa, habla la voz de la marca y se muestra un resultado real. Cierra con el brindis que abre noviembre: la carta de cócteles y Miércoles de Amigas.
+El capítulo IV lo cuenta **Yissel, hablando a cámara en los 6 reels**: la anfitriona del reel Nº 00 vuelve como la voz de la casa. Cierra con el brindis que abre noviembre: la carta de cócteles y Miércoles de Amigas.
 
 ## Los 6 reels
 
 | Fecha | Nº | Reel | La idea |
 |---|---|---|---|
-| Mar 20 oct · 7:00 p. m. | 07 | [Afuera todo corre. Adentro, tú.](piezas/07-pov-llegas-a-tu-momento/guion.md) | El día de la clienta (notificaciones, trancón) contra la llegada a la casa: la reciben preguntándole cómo llega y voltea el celular boca abajo |
-| Jue 22 oct · 12:30 p. m. | 08 | [¿Cuál eliges?](piezas/08-cual-eliges/guion.md) | Tres tonos de octubre; la gente comenta 1, 2 o 3. Empuja el miércoles 28 con 15% |
+| Mar 20 oct · 7:00 p. m. | 07 | [Afuera todo corre. Adentro, tú.](piezas/07-pov-llegas-a-tu-momento/guion.md) | El día de la clienta (notificaciones, trancón) y luego Yissel a cámara: "¿cómo llegas hoy?". El celular puede esperar |
+| Jue 22 oct · 12:30 p. m. | 08 | [¿Cuál eliges?](piezas/08-cual-eliges/guion.md) | Yissel presenta tres tonos de octubre y pide que comenten 1, 2 o 3. Empuja el miércoles 28 con 15% |
 | Mar 27 oct · 7:00 p. m. | 09 | [Lo que nunca vas a escuchar aquí](piezas/09-lo-que-nunca-vas-a-escuchar/guion.md) | Yissel dice en voz alta las frases típicas de salón… y "aquí no" |
-| Jue 29 oct · 7:00 p. m. | 10 | [Algo se está sirviendo](piezas/10-algo-se-esta-sirviendo/guion.md) | Teaser de noviembre: hielo, copas y un brindis entre amigas |
-| Mar 3 nov · 8:00 p. m. | 11 | [El sonido de tu momento](piezas/11-el-sonido-de-tu-momento/guion.md) | ASMR sin música: café, lima, pincel |
-| Jue 5 nov · 12:30 p. m. | 12 | [Mismas manos, otro momento](piezas/12-mismas-manos-otro-momento/guion.md) | Antes y después real, misma luz y mismo encuadre |
+| Jue 29 oct · 7:00 p. m. | 10 | [Algo se está sirviendo](piezas/10-algo-se-esta-sirviendo/guion.md) | Yissel cuenta un secreto a medias: en noviembre vas a querer venir con tu amiga. Copas y brindis |
+| Mar 3 nov · 8:00 p. m. | 11 | [El sonido de tu momento](piezas/11-el-sonido-de-tu-momento/guion.md) | ASMR: Yissel abre y cierra en susurro; en el medio solo los sonidos reales |
+| Jue 5 nov · 12:30 p. m. | 12 | [Mismas manos, otro momento](piezas/12-mismas-manos-otro-momento/guion.md) | Yissel muestra el antes y el después de una clienta real, sin filtros, y cuenta qué cambió |
 
-Cada guion trae: la idea, el gancho de los primeros 2 segundos, el audio, quién sale, la lista de tomas (qué, cómo y cuánto dura), el texto en pantalla, el caption, la portada sugerida y notas.
+Cada guion trae: la idea, **lo que dice Yissel**, el gancho de los primeros 2 segundos, el audio, quién sale, la lista de tomas (qué, cómo y cuánto dura), el texto en pantalla, el caption, la portada sugerida y notas.
 
 ## Por validar con Yissel
 

@@ -1,28 +1,33 @@
 # Nº 10 · Algo se está sirviendo
 
-**Formato:** Reel 9:16 · 10–15 s · grabado con celular
+**Formato:** Reel 9:16 · 12–18 s · grabado con celular
 **Publicar:** jueves 29 de octubre · 7:00 p. m.
-**Rol en la narrativa:** el puente a noviembre. Anuncia la carta de cócteles y el regreso de Miércoles de Amigas sin revelar nada: solo copas, hielo y dos manos que brindan. Abre la expectativa para el lanzamiento.
-**Gancho (primeros 2 s):** hielo cayendo en una copa, en primer plano, con su sonido.
-**Audio:** el sonido real del hielo y del brindis; música suave entra en el segundo 3.
-**Quién sale:** solo manos con uñas hechas (dos personas, porque es para amigas).
+**Rol en la narrativa:** el puente a noviembre. Yissel cuenta un secreto a medias: algo nuevo se sirve en la casa y se disfruta con la amiga. Abre la expectativa de la carta de cócteles y del regreso de Miércoles de Amigas, sin revelar nada.
+**Gancho (primeros 2 s):** hielo cayendo en una copa, con su sonido, y Yissel acercándose a cámara en voz baja: "No te puedo contar mucho…".
+**Audio:** el sonido real del hielo y del brindis, la voz de Yissel en tono de secreto y música suave al final.
+**Quién sale:** Yissel hablando a cámara, más dos manos que brindan.
+
+## Lo que dice Yissel
+
+1. (en voz baja, cerca de la cámara, con una copa en la mano) "No te puedo contar mucho todavía…"
+2. "Solo que en noviembre, en Alma House, vas a querer venir con tu amiga."
+3. (levanta la copa y sonríe) "Muy pronto."
 
 ## Tomas
 
 | # | Qué grabar | Cómo | Dura |
 |---|---|---|---|
-| 1 | Hielo cayendo en una copa vacía | Muy cerca, celular quieto apoyado; grabar en cámara lenta si se puede | 2 s |
-| 2 | Un líquido sirviéndose (puede ser agua con color, sin mostrar la etiqueta) | Mismo encuadre | 2 s |
-| 3 | Una rodaja de cítrico o una hoja entrando a la copa | Mismo encuadre | 2 s |
-| 4 | Dos manos con uñas hechas toman cada una su copa | Plano medio sobre la barra | 2 s |
-| 5 | Brindis: las copas chocan | Primer plano, con sonido | 2 s |
-| 6 | Final: la barra fuera de foco, con las copas | Celular quieto; espacio para el texto | 3 s |
+| 1 | Hielo cayendo en una copa vacía | Muy cerca, celular apoyado; en cámara lenta si se puede | 2 s |
+| 2 | Yissel dice la frase 1 | Primer plano, se acerca a la cámara como contando un secreto | 3 s |
+| 3 | Sobre su voz: un líquido sirviéndose y una rodaja de cítrico entrando a la copa | Muy cerca; sin mostrar etiquetas | 3 s |
+| 4 | Yissel dice la frase 2 | Plano medio en la barra | 3 s |
+| 5 | Dos manos con uñas hechas brindan | Primer plano, con el sonido del choque | 2 s |
+| 6 | Yissel dice la frase 3 levantando la copa | Plano medio | 2 s |
 
 ## Texto en pantalla
 
-1. (0–2 s) Algo se está sirviendo en Alma House
-2. (brindis) Para venir con tu amiga
-3. (final) Noviembre · Muy pronto
+1. Subtítulos de lo que dice Yissel
+2. (final) Noviembre · Muy pronto
 
 ## Caption
 
@@ -40,10 +45,10 @@ Activa las notificaciones para no perdértelo.
 
 ## Portada
 
-"Algo se está sirviendo", con las dos copas (fotograma del brindis).
+"Algo se está sirviendo", con Yissel levantando la copa (fotograma de la toma 6).
 
 ## Notas
 
 - No mostrar etiquetas de licores ni marcas.
-- **Validar con Yissel:** que la carta de cócteles y Miércoles de Amigas salen en noviembre, y si los cócteles tienen alcohol o no (para el lanzamiento).
-- Con este reel, Miércoles de Amigas vuelve como el plan de noviembre: manos, cóctel y tu amiga. Las piezas ya diseñadas están guardadas en la rama `amigas-noviembre`.
+- **Validar con Yissel:** que la carta de cócteles y Miércoles de Amigas salen en noviembre, y si los cócteles tienen alcohol o no.
+- Las piezas de Miércoles de Amigas para noviembre ya están diseñadas (rama `amigas-noviembre` del repo de los miércoles).

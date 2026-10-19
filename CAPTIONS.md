@@ -92,7 +92,7 @@ CC Montaña Plaza, local 4 · Cajicá
 
 Mismas manos. Otro momento. ✨
 
-Sin filtros: así llegó y así se fue. Con la misma luz y desde el mismo lugar. Lo demás fue un café y alguien que no tenía afán.
+Sin filtros: así llegó y así se fue, con la misma luz y desde el mismo lugar. Lo demás fue un café y alguien que no tenía afán.
 
 Gracias por dejarnos mostrarlo. 🤍
 

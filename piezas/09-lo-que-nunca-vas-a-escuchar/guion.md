@@ -2,28 +2,32 @@
 
 **Formato:** Reel 9:16 · 20–30 s · grabado con celular
 **Publicar:** martes 27 de octubre · 7:00 p. m.
-**Rol en la narrativa:** el carrusel de las frases fue la voz con humor de la marca. Ahora esas frases se dicen en voz alta. Es el reel más compartible del capítulo: todas hemos escuchado esas frases en otro lugar.
+**Rol en la narrativa:** el carrusel de las frases fue la voz con humor de la marca; ahora Yissel las dice en voz alta. Es el reel más compartible del capítulo: todas hemos escuchado esas frases en otro lugar.
 **Gancho (primeros 2 s):** Yissel mira a cámara con cara seria y dice la primera frase.
-**Audio:** la voz de Yissel (sonido directo, celular cerca). Música muy baja solo en el remate.
-**Quién sale:** Yissel hablando a cámara. Aquí sí habla: el video es su voz.
+**Audio:** la voz de Yissel (sonido directo). Música muy baja solo en el remate.
+**Quién sale:** Yissel hablando a cámara.
+
+## Lo que dice Yissel
+
+1. (cara seria) "Mi amor, ¿te demoras? Es que tengo otra clienta esperando." (niega con la cabeza)
+2. "¿Ese color? Mejor el de siempre." (niega con la cabeza)
+3. "Uy, no, el café se acabó." (niega con la cabeza)
+4. (sonríe, un paso más cerca) "Aquí no. Aquí el momento es tuyo."
 
 ## Tomas
 
 | # | Qué grabar | Cómo | Dura |
 |---|---|---|---|
-| 1 | Yissel dice: "Mi amor, ¿te demoras? Es que tengo otra clienta esperando." | Plano medio, celular a la altura de los ojos, fondo del local | 3 s |
-| 2 | Corte seco: niega con la cabeza, sin hablar | Mismo plano | 1 s |
-| 3 | Yissel dice: "¿Ese color? Mejor el de siempre." | Mismo plano, otro gesto | 3 s |
-| 4 | Corte seco: niega con la cabeza | Mismo plano | 1 s |
-| 5 | Yissel dice: "Uy, no, el café se acabó." | Mismo plano | 3 s |
-| 6 | Corte seco: niega con la cabeza | Mismo plano | 1 s |
-| 7 | Remate: "Aquí no. Aquí el momento es tuyo." Sonríe | Un paso más cerca de la cámara | 4 s |
-| 8 | Final: una clienta, de espaldas, recibe su café | Plano abierto del lounge | 3 s |
+| 1 | Frase 1, y corte seco cuando niega con la cabeza | Plano medio, celular a la altura de sus ojos, fondo del local | 4 s |
+| 2 | Frase 2, y corte seco cuando niega | Mismo plano, otro gesto | 4 s |
+| 3 | Frase 3, y corte seco cuando niega | Mismo plano | 4 s |
+| 4 | Remate: frase 4 | Un paso más cerca de la cámara | 4 s |
+| 5 | Final: una clienta, de espaldas, recibe su café | Plano abierto del lounge | 3 s |
 
 ## Texto en pantalla
 
-1. (sobre cada frase) Lo que nunca vas a escuchar aquí · 1 / 2 / 3
-2. (remate) Aquí el momento es tuyo
+1. (arriba, fijo) Lo que nunca vas a escuchar en Alma House
+2. Subtítulos de cada frase, con 1 / 2 / 3
 3. (final) Reserva tu momento · WhatsApp 311 566 2051
 
 ## Caption
@@ -43,11 +47,9 @@ CC Montaña Plaza, local 4 · Cajicá
 
 ## Portada
 
-"Lo que nunca vas a escuchar aquí", con Yissel en plano medio (fotograma del remate).
+"Lo que nunca vas a escuchar aquí", con Yissel en el remate (fotograma de la toma 4).
 
 ## Notas
 
 - Grabar cada frase 2 o 3 veces y elegir la más natural. Mejor un poco exagerada que tímida.
-- Subtítulos quemados obligatorios (mucha gente ve sin sonido): las frases completas en pantalla.
-- Si Yissel prefiere no salir, lo puede decir otra persona del equipo; la regla es que quien sale, habla.
-- **Validar:** café incluido para todas las clientas (frase 5).
+- **Validar:** café incluido para todas las clientas (frase 3).

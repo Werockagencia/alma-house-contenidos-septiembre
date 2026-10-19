@@ -1,6 +1,6 @@
 // Calendario del Capítulo IV — Adentro: única fuente para la página y CAPTIONS.md.
 // 6 reels grabados con celular. Ritmo: martes y jueves (dos por semana).
-export const chapter = { n: 'IV', name: 'Adentro', line: 'Ya conoces la casa. Ahora vívela desde la silla.' };
+export const chapter = { n: 'IV', name: 'Adentro', line: 'Ya conoces la casa. Ahora te la cuenta quien la abrió.' };
 
 export const plan = [
   { dir: '07-pov-llegas-a-tu-momento',     n: '07', title: 'Afuera todo corre. Adentro, tú.', kind: 'Reel · 20–25 s', date: 'Mar 20 oct', time: '7:00 p. m.' },

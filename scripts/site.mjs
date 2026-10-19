@@ -50,6 +50,7 @@ const epHtml = e => `
     <dt>Audio</dt><dd>${inline(cap(e.meta['Audio'] ?? ''))}</dd>
     <dt>Quién sale</dt><dd>${inline(cap(e.meta['Quién sale'] ?? ''))}</dd>
   </dl>
+  <div class="say"><p class="k">Lo que dice Yissel · a cámara</p><ol>${list(e.sections['Lo que dice Yissel'] ?? '').map(x => `<li>${inline(x).replace(/\(([^)]+)\)/g, '<span class="dir">$1</span>')}</li>`).join('')}</ol></div>
   <h3>Tomas</h3>
   <ol class="shots">${rows(e.sections['Tomas'] ?? '').map(([n, que, como, dura]) => `
     <li><span class="sn">${esc(n)}</span><div><p class="sq">${inline(que)}</p><p class="sc">${inline(como)}</p></div><span class="sd">${esc(dura)}</span></li>`).join('')}
@@ -106,6 +107,12 @@ body{background:var(--cream);color:var(--ink);font-family:'Figtree',system-ui,sa
 .idea{margin-top:22px;background:var(--espresso);color:var(--cream);border-radius:10px;padding:20px 22px}
 .idea .k{color:var(--blush);margin-bottom:8px}
 .idea p:last-child{font-size:17.5px}
+.say{margin-top:18px;border-left:4px solid var(--brown);background:#fff;border-radius:0 10px 10px 0;padding:16px 18px 16px 20px}
+.say .k{color:var(--brown);margin-bottom:10px}
+.say ol{padding-left:20px;display:flex;flex-direction:column;gap:10px}
+.say li{font-family:'Aurora',serif;font-size:21px;line-height:1.3;-webkit-text-stroke:.3px currentColor}
+.say .dir{display:block;font-family:'Figtree',sans-serif;font-size:13px;font-style:italic;color:#7d6a5a;-webkit-text-stroke:0;margin-bottom:2px}
+.say li::marker{font-family:'Figtree',sans-serif;font-size:15px;color:var(--brown);font-weight:700}
 .facts{margin-top:16px;display:grid;grid-template-columns:110px 1fr;gap:10px 16px;font-size:16px}
 .facts dt{font-family:'Uncage',sans-serif;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--brown);font-weight:650;padding-top:3px}
 h3{color:var(--brown);margin:28px 0 12px}
@@ -148,7 +155,7 @@ code{font-size:13px;background:rgba(153,71,29,.08);padding:1px 5px;border-radius
 <main class="wrap">
   <section class="sec">
     <h2>La continuidad</h2>
-    <p>El capítulo I creó la expectativa, el II abrió la puerta y el III mostró los códigos de la casa. El IV pone la cámara en los ojos de la clienta: se vive la experiencia desde la silla, se escuchan sus sonidos, habla la voz de la marca y se muestra un resultado real. Cierra con el brindis que abre noviembre (carta de cócteles + Miércoles de Amigas).</p>
+    <p>El capítulo I creó la expectativa, el II abrió la puerta y el III mostró los códigos de la casa. El IV lo cuenta Yissel: la anfitriona que abrió la puerta en el reel Nº 00 ahora le habla a cámara en cada reel. Habla de cómo llegas, de sus colores, de las frases que nunca vas a escuchar, de lo que viene en noviembre, del sonido de la casa y de un resultado real. La gente le compra a personas: una cara y una voz constantes hacen que la marca se sienta cercana.</p>
   </section>
 
   <section class="sec">
@@ -160,7 +167,11 @@ code{font-size:13px;background:rgba(153,71,29,.08);padding:1px 5px;border-radius
       <li><b>Pulso firme:</b> celular con las dos manos y los codos pegados al cuerpo, movimientos lentos y nada de zoom digital.</li>
       <li>Graba <b>2 o 3 segundos de más</b> antes y después de cada toma, y repite las importantes.</li>
       <li><b>Sonido:</b> para los reels 09 y 11, apaga la música del local y graba cerca.</li>
-      <li>Si alguien sale hablando, <b>se escucha su voz</b>. Si no habla, que no salga de frente: solo manos.</li>
+      <li><b>Yissel a cámara:</b> celular a la altura de sus ojos, a un brazo de distancia, sobre un trípode o algo estable. Que mire al <b>lente</b>, no a la pantalla.</li>
+      <li><b>Luz de frente</b> (la ventana detrás del celular, nunca detrás de ella) y el wordmark o la barra de color de fondo.</li>
+      <li><b>Frase por frase:</b> no hay que memorizar el reel completo. Graba cada frase 2 o 3 veces y dila con tus palabras; si sale más natural distinto al guion, mejor.</li>
+      <li><b>Sonido de la voz:</b> local en silencio y celular cerca (máximo 1 metro). Si tienen micrófono de solapa, úsenlo.</li>
+      <li>Las tomas de apoyo (manos, café, esmaltes) van <b>sobre la voz de Yissel</b>; nadie sale hablando sin que se escuche.</li>
     </ul></div>
   </section>
 
