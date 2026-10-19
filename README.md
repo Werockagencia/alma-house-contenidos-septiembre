@@ -23,7 +23,7 @@ El capítulo IV pone la cámara en los ojos de la clienta. Se vive la experienci
 
 | Fecha | Nº | Reel | La idea |
 |---|---|---|---|
-| Mar 20 oct · 7:00 p. m. | 07 | [POV: llegas a tu momento](piezas/07-pov-llegas-a-tu-momento/guion.md) | De la puerta a la silla en primera persona, sin que nadie hable |
+| Mar 20 oct · 7:00 p. m. | 07 | [Afuera todo corre. Adentro, tú.](piezas/07-pov-llegas-a-tu-momento/guion.md) | El día de la clienta (notificaciones, trancón) contra la llegada a la casa: la reciben preguntándole cómo llega y voltea el celular boca abajo |
 | Jue 22 oct · 12:30 p. m. | 08 | [¿Cuál eliges?](piezas/08-cual-eliges/guion.md) | Tres tonos de octubre; la gente comenta 1, 2 o 3. Empuja el miércoles 28 con 15% |
 | Mar 27 oct · 7:00 p. m. | 09 | [Lo que nunca vas a escuchar aquí](piezas/09-lo-que-nunca-vas-a-escuchar/guion.md) | Yissel dice en voz alta las frases típicas de salón… y "aquí no" |
 | Jue 29 oct · 7:00 p. m. | 10 | [Algo se está sirviendo](piezas/10-algo-se-esta-sirviendo/guion.md) | Teaser de noviembre: hielo, copas y un brindis entre amigas |

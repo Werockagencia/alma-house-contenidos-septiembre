@@ -3,7 +3,7 @@
 export const chapter = { n: 'IV', name: 'Adentro', line: 'Ya conoces la casa. Ahora vívela desde la silla.' };
 
 export const plan = [
-  { dir: '07-pov-llegas-a-tu-momento',     n: '07', title: 'POV: llegas a tu momento',         kind: 'Reel · 15–20 s', date: 'Mar 20 oct', time: '7:00 p. m.' },
+  { dir: '07-pov-llegas-a-tu-momento',     n: '07', title: 'Afuera todo corre. Adentro, tú.', kind: 'Reel · 20–25 s', date: 'Mar 20 oct', time: '7:00 p. m.' },
   { dir: '08-cual-eliges',                 n: '08', title: '¿Cuál eliges?',                    kind: 'Reel · 15–20 s', date: 'Jue 22 oct', time: '12:30 p. m.' },
   { dir: '09-lo-que-nunca-vas-a-escuchar', n: '09', title: 'Lo que nunca vas a escuchar aquí', kind: 'Reel · 20–30 s', date: 'Mar 27 oct', time: '7:00 p. m.' },
   { dir: '10-algo-se-esta-sirviendo',      n: '10', title: 'Algo se está sirviendo',           kind: 'Reel · 10–15 s', date: 'Jue 29 oct', time: '7:00 p. m.' },

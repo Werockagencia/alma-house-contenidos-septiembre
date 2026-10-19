@@ -4,19 +4,21 @@
 
 ---
 
-## Nº 07 · POV: llegas a tu momento
-**Mar 20 oct · 7:00 p. m.** · Reel · 15–20 s
+## Nº 07 · Afuera todo corre. Adentro, tú.
+**Mar 20 oct · 7:00 p. m.** · Reel · 20–25 s
 
-POV: por fin llegaste a tu momento. ☕
+Afuera, todo es para ya. Adentro, estás tú. 🤍
 
-La puerta se cierra, el celular se queda en silencio y alguien te pregunta cómo llegas hoy. Así empieza en Alma House: sin afán, con un café y con todo el tiempo que necesites.
+Sabemos cómo llegas: con el celular sin parar, el trancón encima y la lista de pendientes en la cabeza. Por eso aquí lo primero es preguntarte cómo llegas hoy. Después viene el café, la silla y un momento en el que nadie te apura.
 
-¿A quién traerías contigo?
+El celular puede esperar boca abajo. Tú no.
+
+¿A quién le hace falta este momento? Etiquétala. 👇
 
 Reserva tu momento por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #TuMomento #Cajicá #NailBarCajicá #POV #UñasCajicá
+#AlmaHouse #TuMomento #Cajicá #NailBarCajicá #PausaParaTi #UñasCajicá
 
 ---
 
