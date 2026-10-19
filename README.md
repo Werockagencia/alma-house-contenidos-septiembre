@@ -25,7 +25,7 @@ El capítulo IV lo cuenta **Yissel, hablando a cámara en los 6 reels**: la anfi
 |---|---|---|---|
 | Mar 20 oct · 7:00 p. m. | 07 | [Afuera todo corre. Adentro, tú.](piezas/07-pov-llegas-a-tu-momento/guion.md) | El día de la clienta (notificaciones, trancón) y luego Yissel a cámara: "¿cómo llegas hoy?". El celular puede esperar |
 | Jue 22 oct · 12:30 p. m. | 08 | [¿Cuál eliges?](piezas/08-cual-eliges/guion.md) | Yissel presenta tres tonos de octubre y pide que comenten 1, 2 o 3. Empuja el miércoles 28 con 15% |
-| Mar 27 oct · 7:00 p. m. | 09 | [Tres secretos para que te duren más](piezas/09-tips-de-cuidado/guion.md) | Tips de cuidado: Yissel da tres consejos en su estación. Contenido que se guarda; recuerda el 15% del miércoles 28 |
+| Mar 27 oct · 7:00 p. m. | 09 | [Tres secretos para que te duren más](piezas/09-tips-de-cuidado/guion.md) | Tips de cuidado: Yissel da tres consejos en su estación. Contenido que se guarda |
 | Jue 29 oct · 7:00 p. m. | 10 | [Algo se está sirviendo](piezas/10-algo-se-esta-sirviendo/guion.md) | Yissel cuenta un secreto a medias: en noviembre vas a querer venir con tu amiga. Copas y brindis |
 | Mar 3 nov · 8:00 p. m. | 11 | [El sonido de tu momento](piezas/11-el-sonido-de-tu-momento/guion.md) | ASMR: Yissel abre y cierra en susurro; en el medio solo los sonidos reales |
 | Jue 5 nov · 12:30 p. m. | 12 | [Mismas manos, otro momento](piezas/12-mismas-manos-otro-momento/guion.md) | Yissel muestra el antes y el después de una clienta real, sin filtros, y cuenta qué cambió |

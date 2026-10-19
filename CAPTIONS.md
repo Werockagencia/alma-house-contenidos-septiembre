@@ -49,7 +49,7 @@ Tres secretos para que tus uñas te duren más. 📌
 2 · Una gotica de aceite en la cutícula todas las noches.
 3 · Tus uñas no son herramientas: nada de abrir latas con ellas.
 
-Guárdalo para no olvidarlo. Y mañana, miércoles 28, tienes 15% en todos los servicios.
+Guárdalo para no olvidarlo. Y cuando quieras regalarles un momento a tus manos, aquí te esperamos.
 
 Reserva por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
