@@ -1,11 +1,12 @@
-// Calendario de publicación: única fuente de verdad para el sitio, los previews y CAPTIONS.md.
-// Ritmo: sábado 26 y domingo 27 de septiembre; desde ahí, martes y jueves (dos por semana).
+// Calendario del Capítulo IV — Adentro: única fuente para la página y CAPTIONS.md.
+// 6 reels grabados con celular. Ritmo: martes y jueves (dos por semana).
+export const chapter = { n: 'IV', name: 'Adentro', line: 'Ya conoces la casa. Ahora vívela desde la silla.' };
+
 export const plan = [
-  { dir: '00-reel-la-anfitriona',        n: '00', title: 'La anfitriona',                          kind: 'Reel',                     date: 'Sáb 26 sep', time: '7:00 p. m.',  video: 'video/alma-house-la-anfitriona-web.mp4', cover: '00-reel-portada.png' },
-  { dir: '01-manifiesto',                n: '01', title: 'Esto no es un spa de uñas',              kind: 'Carrusel · 3',             date: 'Dom 27 sep', time: '6:00 p. m.',  cover: '01-manifiesto-1.png' },
-  { dir: '04-frases-que-no-escucharas',  n: '04', title: 'Lo que nunca vas a escuchar en esta casa', kind: 'Carrusel · 7',           date: 'Mar 29 sep', time: '12:30 p. m.', cover: '04-frases-01.png' },
-  { dir: '06-agenda-de-octubre',         n: '06', title: 'La agenda de octubre',                   kind: 'Post · 2 + Historias · 3', date: 'Jue 1 oct',  time: '12:30 p. m.', cover: '06-agenda-post-1.png' },
-  { dir: '03-edicion-de-octubre',        n: '03', title: 'La edición de octubre',                  kind: 'Carrusel · 7',             date: 'Mar 6 oct',  time: '12:30 p. m.', cover: '03-edicion-01.png' },
-  { dir: '02-codigos-de-la-casa',        n: '02', title: 'Los códigos de la casa',                 kind: 'Carrusel · 9',             date: 'Jue 8 oct',  time: '7:00 p. m.',  cover: '02-codigos-01.png' },
-  { dir: '05-todo-puede-esperar',        n: '05', title: 'Todo puede esperar. Tú no.',             kind: 'Carrusel · 5',             date: 'Mar 13 oct', time: '7:00 a. m.',  cover: '05-esperar-01.png' },
+  { dir: '07-pov-llegas-a-tu-momento',     n: '07', title: 'POV: llegas a tu momento',         kind: 'Reel · 15–20 s', date: 'Mar 20 oct', time: '7:00 p. m.' },
+  { dir: '08-cual-eliges',                 n: '08', title: '¿Cuál eliges?',                    kind: 'Reel · 15–20 s', date: 'Jue 22 oct', time: '12:30 p. m.' },
+  { dir: '09-lo-que-nunca-vas-a-escuchar', n: '09', title: 'Lo que nunca vas a escuchar aquí', kind: 'Reel · 20–30 s', date: 'Mar 27 oct', time: '7:00 p. m.' },
+  { dir: '10-algo-se-esta-sirviendo',      n: '10', title: 'Algo se está sirviendo',           kind: 'Reel · 10–15 s', date: 'Jue 29 oct', time: '7:00 p. m.' },
+  { dir: '11-el-sonido-de-tu-momento',     n: '11', title: 'El sonido de tu momento',          kind: 'Reel · 20–25 s', date: 'Mar 3 nov',  time: '8:00 p. m.' },
+  { dir: '12-mismas-manos-otro-momento',   n: '12', title: 'Mismas manos, otro momento',       kind: 'Reel · 12–18 s', date: 'Jue 5 nov',  time: '12:30 p. m.' },
 ];

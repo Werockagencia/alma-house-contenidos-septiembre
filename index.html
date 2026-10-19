@@ -4,477 +4,373 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="robots" content="noindex">
-<title>Alma House · La Casa</title>
-<meta name="description" content="Capítulo III · La Casa — contenidos de Instagram de Alma House Nails Bar. Por We Rock Agencia.">
+<title>Capítulo IV · Adentro · Alma House</title>
 <link rel="icon" href="assets/brand/logos/isotipo-terracota.png">
 <style>
 @font-face{font-family:'Aurora';src:url('assets/brand/fonts/aurora-serif.otf');font-style:normal}
 @font-face{font-family:'Aurora';src:url('assets/brand/fonts/aurora-serif-italic.otf');font-style:italic}
 @font-face{font-family:'Uncage';src:url('assets/brand/fonts/uncage-vf.ttf');font-weight:100 900}
 @font-face{font-family:'Figtree';src:url('assets/brand/fonts/figtree-vf.ttf');font-weight:300 900}
-:root{--cream:#F7EFE7;--paper:#FBF6F0;--blush:#CEBAAA;--sage:#A3A287;--brown:#99471D;--bakery:#AF9175;--forest:#3F412F;--espresso:#2A1F1A;--ink:#32342A;--ink2:#5E6150;--line:rgba(50,52,42,.14)}
+:root{--cream:#F7EFE7;--paper:#FBF6F0;--blush:#CEBAAA;--brown:#99471D;--bakery:#AF9175;--forest:#3F412F;--espresso:#2A1F1A;--ink:#32342A;--ink2:#4a4a3d;--line:rgba(50,52,42,.14)}
 *{box-sizing:border-box;margin:0;padding:0}
 html{scroll-behavior:smooth}
-body{background:var(--cream);color:var(--ink);font-family:'Figtree',system-ui,sans-serif;font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
-a{color:inherit}
-img{display:block;max-width:100%}
-.label,.eyebrow{font-family:'Uncage','Figtree',sans-serif;text-transform:uppercase;letter-spacing:.28em;font-size:11px;font-weight:500}
-.wrap{max-width:1240px;margin:0 auto;padding:0 32px}
-
-/* Hero */
-.hero{background:var(--espresso);color:var(--cream);padding:40px 0 88px;position:relative;overflow:hidden}
-.mast{display:flex;align-items:center;gap:20px;color:var(--blush)}
+body{background:var(--cream);color:var(--ink);font-family:'Figtree',system-ui,sans-serif;font-size:17px;line-height:1.55;font-weight:450;-webkit-font-smoothing:antialiased}
+.wrap{max-width:860px;margin:0 auto;padding:0 20px}
+.label,.eyebrow,.k,h3{font-family:'Uncage','Figtree',sans-serif;text-transform:uppercase;letter-spacing:.22em;font-size:11.5px;font-weight:650}
+.hero{background:var(--espresso);color:var(--cream);padding:28px 0 46px}
+.mast{display:flex;align-items:center;gap:14px;color:var(--blush)}
 .mast .rule{flex:1;height:1px;background:currentColor;opacity:.3}
-.hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:64px;align-items:center;margin-top:72px}
-.hero h1{font-family:'Aurora',serif;font-weight:400;font-size:clamp(58px,8.4vw,124px);line-height:.86;letter-spacing:-.03em}
+.hero h1{font-family:'Aurora',serif;font-weight:400;font-size:clamp(46px,11vw,92px);line-height:.88;letter-spacing:-.03em;margin-top:40px}
 .hero h1 em{color:var(--blush)}
-.hero .lede{font-family:'Aurora',serif;font-style:italic;font-size:clamp(22px,2.4vw,30px);line-height:1.25;margin-top:32px;max-width:30ch;color:rgba(247,239,231,.9)}
-.hero .by{margin-top:40px;color:var(--blush);line-height:2}
-.hero .grid img{border-radius:4px;box-shadow:0 30px 80px rgba(0,0,0,.4)}
-.chapters{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;margin-top:80px;background:rgba(247,239,231,.12)}
-.chapters div{background:var(--espresso);padding:22px 22px 4px 0}
-.chapters .label{color:var(--blush)}
-.chapters p{font-family:'Aurora',serif;font-size:22px;line-height:1.2;margin-top:10px}
-.chapters .now p{color:var(--blush);font-style:italic}
-
-/* Calendario */
-.calendar{padding:72px 0 24px}
-.sec-h{display:flex;align-items:baseline;justify-content:space-between;gap:20px;border-bottom:1px solid var(--line);padding-bottom:16px;margin-bottom:28px}
-.sec-h h3{font-family:'Aurora',serif;font-weight:400;font-size:40px;line-height:1}
-.sec-h .label{color:var(--bakery)}
-.cals{display:grid;grid-template-columns:repeat(7,1fr);gap:14px}
-.cal{text-decoration:none;display:flex;flex-direction:column;gap:8px}
-.cal img{aspect-ratio:4/5;object-fit:cover;width:100%;border-radius:3px;transition:transform .3s}
-.cal:hover img{transform:translateY(-4px)}
-.cal-d{font-family:'Uncage',sans-serif;text-transform:uppercase;letter-spacing:.2em;font-size:10px;color:var(--brown)}
-.cal-n{font-family:'Uncage',sans-serif;letter-spacing:.2em;font-size:10px;color:var(--bakery)}
-.cal-t{font-family:'Aurora',serif;font-size:17px;line-height:1.15}
-
-/* Pieza */
-.piece{padding:88px 0 40px;border-top:1px solid var(--line);margin-top:48px}
-.ph{display:grid;grid-template-columns:1fr auto;gap:6px 32px;align-items:end}
-.ph .eyebrow{color:var(--brown);grid-column:1/-1}
-.ph h2{font-family:'Aurora',serif;font-weight:400;font-size:clamp(40px,5.4vw,72px);line-height:.95;letter-spacing:-.02em}
-.when{display:flex;gap:10px}
-.when span{font-family:'Uncage',sans-serif;font-size:11px;letter-spacing:.2em;text-transform:uppercase;border:1px solid var(--ink);border-radius:999px;padding:9px 16px;white-space:nowrap}
+.hero .lede{font-family:'Aurora',serif;font-style:italic;font-size:clamp(21px,4.6vw,27px);line-height:1.25;margin-top:20px;color:rgba(247,239,231,.92)}
+.hero .by{margin-top:26px;color:var(--blush);line-height:1.9}
+.sec{padding:40px 0 0}
+.sec h2{font-family:'Aurora',serif;font-weight:400;font-size:34px;line-height:1;margin-bottom:16px}
+.guide{background:var(--paper);border:1px solid var(--line);border-radius:10px;padding:20px 22px}
+.guide ul{padding-left:20px;display:flex;flex-direction:column;gap:8px}
+.cal{display:flex;flex-direction:column;border-top:1px solid var(--line)}
+.cal a{display:grid;grid-template-columns:110px 1fr;gap:12px;padding:13px 0;border-bottom:1px solid var(--line);text-decoration:none;color:inherit;align-items:baseline}
+.cal .d{font-family:'Uncage',sans-serif;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--brown);font-weight:650}
+.cal .t{font-family:'Aurora',serif;font-size:22px;line-height:1.1}
+.cal .t small{font-family:'Figtree',sans-serif;font-size:13px;color:var(--ink2);display:block;margin-top:3px;letter-spacing:0}
+.ep{margin-top:44px;padding-top:34px;border-top:2px solid var(--espresso)}
+.eh .eyebrow{color:var(--brown)}
+.eh h2{font-family:'Aurora',serif;font-weight:400;font-size:clamp(36px,8vw,56px);line-height:.95;letter-spacing:-.02em;margin:8px 0 14px}
+.when{display:flex;gap:8px;flex-wrap:wrap}
+.when span{font-family:'Uncage',sans-serif;font-size:11px;letter-spacing:.16em;text-transform:uppercase;border:1px solid var(--ink);border-radius:999px;padding:8px 14px}
 .when span:first-child{background:var(--ink);color:var(--cream)}
-.role{grid-column:1/-1;color:var(--ink2);max-width:78ch;margin-top:18px}
-.rail{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;padding:32px 32px 18px;margin:0 -32px;scrollbar-width:thin}
-.slide{flex:0 0 auto;height:500px;aspect-ratio:4/5;scroll-snap-align:start;border-radius:3px;overflow:hidden;background:#ddd;box-shadow:0 14px 40px rgba(50,40,30,.12)}
-.slide.story{aspect-ratio:9/16}
-.slide{background:var(--blush)}
-.slide img,.slide video{width:100%;height:100%;object-fit:cover}
-.slide video{background:#000}
-.slide.super{opacity:.95}
-.hint{font-size:12px;color:var(--bakery);letter-spacing:.04em}
-.cols{display:grid;grid-template-columns:1.05fr .95fr;gap:36px;margin-top:32px;align-items:start}
-.capbox{background:var(--paper);border:1px solid var(--line);border-radius:6px;padding:26px 28px}
-.cap-h{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px;color:var(--bakery)}
-.cap-h.sm{margin-top:26px;padding-top:22px;border-top:1px solid var(--line)}
-.cap{white-space:pre-line;font-size:15.5px;line-height:1.65}
-.cap.short{color:var(--ink2)}
-.copy{font-family:'Uncage',sans-serif;font-size:10px;letter-spacing:.2em;text-transform:uppercase;background:var(--brown);color:var(--cream);border:0;border-radius:999px;padding:10px 16px;cursor:pointer}
+.idea{margin-top:22px;background:var(--espresso);color:var(--cream);border-radius:10px;padding:20px 22px}
+.idea .k{color:var(--blush);margin-bottom:8px}
+.idea p:last-child{font-size:17.5px}
+.facts{margin-top:16px;display:grid;grid-template-columns:110px 1fr;gap:10px 16px;font-size:16px}
+.facts dt{font-family:'Uncage',sans-serif;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--brown);font-weight:650;padding-top:3px}
+h3{color:var(--brown);margin:28px 0 12px}
+.shots{list-style:none;display:flex;flex-direction:column;gap:10px}
+.shots li{display:grid;grid-template-columns:38px 1fr auto;gap:12px;align-items:start;background:var(--paper);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.sn{font-family:'Aurora',serif;font-style:italic;font-size:30px;line-height:1;color:var(--brown)}
+.sq{font-weight:600;line-height:1.35}
+.sc{font-size:15px;color:var(--ink2);margin-top:4px}
+.sd{font-family:'Uncage',sans-serif;font-size:12px;letter-spacing:.1em;font-weight:650;background:var(--blush);color:var(--espresso);border-radius:999px;padding:5px 10px;white-space:nowrap}
+.ost{padding-left:22px;display:flex;flex-direction:column;gap:6px}
+.ost li::marker{color:var(--brown);font-weight:700}
+.cap{margin-top:24px;border:1px solid var(--line);border-radius:10px;background:var(--paper)}
+.cap summary{list-style:none;cursor:pointer;display:flex;justify-content:space-between;align-items:center;padding:14px 18px;font-family:'Aurora',serif;font-size:22px}
+.cap summary::-webkit-details-marker{display:none}
+.cap-t{white-space:pre-line;padding:0 18px 18px;font-size:16px}
+.copy{font-family:'Uncage',sans-serif;font-size:10.5px;letter-spacing:.18em;text-transform:uppercase;background:var(--brown);color:var(--cream);border:0;border-radius:999px;padding:9px 14px;cursor:pointer}
 .copy.ok{background:var(--forest)}
-.details details{border-bottom:1px solid var(--line)}
-.details details:first-child{border-top:1px solid var(--line)}
-.details summary{cursor:pointer;list-style:none;padding:16px 0;font-family:'Aurora',serif;font-size:22px;display:flex;justify-content:space-between}
-.details summary::after{content:'+';color:var(--brown)}
-.details details[open] summary::after{content:'–'}
-.details details>*:not(summary){margin-bottom:14px;font-size:14.5px;color:var(--ink2)}
-.details ul,.details ol{padding-left:20px}
-.details li{margin-bottom:6px}
-.details code{font-size:12.5px;background:rgba(153,71,29,.08);padding:1px 5px;border-radius:3px}
-.tbl{overflow-x:auto}
-table{border-collapse:collapse;width:100%;font-size:13.5px}
-th{text-align:left;font-family:'Uncage',sans-serif;font-size:10px;letter-spacing:.16em;text-transform:uppercase;color:var(--bakery);padding:8px 10px 8px 0;border-bottom:1px solid var(--line)}
-td{padding:10px 10px 10px 0;border-bottom:1px solid var(--line);vertical-align:top}
-
-/* Pie */
-.foot{background:var(--forest);color:var(--cream);margin-top:96px;padding:72px 0}
-.foot-grid{display:grid;grid-template-columns:1fr 1fr;gap:56px}
-.foot h4{font-family:'Aurora',serif;font-weight:400;font-size:32px;line-height:1.05;margin-bottom:16px}
-.foot p{color:rgba(247,239,231,.8);font-size:14.5px;margin-bottom:12px}
+.notes{margin-top:18px;font-size:15px;color:var(--ink2)}
+.notes .k{color:var(--brown);margin-bottom:8px}
+.notes ul{padding-left:20px;display:flex;flex-direction:column;gap:6px}
+code{font-size:13px;background:rgba(153,71,29,.08);padding:1px 5px;border-radius:3px}
+.foot{background:var(--espresso);color:var(--cream);margin-top:60px;padding:36px 0;font-size:14.5px}
 .foot .label{color:var(--blush)}
-.foot a.btn{display:inline-block;margin-top:10px;margin-right:10px;border:1px solid var(--blush);color:var(--cream);text-decoration:none;border-radius:999px;padding:12px 20px;font-family:'Uncage',sans-serif;font-size:10.5px;letter-spacing:.2em;text-transform:uppercase}
-.sign{display:flex;justify-content:space-between;align-items:center;margin-top:64px;padding-top:28px;border-top:1px solid rgba(247,239,231,.15)}
-.sign img{height:44px}
-
-@media (max-width:900px){
-  .hero-grid,.cols,.foot-grid{grid-template-columns:1fr}
-  .cals{grid-template-columns:repeat(4,1fr)}
-  .chapters{grid-template-columns:1fr}
-  .ph{grid-template-columns:1fr}
-}
-@media (max-width:560px){
-  .wrap{padding:0 16px}
-  .rail{padding:24px 16px 14px;margin:0 -16px}
-  .slide{height:420px}
-  .cals{grid-template-columns:repeat(2,1fr)}
-  .capbox{padding:20px}
-  .sign{flex-direction:column;gap:18px;align-items:flex-start}
-}
+.foot a{color:var(--blush)}
+:focus-visible{outline:2px solid var(--brown);outline-offset:3px}
+@media (max-width:520px){.facts{grid-template-columns:1fr;gap:2px}.facts dd{margin-bottom:10px}.cal a{grid-template-columns:92px 1fr}}
 </style>
 </head>
 <body>
 
 <header class="hero">
   <div class="wrap">
-    <div class="mast label"><span>Alma House · Nails Bar</span><span class="rule"></span><span>Capítulo III · Sep — Oct 2026</span></div>
-    <div class="hero-grid">
-      <div>
-        <h1>Esto no es<br>un spa de uñas.<br><em>Es una casa.</em></h1>
-        <p class="lede">Y toda casa tiene sus códigos. Siete contenidos para mostrar cómo se vive adentro.</p>
-        <p class="by label">Dirección creativa · We Rock Agencia<br>Cajicá · Colombia</p>
-      </div>
-      <div class="grid"><img src="preview/feed-grid.jpg" alt="Así queda el perfil de Instagram después de publicar las piezas"></div>
-    </div>
-    <div class="chapters">
-      <div><span class="label">Capítulo I · Expectativa</span><p>“Algo está por llegar.”</p></div>
-      <div><span class="label">Capítulo II · Apertura</span><p>“No vendemos manicure. Vendemos tiempo.”</p></div>
-      <div class="now"><span class="label">Capítulo III · La Casa</span><p>“Toda casa tiene sus códigos.”</p></div>
-    </div>
+    <div class="mast label"><span>Alma House · Nails Bar</span><span class="rule"></span><span>Cap. IV</span></div>
+    <h1>Capítulo IV<br><em>Adentro.</em></h1>
+    <p class="lede">Ya conoces la casa. Ahora vívela desde la silla.</p>
+    <p class="by label">6 reels · grabados con celular<br>Guiones · We Rock Agencia</p>
   </div>
 </header>
 
 <main class="wrap">
-  <section class="calendar">
-    <div class="sec-h"><h3>Calendario</h3><span class="label">7 piezas · orden de publicación</span></div>
-    <div class="cals">
-  <a class="cal" href="#p00">
-    <span class="cal-d">Sáb 26 sep</span>
-    <img src="web/00-reel-portada.jpg" alt="" loading="lazy">
-    <span class="cal-n">Nº 00</span>
-    <span class="cal-t">La anfitriona</span>
-  </a>
-  <a class="cal" href="#p01">
-    <span class="cal-d">Dom 27 sep</span>
-    <img src="web/01-manifiesto-1.jpg" alt="" loading="lazy">
-    <span class="cal-n">Nº 01</span>
-    <span class="cal-t">Esto no es un spa de uñas</span>
-  </a>
-  <a class="cal" href="#p04">
-    <span class="cal-d">Mar 29 sep</span>
-    <img src="web/04-frases-01.jpg" alt="" loading="lazy">
-    <span class="cal-n">Nº 04</span>
-    <span class="cal-t">Lo que nunca vas a escuchar en esta casa</span>
-  </a>
-  <a class="cal" href="#p06">
-    <span class="cal-d">Jue 1 oct</span>
-    <img src="web/06-agenda-post-1.jpg" alt="" loading="lazy">
-    <span class="cal-n">Nº 06</span>
-    <span class="cal-t">La agenda de octubre</span>
-  </a>
-  <a class="cal" href="#p03">
-    <span class="cal-d">Mar 6 oct</span>
-    <img src="web/03-edicion-01.jpg" alt="" loading="lazy">
-    <span class="cal-n">Nº 03</span>
-    <span class="cal-t">La edición de octubre</span>
-  </a>
-  <a class="cal" href="#p02">
-    <span class="cal-d">Jue 8 oct</span>
-    <img src="web/02-codigos-01.jpg" alt="" loading="lazy">
-    <span class="cal-n">Nº 02</span>
-    <span class="cal-t">Los códigos de la casa</span>
-  </a>
-  <a class="cal" href="#p05">
-    <span class="cal-d">Mar 13 oct</span>
-    <img src="web/05-esperar-01.jpg" alt="" loading="lazy">
-    <span class="cal-n">Nº 05</span>
-    <span class="cal-t">Todo puede esperar. Tú no.</span>
-  </a></div>
+  <section class="sec">
+    <h2>La continuidad</h2>
+    <p>El capítulo I creó la expectativa, el II abrió la puerta y el III mostró los códigos de la casa. El IV pone la cámara en los ojos de la clienta: se vive la experiencia desde la silla, se escuchan sus sonidos, habla la voz de la marca y se muestra un resultado real. Cierra con el brindis que abre noviembre (carta de cócteles + Miércoles de Amigas).</p>
   </section>
+
+  <section class="sec">
+    <h2>Antes de grabar</h2>
+    <div class="guide"><ul>
+      <li><b>Vertical</b> y en <b>4K a 30 fps</b> (o 1080p a 60 fps). Limpia el lente antes de cada reel.</li>
+      <li><b>Luz:</b> cerca de la ventana o con las luces del local encendidas; todas las tomas de un mismo reel con la misma luz.</li>
+      <li><b>Bloquea el enfoque y la exposición:</b> deja el dedo presionado sobre lo que quieres enfocar.</li>
+      <li><b>Pulso firme:</b> celular con las dos manos y los codos pegados al cuerpo, movimientos lentos y nada de zoom digital.</li>
+      <li>Graba <b>2 o 3 segundos de más</b> antes y después de cada toma, y repite las importantes.</li>
+      <li><b>Sonido:</b> para los reels 09 y 11, apaga la música del local y graba cerca.</li>
+      <li>Si alguien sale hablando, <b>se escucha su voz</b>. Si no habla, que no salga de frente: solo manos.</li>
+    </ul></div>
+  </section>
+
+  <section class="sec">
+    <h2>Calendario</h2>
+    <div class="cal"><a href="#n07"><span class="d">Mar 20 oct</span><span class="t">Nº 07 · POV: llegas a tu momento<small>Reel · 15–20 s · 7:00 p. m.</small></span></a><a href="#n08"><span class="d">Jue 22 oct</span><span class="t">Nº 08 · ¿Cuál eliges?<small>Reel · 15–20 s · 12:30 p. m.</small></span></a><a href="#n09"><span class="d">Mar 27 oct</span><span class="t">Nº 09 · Lo que nunca vas a escuchar aquí<small>Reel · 20–30 s · 7:00 p. m.</small></span></a><a href="#n10"><span class="d">Jue 29 oct</span><span class="t">Nº 10 · Algo se está sirviendo<small>Reel · 10–15 s · 7:00 p. m.</small></span></a><a href="#n11"><span class="d">Mar 3 nov</span><span class="t">Nº 11 · El sonido de tu momento<small>Reel · 20–25 s · 8:00 p. m.</small></span></a><a href="#n12"><span class="d">Jue 5 nov</span><span class="t">Nº 12 · Mismas manos, otro momento<small>Reel · 12–18 s · 12:30 p. m.</small></span></a></div>
+  </section>
+
   
-<section class="piece" id="p00">
-  <header class="ph">
-    <p class="eyebrow">Nº 00 · Reel</p>
-    <h2>La anfitriona</h2>
-    <p class="when"><span>Sáb 26 sep</span><span>7:00 p. m.</span></p>
-    <p class="role">Es el prólogo. Antes de mostrar los códigos de la casa, aparece quien la abre. Es la primera vez que la marca tiene cara y que se ve el local real (el wordmark en la pared, la barra de color, el lounge de pedicure, las tres estaciones). Resuelve el "respaldo profesional" que pide el ADN (2.2): la gente le compra a personas.</p>
+<article class="ep" id="n07">
+  <header class="eh">
+    <p class="eyebrow">Nº 07 · Reel · 15–20 s</p>
+    <h2>POV: llegas a tu momento</h2>
+    <p class="when"><span>Mar 20 oct</span><span>7:00 p. m.</span></p>
   </header>
-  <div class="rail">
-    <figure class="slide story vid"><video src="piezas/00-reel-la-anfitriona/video/alma-house-la-anfitriona-web.mp4" controls playsinline preload="metadata" poster="web/00-reel-portada.jpg"></video></figure>
-    <a class="slide story" href="piezas/00-reel-la-anfitriona/export/00-reel-portada.png" target="_blank" title="Abrir PNG final: 00-reel-portada.png"><img src="web/00-reel-portada.jpg" alt="" loading="lazy"></a>
+  <div class="idea">
+    <p class="k">La idea</p>
+    <p>El capítulo III contó cómo es la casa. Este reel la hace vivir en primera persona: la cámara es la clienta. Desde la puerta hasta la silla, sin que nadie hable. Es el reel que hace que alguien diga "quiero eso".</p>
   </div>
-  <p class="hint">Desliza → · clic en una imagen para abrir el PNG final</p>
-  <div class="cols">
-    <div class="capbox">
-      <div class="cap-h"><span class="label">Caption</span><button class="copy" data-copy="cap00">Copiar caption</button></div>
-      <div class="cap" id="cap00">Toda casa tiene quien te abra la puerta.
+  <dl class="facts">
+    <dt>Gancho</dt><dd>La puerta abriéndose hacia la luz del local, con el texto "POV: por fin llegaste a tu momento".</dd>
+    <dt>Audio</dt><dd>House suave / deep house chill (como "Comfy Emotional"), más el sonido real de la puerta y del café bajito debajo.</dd>
+    <dt>Quién sale</dt><dd>Nadie de frente. Solo manos: la de la clienta (que sostiene el celular) y la de quien la atiende.</dd>
+  </dl>
+  <h3>Tomas</h3>
+  <ol class="shots">
+    <li><span class="sn">1</span><div><p class="sq">La puerta del local abriéndose</p><p class="sc">Celular a la altura del pecho, caminando despacio hacia adentro</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">2</span><div><p class="sq">El wordmark de la pared y el lounge</p><p class="sc">Paneo lento de izquierda a derecha, sin parar</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">3</span><div><p class="sq">Una mano que entrega un café</p><p class="sc">Plano fijo: la taza entra a cuadro hacia la cámara</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">4</span><div><p class="sq">La silla verde, vacía, esperándote</p><p class="sc">Acercarse caminando hasta quedar sentada (la cámara baja)</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">5</span><div><p class="sq">Las manos sobre el cojín o la toalla</p><p class="sc">Cenital (desde arriba), quieto</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">6</span><div><p class="sq">La barra de esmaltes</p><p class="sc">La mano de la clienta señala o toma un frasco</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">7</span><div><p class="sq">Primer plano de la lima o el pincel</p><p class="sc">Muy cerca, quieto, con buena luz</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">8</span><div><p class="sq">Final: las manos terminadas sobre la taza</p><p class="sc">Cenital, quieto; espacio arriba para el texto</p></div><span class="sd">3 s</span></li>
+  </ol>
+  <h3>Texto en pantalla</h3>
+  <ol class="ost"><li>(0–2 s) POV: por fin llegaste a tu momento</li><li>(5–7 s) Tu café llega antes que la lima</li><li>(9–11 s) Aquí nadie te apura</li><li>(final) Reserva tu momento · WhatsApp 311 566 2051</li></ol>
+  <details class="cap"><summary>Caption <button class="copy" data-copy="cap07" type="button">Copiar</button></summary>
+    <div class="cap-t" id="cap07">POV: por fin llegaste a tu momento. ☕
 
-Esta es la nuestra. Soñamos Alma House como el lugar al que siempre quisimos llegar: sin afán, sin ruido, con un café bien hecho y un momento que nadie te acelera.
+La puerta se cierra, el celular se queda en silencio y alguien te pregunta cómo llegas hoy. Así empieza en Alma House: sin afán, con un café y con todo el tiempo que necesites.
 
-Ya está abierta. Y te estamos esperando.
-
-Alma House · Nails Bar
-CC Montaña Plaza, local 4 (Km 2 vía Tabio), Cajicá
-Reserva tu momento por WhatsApp: 311 566 2051
-
-#AlmaHouse #Cajicá #NailBarCajicá #EmprendimientoFemenino #DetrásDeLaMarca #TuMomento</div>
-      
-    </div>
-    <div class="details">
-      <details><summary>Texto alternativo (portada)</summary><p>La fundadora de Alma House sonríe, sentada en una silla verde salvia bajo el logo de la marca y una barra de esmaltes. "Toda casa tiene quien te abra la puerta."</p></details><details><summary>Notas</summary><ul><li><b>Ajustar antes de publicar:</b> incluir el nombre de la fundadora en la segunda línea ("Soy ___, y soñé Alma House…") y, si quiere, una frase textual suya del video. El video no tiene subtítulos ni transcripción en el proyecto, así que el caption no la cita.</li><li>Si el video no trae subtítulos quemados, activar los subtítulos automáticos de Instagram (mucha gente ve reels sin sonido).</li><li>Etiquetar a la fundadora (su cuenta personal) en el reel para sumar alcance.</li></ul></details>
-    </div>
-  </div>
-</section>
-
-<section class="piece" id="p01">
-  <header class="ph">
-    <p class="eyebrow">Nº 01 · Carrusel · 3</p>
-    <h2>Esto no es un spa de uñas</h2>
-    <p class="when"><span>Dom 27 sep</span><span>6:00 p. m.</span></p>
-    <p class="role">Llega justo después del reel de la anfitriona (Nº 00). Después de "ya abrimos", la marca dice quién es y rompe la categoría en la que la gente la quiere meter. Es la pieza que define todo lo demás del mes.</p>
-  </header>
-  <div class="rail">
-    
-    <a class="slide" href="piezas/01-manifiesto/export/01-manifiesto-1.png" target="_blank" title="Abrir PNG final: 01-manifiesto-1.png"><img src="web/01-manifiesto-1.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/01-manifiesto/export/01-manifiesto-2.png" target="_blank" title="Abrir PNG final: 01-manifiesto-2.png"><img src="web/01-manifiesto-2.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/01-manifiesto/export/01-manifiesto-3.png" target="_blank" title="Abrir PNG final: 01-manifiesto-3.png"><img src="web/01-manifiesto-3.jpg" alt="" loading="lazy"></a>
-  </div>
-  <p class="hint">Desliza → · clic en una imagen para abrir el PNG final</p>
-  <div class="cols">
-    <div class="capbox">
-      <div class="cap-h"><span class="label">Caption</span><button class="copy" data-copy="cap01">Copiar caption</button></div>
-      <div class="cap" id="cap01">Esto no es un spa de uñas.
-
-Es una casa. De cuatro sillas, con café recién hecho y un momento que nadie te va a acelerar.
-
-Allá te dan un turno. Aquí te guardamos tu momento.
-Allá cuentan clientas. Aquí recordamos tu nombre.
-
-La belleza es la excusa. La pausa es el regalo.
-
-Alma House · Nails Bar
-CC Montaña Plaza, local 4 (Km 2 vía Tabio), Cajicá
-Reserva tu momento por WhatsApp: 311 566 2051
-
-#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #TuMomento #BellezaConAlma</div>
-      <div class="cap-h sm"><span class="label">Versión corta</span><button class="copy" data-copy="short01">Copiar</button></div><div class="cap short" id="short01">Esto no es un spa de uñas. Es una casa en Cajicá donde tu momento es solo tuyo. Manicure y pedicure con café, silencio y cero afán. Reserva por WhatsApp: 311 566 2051.</div>
-    </div>
-    <div class="details">
-      <details><summary>Texto alternativo</summary><ol><li>Manos con uñas rojo cereza y anillos dorados sobre el cabello recogido. Texto: "Esto no es un spa de uñas. Es una casa."</li><li>Contraste tipográfico: "Allá te dan un turno. Aquí te guardamos tu momento. Allá cuentan clientas. Aquí recordamos tu nombre. Allá suenan secadores, música y televisor. Aquí solo suena el café. Allá sales con las uñas listas. Aquí sales distinta."</li><li>Mano con uñas verde salvia sobre un libro abierto. Texto: "La belleza es la excusa. La pausa es el regalo." Logo Alma House.</li></ol></details><details><summary>Notas</summary><ul><li>La frase de cierre sale literal de la promesa de marca (ADN 3.3).</li><li>No nombra ni insinúa a ningún competidor: "allá" es la categoría entera, no un salón.</li><li>Fijar en el perfil (pin) durante octubre: es la mejor carta de presentación para quien llega nuevo.</li></ul></details>
-    </div>
-  </div>
-</section>
-
-<section class="piece" id="p04">
-  <header class="ph">
-    <p class="eyebrow">Nº 04 · Carrusel · 7</p>
-    <h2>Lo que nunca vas a escuchar en esta casa</h2>
-    <p class="when"><span>Mar 29 sep</span><span>12:30 p. m.</span></p>
-    <p class="role">La voz de la marca, con humor fino. Todas conocemos estas frases; nadie las había dicho en voz alta. Es la pieza diseñada para <b>envíos</b> ("mira, esto es lo que te digo") y para que el diferencial se entienda sin explicarlo.</p>
-  </header>
-  <div class="rail">
-    
-    <a class="slide" href="piezas/04-frases-que-no-escucharas/export/04-frases-01.png" target="_blank" title="Abrir PNG final: 04-frases-01.png"><img src="web/04-frases-01.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/04-frases-que-no-escucharas/export/04-frases-02.png" target="_blank" title="Abrir PNG final: 04-frases-02.png"><img src="web/04-frases-02.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/04-frases-que-no-escucharas/export/04-frases-03.png" target="_blank" title="Abrir PNG final: 04-frases-03.png"><img src="web/04-frases-03.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/04-frases-que-no-escucharas/export/04-frases-04.png" target="_blank" title="Abrir PNG final: 04-frases-04.png"><img src="web/04-frases-04.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/04-frases-que-no-escucharas/export/04-frases-05.png" target="_blank" title="Abrir PNG final: 04-frases-05.png"><img src="web/04-frases-05.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/04-frases-que-no-escucharas/export/04-frases-06.png" target="_blank" title="Abrir PNG final: 04-frases-06.png"><img src="web/04-frases-06.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/04-frases-que-no-escucharas/export/04-frases-07.png" target="_blank" title="Abrir PNG final: 04-frases-07.png"><img src="web/04-frases-07.jpg" alt="" loading="lazy"></a>
-  </div>
-  <p class="hint">Desliza → · clic en una imagen para abrir el PNG final</p>
-  <div class="cols">
-    <div class="capbox">
-      <div class="cap-h"><span class="label">Caption</span><button class="copy" data-copy="cap04">Copiar caption</button></div>
-      <div class="cap" id="cap04">Frases que nunca vas a escuchar en Alma House:
-
-"¿Quién sigue?"
-"Mi reina, ¿qué nos hacemos hoy?"
-"Espérame diez minuticos, ya te atiendo."
-"Rapidito, que tengo otra clienta."
-"El café se paga aparte."
-
-Lo que sí vas a escuchar:
-"Hola, Camila. ¿Tu café como la última vez?"
-
-Envíaselo a la amiga que necesita esta casa.
+¿A quién traerías contigo?
 
 Reserva tu momento por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #CosasDeSalón #TuMomento</div>
-      <div class="cap-h sm"><span class="label">Versión corta</span><button class="copy" data-copy="short04">Copiar</button></div><div class="cap short" id="short04">En Alma House nadie te dice "¿quién sigue?". Te llamamos por tu nombre, tu cita empieza a tiempo y el café va por la casa. Nails bar en Cajicá. Reserva: 311 566 2051.</div>
-    </div>
-    <div class="details">
-      <details><summary>Texto alternativo</summary><ol><li>Manos con anillos plateados sobre una taza con margaritas. "Lo que nunca vas a escuchar en esta casa. (Y lo que sí.)"</li><li>Frase tachada: "¿Quién sigue?" Respuesta: "No hay fila. Hay un momento con tu nombre."</li><li>Frase tachada: "Mi reina, ¿qué nos hacemos hoy?" Respuesta: "Te llamamos por tu nombre. Siempre."</li><li>Frase tachada: "Espérame diez minuticos, ya te atiendo." Respuesta: "Tu cita empieza a tiempo. Siempre."</li><li>Frase tachada: "Rapidito, que tengo otra clienta." Respuesta: "La belleza no se acelera. Se habita."</li><li>Frase tachada: "El café se paga aparte." Respuesta: "El café llega antes que la lima. Y va por la casa."</li><li>Manos sosteniendo un vaso de vidrio. "Lo que sí vas a escuchar: 'Hola, Camila. ¿Tu café como la última vez?'"</li></ol></details><details><summary>Notas</summary><ul><li>"Hola, Camila…" es el ejemplo de voz hablada del ADN (3.8) — la marca ya lo tiene escrito así.</li><li>Las frases son de la categoría, no de un salón en particular. Nunca responder comentarios señalando a otro negocio.</li><li><b>Confirmar con la cliente:</b> que el café esté efectivamente incluido en la experiencia (ADN 3.1 lo define así). Si tiene costo, cambiar la frase 5 por: "¿Le subo a la música?" → "Aquí la música va bajita. Siempre."</li></ul></details>
-    </div>
-  </div>
-</section>
+#AlmaHouse #TuMomento #Cajicá #NailBarCajicá #POV #UñasCajicá</div>
+  </details>
+  <div class="notes"><p class="k">Notas</p><ul><li><b>Portada:</b> "POV: llegas a tu momento", con la silla esperando (fotograma de la toma 4).</li><li>Grabar todo en la misma franja de luz (ideal de 9 a 11 a. m. o con las luces del local encendidas), para que las tomas peguen entre sí.</li><li>Que la clienta de la toma 1 tenga las uñas sin hacer y la de la toma 8 terminadas (puede ser la misma persona, grabando el final después del servicio).</li><li><b>Validar:</b> que el café se ofrece a todas las clientas (lo dice el texto 2).</li></ul></div>
+</article>
 
-<section class="piece" id="p06">
-  <header class="ph">
-    <p class="eyebrow">Nº 06 · Post · 2 + Historias · 3</p>
-    <h2>La agenda de octubre</h2>
-    <p class="when"><span>Jue 1 oct</span><span>12:30 p. m.</span></p>
-    <p class="role">Abre octubre convirtiendo lo que ya se contó (anfitriona, manifiesto, frases) en reservas. La escasez es real, no inventada: cuatro sillas y un momento sin prisa para cada clienta. Sin "¡últimos cupos!" ni cuenta regresiva agresiva — la marca no grita.</p>
+<article class="ep" id="n08">
+  <header class="eh">
+    <p class="eyebrow">Nº 08 · Reel · 15–20 s</p>
+    <h2>¿Cuál eliges?</h2>
+    <p class="when"><span>Jue 22 oct</span><span>12:30 p. m.</span></p>
   </header>
-  <div class="rail">
-    
-    <a class="slide" href="piezas/06-agenda-de-octubre/export/06-agenda-post-1.png" target="_blank" title="Abrir PNG final: 06-agenda-post-1.png"><img src="web/06-agenda-post-1.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/06-agenda-de-octubre/export/06-agenda-post-2.png" target="_blank" title="Abrir PNG final: 06-agenda-post-2.png"><img src="web/06-agenda-post-2.jpg" alt="" loading="lazy"></a><a class="slide story" href="piezas/06-agenda-de-octubre/export/06-agenda-story-1.png" target="_blank" title="Abrir PNG final: 06-agenda-story-1.png"><img src="web/06-agenda-story-1.jpg" alt="" loading="lazy"></a><a class="slide story" href="piezas/06-agenda-de-octubre/export/06-agenda-story-2.png" target="_blank" title="Abrir PNG final: 06-agenda-story-2.png"><img src="web/06-agenda-story-2.jpg" alt="" loading="lazy"></a><a class="slide story" href="piezas/06-agenda-de-octubre/export/06-agenda-story-3.png" target="_blank" title="Abrir PNG final: 06-agenda-story-3.png"><img src="web/06-agenda-story-3.jpg" alt="" loading="lazy"></a>
+  <div class="idea">
+    <p class="k">La idea</p>
+    <p>La curaduría de color (la "Edición de octubre") pasa de carrusel a video y se vuelve conversación. Le pide a la gente que comente y empuja el último miércoles con 15% (28 de octubre).</p>
   </div>
-  <p class="hint">Desliza → · clic en una imagen para abrir el PNG final</p>
-  <div class="cols">
-    <div class="capbox">
-      <div class="cap-h"><span class="label">Caption</span><button class="copy" data-copy="cap06">Copiar caption</button></div>
-      <div class="cap" id="cap06">Tu mejor carta de octubre: un momento tuyo.
+  <dl class="facts">
+    <dt>Gancho</dt><dd>Tres frascos aparecen en fila sobre la barra, con el texto "Solo puedes elegir uno".</dd>
+    <dt>Audio</dt><dd>Pista con beat marcado; cada cambio de tono cae en un golpe.</dd>
+    <dt>Quién sale</dt><dd>Solo manos (Yissel o alguien del equipo) con uñas hechas, más una mano de clienta.</dd>
+  </dl>
+  <h3>Tomas</h3>
+  <ol class="shots">
+    <li><span class="sn">1</span><div><p class="sq">Tres frascos en fila: cereza negra, rojo y espresso</p><p class="sc">Cenital sobre la barra, quieto. Una mano los pone uno por uno</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">2</span><div><p class="sq">La mano toma el primer frasco y lo gira hacia la cámara</p><p class="sc">Muy cerca, que se lea el color</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">3</span><div><p class="sq">Una uña pintándose de ese color</p><p class="sc">Primer plano, pincel en una sola pasada</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">4</span><div><p class="sq">Repetir las tomas 2 y 3 con el segundo color</p><p class="sc">Igual</p></div><span class="sd">4 s</span></li>
+    <li><span class="sn">5</span><div><p class="sq">Repetir las tomas 2 y 3 con el tercer color</p><p class="sc">Igual</p></div><span class="sd">4 s</span></li>
+    <li><span class="sn">6</span><div><p class="sq">Final: tres uñas, cada una de un color</p><p class="sc">Mano sobre tela oscura, quieta; espacio abajo para el texto</p></div><span class="sd">3 s</span></li>
+  </ol>
+  <h3>Texto en pantalla</h3>
+  <ol class="ost"><li>(0–2 s) Solo puedes elegir uno</li><li>(sobre cada color) 1 · Cereza negra / 2 · Rojo casa / 3 · Espresso</li><li>(final) ¿1, 2 o 3? Cuéntanos en comentarios</li><li>(final, abajo) Miércoles 28 · 15% en todos los servicios</li></ol>
+  <details class="cap"><summary>Caption <button class="copy" data-copy="cap08" type="button">Copiar</button></summary>
+    <div class="cap-t" id="cap08">Solo puedes elegir uno. ¿1, 2 o 3? 👇
 
-Cuatro sillas y cero prisa: cada clienta tiene su momento completo, sin nadie esperando detrás. Por eso aquí los cupos se cuentan con los dedos, y por eso se reservan.
+1 · Cereza negra: la reina de octubre.
+2 · Rojo casa: el que nunca falla.
+3 · Espresso: casi negro.
 
-Así de sencillo:
-1. Escríbenos por WhatsApp: 311 566 2051
-2. Elige tu día y tu servicio
-3. Llega. El resto es nuestro.
+Y el miércoles 28 tienes 15% en todos los servicios para estrenarlo.
 
-Manicure y pedicure · tradicional, semipermanente, secado rápido, acrílico y polygel.
-CC Montaña Plaza, local 4 (Km 2 vía Tabio) · Cajicá
+Reserva por WhatsApp: 311 566 2051
+CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #PedicureCajicá #ReservaTuMomento</div>
-      <div class="cap-h sm"><span class="label">Versión corta</span><button class="copy" data-copy="short06">Copiar</button></div><div class="cap short" id="short06">La agenda de octubre ya está abierta en Alma House. Cuatro sillas y un momento completo, solo para ti. Reserva por WhatsApp: 311 566 2051 · CC Montaña Plaza, Cajicá.</div>
-    </div>
-    <div class="details">
-      <details open><summary>Historias — stickers a agregar en la app</summary><div class="tbl"><table><thead><tr><th>Historia</th><th>Sticker</th><th>Dónde</th></tr></thead><tbody><tr><td>1 · "Octubre ya tiene agenda"</td><td>Ninguno, o música suave</td><td>—</td></tr><tr><td>2 · "¿Eres de mañana o de tarde?"</td><td><b>Encuesta</b>: "Mañana ☀ / Tarde ☕"</td><td>Sobre los cuatro arcos (zona y≈1100–1450)</td></tr><tr><td>3 · "Escríbenos. Te esperamos."</td><td><b>Enlace</b> a <code>wa.me/573115662051</code> con texto "Reservar mi momento"</td><td>Zona libre inferior (y≈1500–1650)</td></tr></tbody></table></div>
-<p>Responder cada voto de la encuesta por DM, por nombre: "Hola, Laura. Tengo un espacio el jueves a las 10. ¿Te lo guardo?" (voz del ADN: sugerir, no presionar).</p></details><details><summary>Texto alternativo</summary><ul><li>Post 1: mano con uñas rojas sosteniendo un as de corazones. "Tu mejor carta de octubre: un momento tuyo."</li><li>Post 2: "Reservar es así de sencillo" en tres pasos, con servicios y dirección.</li><li>Historia 1: mano con uñas rojas y una carta. "Octubre ya tiene agenda."</li><li>Historia 2: cuatro arcos sobre fondo verde. "¿Eres de mañana o de tarde?"</li><li>Historia 3: mano con flor y tacones vino en una calle adoquinada. "Escríbenos. Te esperamos."</li></ul></details>
-    </div>
-  </div>
-</section>
+#AlmaHouse #UñasDeTemporada #Cajicá #NailBarCajicá #TuMomento #ColoresDeOtoño</div>
+  </details>
+  <div class="notes"><p class="k">Notas</p><ul><li><b>Portada:</b> "¿Cuál eliges?" con los tres frascos (fotograma de la toma 1).</li><li>Responder cada comentario con el número; sube el alcance del reel.</li><li>Si los nombres de los tonos de la marca de esmalte son otros, se dejan los nuestros (cereza negra, rojo casa, espresso): son los de la campaña de octubre.</li><li>Si se publica después del 28, quitar el texto 4 y la línea del 15% del caption.</li></ul></div>
+</article>
 
-<section class="piece" id="p03">
-  <header class="ph">
-    <p class="eyebrow">Nº 03 · Carrusel · 7</p>
-    <h2>La edición de octubre</h2>
-    <p class="when"><span>Mar 6 oct</span><span>12:30 p. m.</span></p>
-    <p class="role">La curaduría como lujo. Un spa convencional te pasa un abanico de 200 colores; una casa te recomienda cinco. Es la pieza más "fashion" del mes y la que conecta directo con el tablero de Pinterest de la cliente (rojos cereza, vino, nude lechoso).</p>
+<article class="ep" id="n09">
+  <header class="eh">
+    <p class="eyebrow">Nº 09 · Reel · 20–30 s</p>
+    <h2>Lo que nunca vas a escuchar aquí</h2>
+    <p class="when"><span>Mar 27 oct</span><span>7:00 p. m.</span></p>
   </header>
-  <div class="rail">
-    
-    <a class="slide" href="piezas/03-edicion-de-octubre/export/03-edicion-01.png" target="_blank" title="Abrir PNG final: 03-edicion-01.png"><img src="web/03-edicion-01.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/03-edicion-de-octubre/export/03-edicion-02.png" target="_blank" title="Abrir PNG final: 03-edicion-02.png"><img src="web/03-edicion-02.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/03-edicion-de-octubre/export/03-edicion-03.png" target="_blank" title="Abrir PNG final: 03-edicion-03.png"><img src="web/03-edicion-03.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/03-edicion-de-octubre/export/03-edicion-04.png" target="_blank" title="Abrir PNG final: 03-edicion-04.png"><img src="web/03-edicion-04.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/03-edicion-de-octubre/export/03-edicion-05.png" target="_blank" title="Abrir PNG final: 03-edicion-05.png"><img src="web/03-edicion-05.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/03-edicion-de-octubre/export/03-edicion-06.png" target="_blank" title="Abrir PNG final: 03-edicion-06.png"><img src="web/03-edicion-06.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/03-edicion-de-octubre/export/03-edicion-07.png" target="_blank" title="Abrir PNG final: 03-edicion-07.png"><img src="web/03-edicion-07.jpg" alt="" loading="lazy"></a>
+  <div class="idea">
+    <p class="k">La idea</p>
+    <p>El carrusel de las frases fue la voz con humor de la marca. Ahora esas frases se dicen en voz alta. Es el reel más compartible del capítulo: todas hemos escuchado esas frases en otro lugar.</p>
   </div>
-  <p class="hint">Desliza → · clic en una imagen para abrir el PNG final</p>
-  <div class="cols">
-    <div class="capbox">
-      <div class="cap-h"><span class="label">Caption</span><button class="copy" data-copy="cap03">Copiar caption</button></div>
-      <div class="cap" id="cap03">La edición de octubre.
+  <dl class="facts">
+    <dt>Gancho</dt><dd>Yissel mira a cámara con cara seria y dice la primera frase.</dd>
+    <dt>Audio</dt><dd>La voz de Yissel (sonido directo, celular cerca). Música muy baja solo en el remate.</dd>
+    <dt>Quién sale</dt><dd>Yissel hablando a cámara. Aquí sí habla: el video es su voz.</dd>
+  </dl>
+  <h3>Tomas</h3>
+  <ol class="shots">
+    <li><span class="sn">1</span><div><p class="sq">Yissel dice: "Mi amor, ¿te demoras? Es que tengo otra clienta esperando."</p><p class="sc">Plano medio, celular a la altura de los ojos, fondo del local</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">2</span><div><p class="sq">Corte seco: niega con la cabeza, sin hablar</p><p class="sc">Mismo plano</p></div><span class="sd">1 s</span></li>
+    <li><span class="sn">3</span><div><p class="sq">Yissel dice: "¿Ese color? Mejor el de siempre."</p><p class="sc">Mismo plano, otro gesto</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">4</span><div><p class="sq">Corte seco: niega con la cabeza</p><p class="sc">Mismo plano</p></div><span class="sd">1 s</span></li>
+    <li><span class="sn">5</span><div><p class="sq">Yissel dice: "Uy, no, el café se acabó."</p><p class="sc">Mismo plano</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">6</span><div><p class="sq">Corte seco: niega con la cabeza</p><p class="sc">Mismo plano</p></div><span class="sd">1 s</span></li>
+    <li><span class="sn">7</span><div><p class="sq">Remate: "Aquí no. Aquí el momento es tuyo." Sonríe</p><p class="sc">Un paso más cerca de la cámara</p></div><span class="sd">4 s</span></li>
+    <li><span class="sn">8</span><div><p class="sq">Final: una clienta, de espaldas, recibe su café</p><p class="sc">Plano abierto del lounge</p></div><span class="sd">3 s</span></li>
+  </ol>
+  <h3>Texto en pantalla</h3>
+  <ol class="ost"><li>(sobre cada frase) Lo que nunca vas a escuchar aquí · 1 / 2 / 3</li><li>(remate) Aquí el momento es tuyo</li><li>(final) Reserva tu momento · WhatsApp 311 566 2051</li></ol>
+  <details class="cap"><summary>Caption <button class="copy" data-copy="cap09" type="button">Copiar</button></summary>
+    <div class="cap-t" id="cap09">Frases que nunca vas a escuchar en Alma House. 😌
 
-Cinco tonos. Cero improvisación.
+Aquí nadie te apura porque viene otra, nadie te cambia el color que elegiste y el café no se acaba.
 
-01 — Cereza negra. Profundo, casi negro.
-02 — Rojo casa. El clásico, cálido y terroso.
-03 — Café con leche. El nude en su mejor día.
-04 — Leche de almendra. Lechoso, luminoso, silencioso.
-05 — Verde oliva. El inesperado.
-
-¿Cuál es el tuyo? Cuéntanos en comentarios, o dínoslo al reservar y lo tenemos listo.
-
-WhatsApp 311 566 2051 · CC Montaña Plaza, local 4 · Cajicá
-
-#AlmaHouse #OctoberNails #UñasOtoño #CherryNails #Cajicá #NailBarCajicá</div>
-      <div class="cap-h sm"><span class="label">Versión corta</span><button class="copy" data-copy="short03">Copiar</button></div><div class="cap short" id="short03">Cinco tonos curados para octubre: cereza negra, rojo casa, café con leche, leche de almendra y verde oliva. Elige el tuyo y reserva tu momento en Alma House, Cajicá. WhatsApp 311 566 2051.</div>
-    </div>
-    <div class="details">
-      <details><summary>Texto alternativo</summary><ol><li>Portada: mano con uñas vino sobre una carta. Título "Octubre — La edición de temporada. Cinco tonos. Cero improvisación."</li><li>Tono 01, Cereza negra, junto a mano con uñas oscuras sosteniendo una copa.</li><li>Tono 02, Rojo casa, junto a mano con uñas rojas y blazer verde.</li><li>Tono 03, Café con leche, junto a mano con uñas nude.</li><li>Tono 04, Leche de almendra, junto a manos con uñas rosa lechoso.</li><li>Tono 05, Verde oliva, junto a uñas verde oliva.</li><li>Las cinco uñas-muestra en fila. "¿Cuál es el tuyo?"</li></ol></details><details><summary>Notas</summary><ul><li><b>Confirmar con la cliente:</b> que la carta de color tenga equivalentes para los 5 tonos (el cierre ya aclara que son "tonos de referencia" y que el equivalente exacto se asesora en cita; así no prometemos un código de esmalte específico).</li><li>Los códigos REF (#4A1018, etc.) son del diseño, no de un esmalte. Si la cliente quiere, se reemplazan por el nombre/código real de su marca de producto.</li><li>CTA de comentario ("¿cuál es el tuyo?") → responder cada comentario invitando por nombre a reservar.</li></ul></details>
-    </div>
-  </div>
-</section>
-
-<section class="piece" id="p02">
-  <header class="ph">
-    <p class="eyebrow">Nº 02 · Carrusel · 9</p>
-    <h2>Los códigos de la casa</h2>
-    <p class="when"><span>Jue 8 oct</span><span>7:00 p. m.</span></p>
-    <p class="role">Convierte el manifiesto en pruebas concretas, justo cuando la gente ya conoce la casa y está decidiendo si reservar. La exclusividad no se declara: se demuestra con reglas. Es el contenido más "guardable" del mes.</p>
-  </header>
-  <div class="rail">
-    
-    <a class="slide" href="piezas/02-codigos-de-la-casa/export/02-codigos-01.png" target="_blank" title="Abrir PNG final: 02-codigos-01.png"><img src="web/02-codigos-01.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/02-codigos-de-la-casa/export/02-codigos-02.png" target="_blank" title="Abrir PNG final: 02-codigos-02.png"><img src="web/02-codigos-02.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/02-codigos-de-la-casa/export/02-codigos-03.png" target="_blank" title="Abrir PNG final: 02-codigos-03.png"><img src="web/02-codigos-03.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/02-codigos-de-la-casa/export/02-codigos-04.png" target="_blank" title="Abrir PNG final: 02-codigos-04.png"><img src="web/02-codigos-04.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/02-codigos-de-la-casa/export/02-codigos-05.png" target="_blank" title="Abrir PNG final: 02-codigos-05.png"><img src="web/02-codigos-05.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/02-codigos-de-la-casa/export/02-codigos-06.png" target="_blank" title="Abrir PNG final: 02-codigos-06.png"><img src="web/02-codigos-06.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/02-codigos-de-la-casa/export/02-codigos-07.png" target="_blank" title="Abrir PNG final: 02-codigos-07.png"><img src="web/02-codigos-07.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/02-codigos-de-la-casa/export/02-codigos-08.png" target="_blank" title="Abrir PNG final: 02-codigos-08.png"><img src="web/02-codigos-08.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/02-codigos-de-la-casa/export/02-codigos-09.png" target="_blank" title="Abrir PNG final: 02-codigos-09.png"><img src="web/02-codigos-09.jpg" alt="" loading="lazy"></a>
-  </div>
-  <p class="hint">Desliza → · clic en una imagen para abrir el PNG final</p>
-  <div class="cols">
-    <div class="capbox">
-      <div class="cap-h"><span class="label">Caption</span><button class="copy" data-copy="cap02">Copiar caption</button></div>
-      <div class="cap" id="cap02">Toda casa tiene sus códigos. Estos son los nuestros.
-
-I. Solo con reserva.
-II. Tu momento no se comparte.
-III. Cuatro sillas. Ni una más.
-IV. El café llega antes que la lima.
-V. Kit individual. Siempre.
-VI. Te llamamos por tu nombre.
-VII. El silencio también se ofrece.
-
-No son reglas para ponerte límites. Son las que nos ponemos nosotras, para que cuando cruces la puerta no tengas que pedir nada.
-
-Guárdalo. Lo vas a sentir desde la primera visita.
+¿Cuál has escuchado tú? Te leemos.
 
 Reserva tu momento por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #Cajicá #NailBarCajicá #ManicurePremium #SlowBeauty #Autocuidado</div>
-      <div class="cap-h sm"><span class="label">Versión corta</span><button class="copy" data-copy="short02">Copiar</button></div><div class="cap short" id="short02">Solo con reserva. Cuatro sillas. Café antes que la lima. Kit individual siempre. Así funciona Alma House, el nails bar de Cajicá donde tu momento es tuyo. Reserva: 311 566 2051.</div>
-    </div>
-    <div class="details">
-      <details><summary>Texto alternativo</summary><ol><li>Mano con uñas rojo vino y anillos finos sobre un libro. "Los códigos de la casa."</li><li>Manos con uñas nude sosteniendo celular y café. "Código I: Solo con reserva."</li><li>Manos sobre un teclado. "Código II: Tu momento no se comparte."</li><li>Fondo terracota con cuatro arcos. "Código III: Cuatro sillas. Ni una más."</li><li>Manos alrededor de un espresso. "Código IV: El café llega antes que la lima."</li><li>Mano con guante negro sostiene alicate esterilizado. "Código V: Kit individual. Siempre."</li><li>Mano con uñas crema junto a una taza. "Código VI: Te llamamos por tu nombre."</li><li>Fondo rosa empolvado. "Código VII: El silencio también se ofrece."</li><li>"Bienvenida a casa." Reserva por WhatsApp 311 566 2051.</li></ol></details><details><summary>Notas</summary><ul><li>Todos los códigos salen del ADN (3.1 ¿Cómo lo hace? y 3.9 Valores). Ninguno es inventado.</li><li><b>Confirmar con la cliente antes de publicar:</b> que la operación sea hoy efectivamente 100% con reserva y con kit individual por clienta. Si algo cambió, ajustar ese slide — no publicar un código que la experiencia real no cumpla.</li></ul></details>
-    </div>
-  </div>
-</section>
+#AlmaHouse #TuMomento #Cajicá #NailBarCajicá #HumorDeSalon #UñasCajicá</div>
+  </details>
+  <div class="notes"><p class="k">Notas</p><ul><li><b>Portada:</b> "Lo que nunca vas a escuchar aquí", con Yissel en plano medio (fotograma del remate).</li><li>Grabar cada frase 2 o 3 veces y elegir la más natural. Mejor un poco exagerada que tímida.</li><li>Subtítulos quemados obligatorios (mucha gente ve sin sonido): las frases completas en pantalla.</li><li>Si Yissel prefiere no salir, lo puede decir otra persona del equipo; la regla es que quien sale, habla.</li><li><b>Validar:</b> café incluido para todas las clientas (frase 5).</li></ul></div>
+</article>
 
-<section class="piece" id="p05">
-  <header class="ph">
-    <p class="eyebrow">Nº 05 · Carrusel · 5</p>
-    <h2>Todo puede esperar. Tú no.</h2>
-    <p class="when"><span>Mar 13 oct</span><span>7:00 a. m.</span></p>
-    <p class="role">Lleva el código II ("tu momento no se comparte") a la vida diaria. Es la pieza para la profesional ocupada: nombra el ruido que la persigue y le ofrece la salida. Cierra el capítulo con la promesa de marca.</p>
+<article class="ep" id="n10">
+  <header class="eh">
+    <p class="eyebrow">Nº 10 · Reel · 10–15 s</p>
+    <h2>Algo se está sirviendo</h2>
+    <p class="when"><span>Jue 29 oct</span><span>7:00 p. m.</span></p>
   </header>
-  <div class="rail">
-    
-    <a class="slide" href="piezas/05-todo-puede-esperar/export/05-esperar-01.png" target="_blank" title="Abrir PNG final: 05-esperar-01.png"><img src="web/05-esperar-01.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/05-todo-puede-esperar/export/05-esperar-02.png" target="_blank" title="Abrir PNG final: 05-esperar-02.png"><img src="web/05-esperar-02.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/05-todo-puede-esperar/export/05-esperar-03.png" target="_blank" title="Abrir PNG final: 05-esperar-03.png"><img src="web/05-esperar-03.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/05-todo-puede-esperar/export/05-esperar-04.png" target="_blank" title="Abrir PNG final: 05-esperar-04.png"><img src="web/05-esperar-04.jpg" alt="" loading="lazy"></a><a class="slide" href="piezas/05-todo-puede-esperar/export/05-esperar-05.png" target="_blank" title="Abrir PNG final: 05-esperar-05.png"><img src="web/05-esperar-05.jpg" alt="" loading="lazy"></a>
+  <div class="idea">
+    <p class="k">La idea</p>
+    <p>El puente a noviembre. Anuncia la carta de cócteles y el regreso de Miércoles de Amigas sin revelar nada: solo copas, hielo y dos manos que brindan. Abre la expectativa para el lanzamiento.</p>
   </div>
-  <p class="hint">Desliza → · clic en una imagen para abrir el PNG final</p>
-  <div class="cols">
-    <div class="capbox">
-      <div class="cap-h"><span class="label">Caption</span><button class="copy" data-copy="cap05">Copiar caption</button></div>
-      <div class="cap" id="cap05">Todo puede esperar.
+  <dl class="facts">
+    <dt>Gancho</dt><dd>Hielo cayendo en una copa, en primer plano, con su sonido.</dd>
+    <dt>Audio</dt><dd>El sonido real del hielo y del brindis; música suave entra en el segundo 3.</dd>
+    <dt>Quién sale</dt><dd>Solo manos con uñas hechas (dos personas, porque es para amigas).</dd>
+  </dl>
+  <h3>Tomas</h3>
+  <ol class="shots">
+    <li><span class="sn">1</span><div><p class="sq">Hielo cayendo en una copa vacía</p><p class="sc">Muy cerca, celular quieto apoyado; grabar en cámara lenta si se puede</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">2</span><div><p class="sq">Un líquido sirviéndose (puede ser agua con color, sin mostrar la etiqueta)</p><p class="sc">Mismo encuadre</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">3</span><div><p class="sq">Una rodaja de cítrico o una hoja entrando a la copa</p><p class="sc">Mismo encuadre</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">4</span><div><p class="sq">Dos manos con uñas hechas toman cada una su copa</p><p class="sc">Plano medio sobre la barra</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">5</span><div><p class="sq">Brindis: las copas chocan</p><p class="sc">Primer plano, con sonido</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">6</span><div><p class="sq">Final: la barra fuera de foco, con las copas</p><p class="sc">Celular quieto; espacio para el texto</p></div><span class="sd">3 s</span></li>
+  </ol>
+  <h3>Texto en pantalla</h3>
+  <ol class="ost"><li>(0–2 s) Algo se está sirviendo en Alma House</li><li>(brindis) Para venir con tu amiga</li><li>(final) Noviembre · Muy pronto</li></ol>
+  <details class="cap"><summary>Caption <button class="copy" data-copy="cap10" type="button">Copiar</button></summary>
+    <div class="cap-t" id="cap10">Algo se está sirviendo en Alma House. 🥂
 
-Los correos. Los grupos. Ese audio de cuatro minutos.
+Todavía no te podemos contar qué es. Solo que se disfruta mejor con tu amiga al lado.
 
-Tú no.
+Noviembre. Muy pronto.
 
-En Alma House el celular se queda boca abajo, el café llega recién servido y tu momento dura lo que tenga que durar. Sin reloj encima.
+Activa las notificaciones para no perdértelo.
+
+#AlmaHouse #MuyPronto #Cajicá #NailBarCajicá #PlanConAmigas #TuMomento</div>
+  </details>
+  <div class="notes"><p class="k">Notas</p><ul><li><b>Portada:</b> "Algo se está sirviendo", con las dos copas (fotograma del brindis).</li><li>No mostrar etiquetas de licores ni marcas.</li><li><b>Validar con Yissel:</b> que la carta de cócteles y Miércoles de Amigas salen en noviembre, y si los cócteles tienen alcohol o no (para el lanzamiento).</li><li>Con este reel, Miércoles de Amigas vuelve como el plan de noviembre: manos, cóctel y tu amiga. Las piezas ya diseñadas están guardadas en la rama <code>amigas-noviembre</code>.</li></ul></div>
+</article>
+
+<article class="ep" id="n11">
+  <header class="eh">
+    <p class="eyebrow">Nº 11 · Reel · 20–25 s</p>
+    <h2>El sonido de tu momento</h2>
+    <p class="when"><span>Mar 3 nov</span><span>8:00 p. m.</span></p>
+  </header>
+  <div class="idea">
+    <p class="k">La idea</p>
+    <p>El lado sensorial de la casa. Un reel ASMR: solo los sonidos reales de un servicio, muy cerca. Es el reel que la gente ve dos veces y guarda para relajarse de noche.</p>
+  </div>
+  <dl class="facts">
+    <dt>Gancho</dt><dd>Primer plano del frasco de esmalte abriéndose, con su "clic", y el texto "Sube el volumen".</dd>
+    <dt>Audio</dt><dd><b>solo sonido directo</b>, sin música. Celular a 10–20 cm de cada cosa y el local en silencio (sin música ni conversaciones).</dd>
+    <dt>Quién sale</dt><dd>Solo manos.</dd>
+  </dl>
+  <h3>Tomas</h3>
+  <ol class="shots">
+    <li><span class="sn">1</span><div><p class="sq">Un frasco de esmalte que se abre</p><p class="sc">Muy cerca, celular quieto apoyado</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">2</span><div><p class="sq">Café sirviéndose en la taza</p><p class="sc">Muy cerca del chorro</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">3</span><div><p class="sq">La lima sobre una uña</p><p class="sc">Primer plano, ritmo lento y parejo</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">4</span><div><p class="sq">El pincel deslizándose (dos pasadas)</p><p class="sc">Primer plano</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">5</span><div><p class="sq">Agua o crema entre las manos</p><p class="sc">Primer plano</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">6</span><div><p class="sq">Las herramientas puestas sobre la toalla, una por una</p><p class="sc">Cenital</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">7</span><div><p class="sq">Final: la taza apoyándose en el plato</p><p class="sc">Muy cerca; espacio arriba para el texto</p></div><span class="sd">3 s</span></li>
+  </ol>
+  <h3>Texto en pantalla</h3>
+  <ol class="ost"><li>(0–2 s) Sube el volumen 🔊</li><li>(final) Así suena tu momento</li><li>(final, abajo) Alma House · Cajicá</li></ol>
+  <details class="cap"><summary>Caption <button class="copy" data-copy="cap11" type="button">Copiar</button></summary>
+    <div class="cap-t" id="cap11">Sube el volumen. 🔊
+
+Así suena un momento en Alma House: el café, la lima, el pincel y nada más. Sin afán y sin ruido.
+
+Guárdalo para cuando necesites una pausa.
 
 Reserva tu momento por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #Cajicá #TuMomento #SlowLiving #NailBarCajicá #Autocuidado</div>
-      <div class="cap-h sm"><span class="label">Versión corta</span><button class="copy" data-copy="short05">Copiar</button></div><div class="cap short" id="short05">Todo puede esperar: los correos, los grupos, ese audio de cuatro minutos. Tú no. Reserva tu momento en Alma House, Cajicá. WhatsApp 311 566 2051.</div>
-    </div>
-    <div class="details">
-      <details><summary>Texto alternativo</summary><ol><li>Manos con uñas nude sosteniendo celular y café sobre fondo negro. "Todo puede esperar."</li><li>Tres notificaciones sobre fondo café oscuro: un correo "RE: RE: RE: ajustes finales", un grupo familiar con 32 mensajes y un audio de 4:07. "Mientras tanto, allá afuera…"</li><li>Mano con uñas en degradé sosteniendo una gerbera rosada sobre un blazer gris. "Todo eso puede esperar. El celular, boca abajo. El café, recién servido."</li><li>"Los correos, los grupos, ese audio de cuatro minutos… Tú no."</li><li>"Un momento para volver a ti." Logo Alma House. Reserva por WhatsApp 311 566 2051.</li></ol></details><details><summary>Notas</summary><ul><li>Antes era un reel; pasó a carrusel porque los reels ahora los maneja producción audiovisual. Si más adelante producción lo quiere grabar, la estructura del carrusel sirve de guion: celular boca abajo → notificaciones → manos y café → "Tú no."</li><li>Las notificaciones del slide 2 son genéricas, en el estilo de la marca, sin logos ni interfaz de ninguna app real.</li></ul></details>
-    </div>
+#AlmaHouse #ASMR #ASMRNails #TuMomento #Cajicá #NailBarCajicá</div>
+  </details>
+  <div class="notes"><p class="k">Notas</p><ul><li><b>Portada:</b> "El sonido de tu momento", con el pincel en primer plano (fotograma de la toma 4).</li><li>Grabar cada sonido 2 o 3 veces. Si el celular tiene modo "voz" o "estudio", desactivarlo para que no corte los sonidos suaves.</li><li>En la edición no meter música: el valor del reel es el silencio.</li></ul></div>
+</article>
+
+<article class="ep" id="n12">
+  <header class="eh">
+    <p class="eyebrow">Nº 12 · Reel · 12–18 s</p>
+    <h2>Mismas manos, otro momento</h2>
+    <p class="when"><span>Jue 5 nov</span><span>12:30 p. m.</span></p>
+  </header>
+  <div class="idea">
+    <p class="k">La idea</p>
+    <p>La prueba. Después de mostrar la experiencia, se muestra el resultado de una clienta real, con la misma luz y el mismo encuadre antes y después. Sin filtros: la honestidad es lo que lo hace creíble.</p>
   </div>
-</section>
+  <dl class="facts">
+    <dt>Gancho</dt><dd>Las manos "antes", con el texto "Mismas manos".</dd>
+    <dt>Audio</dt><dd>Pista con un golpe marcado para el corte del antes al después (transición en el beat).</dd>
+    <dt>Quién sale</dt><dd>Las manos de una clienta real, con su permiso.</dd>
+  </dl>
+  <h3>Tomas</h3>
+  <ol class="shots">
+    <li><span class="sn">1</span><div><p class="sq">Las manos de la clienta al llegar, sobre la toalla</p><p class="sc">Cenital, celular apoyado (marcar la posición con cinta)</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">2</span><div><p class="sq">Un momento del servicio: lima o pincel</p><p class="sc">Primer plano</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">3</span><div><p class="sq">El café a un lado, la clienta relajada (sin cara si no quiere)</p><p class="sc">Plano medio</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">4</span><div><p class="sq">Las mismas manos terminadas, <b>en la misma posición y la misma luz</b></p><p class="sc">Cenital, mismo punto exacto de la toma 1</p></div><span class="sd">3 s</span></li>
+    <li><span class="sn">5</span><div><p class="sq">Las manos giran despacio para mostrar el brillo</p><p class="sc">Mismo encuadre</p></div><span class="sd">2 s</span></li>
+    <li><span class="sn">6</span><div><p class="sq">Final: las manos sobre la taza o tocando el wordmark</p><p class="sc">Plano abierto; espacio para el texto</p></div><span class="sd">3 s</span></li>
+  </ol>
+  <h3>Texto en pantalla</h3>
+  <ol class="ost"><li>(0–2 s) Mismas manos</li><li>(en el corte) Otro momento</li><li>(final) Reserva tu momento · WhatsApp 311 566 2051</li></ol>
+  <details class="cap"><summary>Caption <button class="copy" data-copy="cap12" type="button">Copiar</button></summary>
+    <div class="cap-t" id="cap12">Mismas manos. Otro momento. ✨
+
+Sin filtros: así llegó y así se fue. Con la misma luz y desde el mismo lugar. Lo demás fue un café y alguien que no tenía afán.
+
+Gracias por dejarnos mostrarlo. 🤍
+
+Reserva tu momento por WhatsApp: 311 566 2051
+CC Montaña Plaza, local 4 · Cajicá
+
+#AlmaHouse #AntesYDespues #TuMomento #Cajicá #NailBarCajicá #UñasCajicá</div>
+  </details>
+  <div class="notes"><p class="k">Notas</p><ul><li><b>Portada:</b> "Mismas manos, otro momento", con el "después" (fotograma de la toma 4).</li><li><b>Pedir permiso a la clienta</b> antes de grabar y, si quiere, etiquetarla.</li><li>Nada de filtros ni retoques en el "después": misma luz, mismo encuadre y misma cámara. Si no se puede igualar la luz, mejor no publicarlo.</li><li>Marcar con cinta la posición del celular y de las manos para que el antes y el después coincidan.</li></ul></div>
+</article>
 </main>
 
 <footer class="foot">
   <div class="wrap">
-    <div class="foot-grid">
-      <div>
-        <p class="label">Sobre las imágenes</p>
-        <h4>Fotografía de referencia</h4>
-        <p>Salvo el reel de la anfitriona, filmado en el local, las fotografías vienen del tablero de Pinterest aprobado por la cliente y pertenecen a sus autores. Se usan como dirección de arte en contenido orgánico, no en pauta paga. El registro de fuentes está en <a href="https://github.com/Werockagencia/alma-house-contenidos-septiembre/blob/main/assets/pinterest/SOURCES.md" target="_blank">SOURCES.md</a>.</p>
-        <p>Si más adelante una pieza va a pauta, se reemplaza la foto por una sesión propia con la misma dirección, sin rehacer el diseño.</p>
-      </div>
-      <div>
-        <p class="label">Archivos</p>
-        <h4>Todo listo para subir</h4>
-        <p>Cada imagen de esta página abre su PNG final (1080×1350 feed · 1080×1920 historias y portada del reel). Los captions de todo el mes están también en un solo documento.</p>
-        <a class="btn" href="https://github.com/Werockagencia/alma-house-contenidos-septiembre/blob/main/CAPTIONS.md" target="_blank">Todos los captions</a>
-        <a class="btn" href="https://github.com/Werockagencia/alma-house-contenidos-septiembre/archive/refs/heads/main.zip">Descargar todo (.zip)</a>
-      </div>
-    </div>
-    <div class="sign">
-      <img src="assets/brand/logos/logo-crema.png" alt="Alma House Nails Bar">
-      <span class="label" style="color:var(--blush)">WhatsApp 311 566 2051 · CC Montaña Plaza, local 4 · Cajicá</span>
-    </div>
+    <p class="label">Alma House · WhatsApp 311 566 2051 · CC Montaña Plaza, local 4 · Cajicá</p>
+    <p style="margin-top:12px">Todos los captions en un documento: <a href="https://github.com/Werockagencia/alma-house-contenidos-septiembre/blob/main/CAPTIONS.md" target="_blank">CAPTIONS.md</a></p>
   </div>
 </footer>
 
 <script>
-document.querySelectorAll('.copy').forEach(b => b.addEventListener('click', async () => {
-  const t = document.getElementById(b.dataset.copy).innerText.trim();
-  try { await navigator.clipboard.writeText(t); } catch { const r = document.createRange(); r.selectNodeContents(document.getElementById(b.dataset.copy)); getSelection().removeAllRanges(); getSelection().addRange(r); document.execCommand('copy'); }
+document.querySelectorAll('.copy').forEach(b => b.addEventListener('click', async ev => {
+  ev.preventDefault(); ev.stopPropagation();
+  const el = document.getElementById(b.dataset.copy), t = el.innerText.trim();
+  try { await navigator.clipboard.writeText(t); } catch { const r = document.createRange(); r.selectNodeContents(el); getSelection().removeAllRanges(); getSelection().addRange(r); document.execCommand('copy'); }
   const o = b.textContent; b.textContent = 'Copiado'; b.classList.add('ok'); setTimeout(() => { b.textContent = o; b.classList.remove('ok'); }, 1600);
 }));
 </script>

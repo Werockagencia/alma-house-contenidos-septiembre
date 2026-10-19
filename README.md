@@ -1,132 +1,51 @@
-# Alma House · Capítulo III — *La Casa*
+# Alma House · Capítulo IV — *Adentro*
 
-**Contenidos de Instagram · 26 de septiembre – 13 de octubre de 2026**
+**Guiones de 6 reels grabados con celular · 20 de octubre – 5 de noviembre de 2026**
 Por **We Rock Agencia** para Alma House Nails Bar (Cajicá).
 
-**Página para la cliente (captions con botón copiar, carruseles, video):** https://werockagencia.github.io/alma-house-contenidos-septiembre/
-**Todos los captions en un documento:** [CAPTIONS.md](CAPTIONS.md)
-
-![Así queda el perfil tras publicar las 7 piezas](preview/feed-grid.jpg)
+**Página de guiones (para leer en el celular durante la grabación):** https://werockagencia.github.io/alma-house-contenidos-septiembre/
+**Todos los captions:** [CAPTIONS.md](CAPTIONS.md)
 
 ---
 
-## La idea
+## La continuidad
 
-La marca ya contó dos capítulos:
-
-| Capítulo | Qué dijo | Piezas |
-|---|---|---|
-| I · Expectativa | *"Algo está por llegar."* | Anuncio, revelación, concepto, espacio, cuenta regresiva, invitación |
-| II · Apertura | *"No vendemos manicure. Vendemos tiempo."* | 5 reels: el diagnóstico, el ritual, el umbral, lo que incluye tu hora, reserva ya |
-| **III · La Casa** | **"Esto no es un spa de uñas. Es una casa. Y toda casa tiene sus códigos."** | **Estas 7 piezas** (Nº 00–06) |
-
-Ya abrimos la puerta. Ahora mostramos cómo se vive adentro. El capítulo III deja de *prometer* una experiencia y empieza a *demostrarla* con reglas concretas, una voz propia y curaduría. Así se construye lo exclusivo: no diciendo "somos exclusivas", sino con cuatro sillas, un momento sin reloj encima para cada clienta y un café que llega antes que la lima.
-
-Todo el discurso sale del ADN de marca (Studio Ecoartes). Nada es inventado: cada código, cada frase y cada respuesta tiene su origen en el documento (3.1, 3.3, 3.8, 3.9).
-
-**Dirección visual:** el tablero de Pinterest de la cliente pedía otra cosa que el feed pastel del manual: **editorial de moda, quiet luxury.** Manos con anillos dorados, rojos cereza y vino, café, libros, cartas, blazers y denim. Se tradujo a un sistema de revista: numeración de edición (Nº 00–06), masthead, folios, hairlines, tipografía monumental y grano de película. Así el feed se lee como una publicación, no como un catálogo de servicios.
-
----
-
-## Las 7 piezas
-
-| Fecha | # | Pieza | Formato | Para qué |
-|---|---|---|---|---|
-| Sáb 26 sep · 7:00 p. m. | 00 | [**Reel — La anfitriona**](piezas/00-reel-la-anfitriona/copy.md) | Reel 35 s (video final `Contenidos/03.mp4`) + portada | Prólogo: la marca tiene cara y se ve el local real. Confianza antes que concepto. |
-| Dom 27 sep · 6:00 p. m. | 01 | [**Manifiesto** — *Esto no es un spa de uñas*](piezas/01-manifiesto/copy.md) | Carrusel 3 | Rompe la categoría. Fijar en el perfil. |
-| Mar 29 sep · 12:30 p. m. | 04 | [**Lo que nunca vas a escuchar en esta casa**](piezas/04-frases-que-no-escucharas/copy.md) | Carrusel 7 | Voz de marca con humor fino. El más compartible. |
-| Jue 1 oct · 12:30 p. m. | 06 | [**La agenda de octubre**](piezas/06-agenda-de-octubre/copy.md) | Post 2 + 3 historias | Abre octubre convirtiendo en reservas, con escasez real y sin gritar. |
-| Mar 6 oct · 12:30 p. m. | 03 | [**La edición de octubre**](piezas/03-edicion-de-octubre/copy.md) | Carrusel 7 | Curaduría de color como lujo. La pieza más *fashion*. |
-| Jue 8 oct · 7:00 p. m. | 02 | [**Los códigos de la casa**](piezas/02-codigos-de-la-casa/copy.md) | Carrusel 9 | Demuestra la exclusividad con 7 reglas. El más guardable. |
-| Mar 13 oct · 7:00 a. m. | 05 | [**Todo puede esperar. Tú no.**](piezas/05-todo-puede-esperar/copy.md) | Carrusel 5 | El insight del celular saturado, a primera hora de la semana. |
-
-**Ritmo:** sábado 26 y domingo 27 de septiembre; desde ahí, **dos por semana, martes y jueves**.
-
-El número (Nº) es la edición impresa en cada pieza; el orden de publicación es el de la tabla. El calendario vive en [`scripts/plan.mjs`](scripts/plan.mjs) y de ahí salen la página, los previews y CAPTIONS.md.
-
-Cada carpeta trae: `export/` (PNG finales listos para subir), `copy.md` (caption, versión corta para pauta, hashtags, texto alternativo y notas) y `slides.html` (fuente editable).
-
-### Previews por pieza
-
-| | |
+| Capítulo | Qué dijo |
 |---|---|
-| ![01](preview/01-manifiesto.jpg) | ![02](preview/02-codigos-de-la-casa.jpg) |
-| ![03](preview/03-edicion-de-octubre.jpg) | ![04](preview/04-frases-que-no-escucharas.jpg) |
-| ![05](preview/05-todo-puede-esperar.jpg) | ![06](preview/06-agenda-de-octubre.jpg) |
-| ![00](preview/00-reel-la-anfitriona.jpg) | |
+| I · Expectativa | *"Algo está por llegar."* |
+| II · Apertura | *"No vendemos manicure. Vendemos tiempo."* (5 reels) |
+| III · La Casa | *"Esto no es un spa de uñas. Es una casa, y toda casa tiene sus códigos."* (Nº 00–06) |
+| **IV · Adentro** | **"Ya conoces la casa. Ahora vívela desde la silla."** (Nº 07–12) |
 
----
+El capítulo IV pone la cámara en los ojos de la clienta. Se vive la experiencia en primera persona, se escuchan los sonidos de la casa, habla la voz de la marca y se muestra un resultado real. Cierra con el brindis que abre noviembre: la carta de cócteles y Miércoles de Amigas.
 
-## Sistema visual
+## Los 6 reels
 
-| Elemento | Uso |
-|---|---|
-| **Aurora Magnolia Serif** (tipografía principal oficial) | Titulares monumentales; la *itálica* marca la palabra que importa |
-| **Uncage** (tipografía secundaria oficial) | Etiquetas en versalitas con tracking amplio: masthead, folios, códigos |
-| **Figtree** | Solo texto de lectura pequeño |
-| Paleta oficial | White Beach `#F7EFE7` · Smoke Dragon `#CEBAAA` · Edamame `#A3A287` · Hot Brown `#99471D` · Bakery Brown `#AF9175` + neutros de soporte forest `#3F412F` y espresso `#2A1F1A` |
-| Fotografía | Tablero de Pinterest de la cliente, con una gradación cálida común (`sepia` + contraste) para que fotos de fuentes distintas se lean como una sola sesión |
-| Textura | Grano de película sutil sobre todo el lienzo |
-| Firma editorial | Masthead *Alma House — Nº XX*, folio *01 / 09*, hairlines, "Desliza" |
+| Fecha | Nº | Reel | La idea |
+|---|---|---|---|
+| Mar 20 oct · 7:00 p. m. | 07 | [POV: llegas a tu momento](piezas/07-pov-llegas-a-tu-momento/guion.md) | De la puerta a la silla en primera persona, sin que nadie hable |
+| Jue 22 oct · 12:30 p. m. | 08 | [¿Cuál eliges?](piezas/08-cual-eliges/guion.md) | Tres tonos de octubre; la gente comenta 1, 2 o 3. Empuja el miércoles 28 con 15% |
+| Mar 27 oct · 7:00 p. m. | 09 | [Lo que nunca vas a escuchar aquí](piezas/09-lo-que-nunca-vas-a-escuchar/guion.md) | Yissel dice en voz alta las frases típicas de salón… y "aquí no" |
+| Jue 29 oct · 7:00 p. m. | 10 | [Algo se está sirviendo](piezas/10-algo-se-esta-sirviendo/guion.md) | Teaser de noviembre: hielo, copas y un brindis entre amigas |
+| Mar 3 nov · 8:00 p. m. | 11 | [El sonido de tu momento](piezas/11-el-sonido-de-tu-momento/guion.md) | ASMR sin música: café, lima, pincel |
+| Jue 5 nov · 12:30 p. m. | 12 | [Mismas manos, otro momento](piezas/12-mismas-manos-otro-momento/guion.md) | Antes y después real, misma luz y mismo encuadre |
 
-Todos los estilos viven en [`assets/css/alma.css`](assets/css/alma.css). Los logos son los oficiales del manual, recortados automáticamente.
+Cada guion trae: la idea, el gancho de los primeros 2 segundos, el audio, quién sale, la lista de tomas (qué, cómo y cuánto dura), el texto en pantalla, el caption, la portada sugerida y notas.
 
----
+## Por validar con Yissel
 
-**Lenguaje:** se habla de *momento*, nunca de *hora*: la experiencia dura lo que tenga que durar.
+- [ ] Café para todas las clientas (lo dicen los reels 07 y 09)
+- [ ] Carta de cócteles y Miércoles de Amigas en noviembre, y si los cócteles tienen alcohol (reel 10)
+- [ ] Permiso de la clienta del antes y después (reel 12)
 
-## Antes de publicar: validar con la cliente
+**Lenguaje:** se habla de *momento*, nunca de *hora*.
 
-Son afirmaciones que vienen del ADN de marca. Hay que confirmar que la operación real hoy las cumple; si alguna cambió, se ajusta el slide antes de publicar:
+## Editar
 
-- [x] **4 sillas** — confirmado por la cliente el 25-sep (el ADN decía 3; se corrigió en 01, 02 y 06)
-- [ ] **Atención 100% con reserva** y **momento completo por clienta, sin solapamientos** (02, 04, 06)
-- [ ] **Café incluido** en la experiencia (02, 04). Si tiene costo, en `04/copy.md` está la frase de reemplazo
-- [ ] **Kit individual e instrumental esterilizado a la vista** (02)
-- [ ] **Nombre de la fundadora** para el caption del reel Nº 00
-- [ ] **Carta de color** con equivalentes para los 5 tonos de octubre (03)
-- [ ] Handle de Instagram definitivo, para mencionarlo en captions si se quiere (en las piezas se usa solo `almahousenail.com` y el WhatsApp, que están verificados)
-
-**Nota de derechos sobre las imágenes:** salvo el reel Nº 00 (filmado en el local), las fotos son de terceros, tomadas del tablero de Pinterest aprobado por la cliente (registro en [`assets/pinterest/SOURCES.md`](assets/pinterest/SOURCES.md)). **Uso: contenido orgánico, no pauta.** Si una pieza pasa a pauta paga, se reemplaza la foto por una sesión propia con la misma dirección: basta cambiar el archivo en `assets/photos/` y volver a renderizar.
-
----
-
-## Editar y volver a exportar
-
-Requiere Node 18+ y Google Chrome (o Edge) instalado.
+Los guiones viven en `piezas/<reel>/guion.md` y el calendario en `scripts/plan.mjs`. Después de editar:
 
 ```bash
-npm install
-npm run build        # prepara assets + exporta piezas + previews + página
-npm run site         # regenera index.html, web/ y CAPTIONS.md
-npm run render -- 03 # re-exporta solo la pieza 03
-npm run preview      # regenera preview/
+npm run site   # regenera index.html y CAPTIONS.md
 ```
 
-- Cambiar un texto: editar `piezas/<pieza>/slides.html` y correr `npm run render -- <nº>`.
-- Cambiar una foto: reemplazar el archivo en `assets/photos/` (mismo nombre) o mapear otro pin en `scripts/prep-assets.mjs`.
-- Cada `<section class="slide" data-file="…">` es un PNG. Con `data-transparent` se exporta con fondo transparente (útil para textos que producción audiovisual monte sobre video).
-
-```
-piezas/
-  00-reel-la-anfitriona/   copy.md · portada · video/ (versión web liviana)
-  01-manifiesto/           slides.html · copy.md · export/*.png
-  02-codigos-de-la-casa/
-  03-edicion-de-octubre/
-  04-frases-que-no-escucharas/
-  05-todo-puede-esperar/
-  06-agenda-de-octubre/         (post ×2 + historias ×3)
-assets/
-  css/alma.css             sistema de diseño
-  brand/                   fuentes y logos oficiales
-  photos/                  fotos seleccionadas y optimizadas
-  pinterest/               los 56 pines originales del tablero + SOURCES.md
-scripts/                   plan (calendario) · prep-assets · render · preview · site
-preview/                   grid del feed + hojas de contacto
-web/ · index.html          página de revisión (GitHub Pages)
-CAPTIONS.md                todos los captions en orden de publicación
-```
-
----
-
-**Datos de contacto usados en las piezas:** WhatsApp +57 311 566 2051 · CC Montaña Plaza, local 4 (Km 2 vía Tabio), Cajicá · almahousenail.com
+El capítulo III (Nº 00–06) queda en el historial de Git.

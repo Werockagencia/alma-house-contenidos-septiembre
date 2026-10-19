@@ -1,185 +1,101 @@
-# Captions · Capítulo III — La Casa
+# Captions · Capítulo IV — Adentro
 
-Todos los captions del mes en orden de publicación, listos para copiar.
-La fuente de cada uno está en `piezas/<pieza>/copy.md`.
-
----
-
-## Nº 00 · La anfitriona
-**Sáb 26 sep · 7:00 p. m.** · Reel
-
-### Caption
-
-Toda casa tiene quien te abra la puerta.
-
-Esta es la nuestra. Soñamos Alma House como el lugar al que siempre quisimos llegar: sin afán, sin ruido, con un café bien hecho y un momento que nadie te acelera.
-
-Ya está abierta. Y te estamos esperando.
-
-Alma House · Nails Bar
-CC Montaña Plaza, local 4 (Km 2 vía Tabio), Cajicá
-Reserva tu momento por WhatsApp: 311 566 2051
-
-#AlmaHouse #Cajicá #NailBarCajicá #EmprendimientoFemenino #DetrásDeLaMarca #TuMomento
+6 reels en orden de publicación. Fuente: `piezas/<reel>/guion.md`.
 
 ---
 
-## Nº 01 · Esto no es un spa de uñas
-**Dom 27 sep · 6:00 p. m.** · Carrusel · 3
+## Nº 07 · POV: llegas a tu momento
+**Mar 20 oct · 7:00 p. m.** · Reel · 15–20 s
 
-### Caption
+POV: por fin llegaste a tu momento. ☕
 
-Esto no es un spa de uñas.
+La puerta se cierra, el celular se queda en silencio y alguien te pregunta cómo llegas hoy. Así empieza en Alma House: sin afán, con un café y con todo el tiempo que necesites.
 
-Es una casa. De cuatro sillas, con café recién hecho y un momento que nadie te va a acelerar.
-
-Allá te dan un turno. Aquí te guardamos tu momento.
-Allá cuentan clientas. Aquí recordamos tu nombre.
-
-La belleza es la excusa. La pausa es el regalo.
-
-Alma House · Nails Bar
-CC Montaña Plaza, local 4 (Km 2 vía Tabio), Cajicá
-Reserva tu momento por WhatsApp: 311 566 2051
-
-#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #TuMomento #BellezaConAlma
-
-### Versión corta
-
-Esto no es un spa de uñas. Es una casa en Cajicá donde tu momento es solo tuyo. Manicure y pedicure con café, silencio y cero afán. Reserva por WhatsApp: 311 566 2051.
-
----
-
-## Nº 04 · Lo que nunca vas a escuchar en esta casa
-**Mar 29 sep · 12:30 p. m.** · Carrusel · 7
-
-### Caption
-
-Frases que nunca vas a escuchar en Alma House:
-
-"¿Quién sigue?"
-"Mi reina, ¿qué nos hacemos hoy?"
-"Espérame diez minuticos, ya te atiendo."
-"Rapidito, que tengo otra clienta."
-"El café se paga aparte."
-
-Lo que sí vas a escuchar:
-"Hola, Camila. ¿Tu café como la última vez?"
-
-Envíaselo a la amiga que necesita esta casa.
+¿A quién traerías contigo?
 
 Reserva tu momento por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #CosasDeSalón #TuMomento
-
-### Versión corta
-
-En Alma House nadie te dice "¿quién sigue?". Te llamamos por tu nombre, tu cita empieza a tiempo y el café va por la casa. Nails bar en Cajicá. Reserva: 311 566 2051.
+#AlmaHouse #TuMomento #Cajicá #NailBarCajicá #POV #UñasCajicá
 
 ---
 
-## Nº 06 · La agenda de octubre
-**Jue 1 oct · 12:30 p. m.** · Post · 2 + Historias · 3
+## Nº 08 · ¿Cuál eliges?
+**Jue 22 oct · 12:30 p. m.** · Reel · 15–20 s
 
-### Caption
+Solo puedes elegir uno. ¿1, 2 o 3? 👇
 
-Tu mejor carta de octubre: un momento tuyo.
+1 · Cereza negra: la reina de octubre.
+2 · Rojo casa: el que nunca falla.
+3 · Espresso: casi negro.
 
-Cuatro sillas y cero prisa: cada clienta tiene su momento completo, sin nadie esperando detrás. Por eso aquí los cupos se cuentan con los dedos, y por eso se reservan.
+Y el miércoles 28 tienes 15% en todos los servicios para estrenarlo.
 
-Así de sencillo:
-1. Escríbenos por WhatsApp: 311 566 2051
-2. Elige tu día y tu servicio
-3. Llega. El resto es nuestro.
+Reserva por WhatsApp: 311 566 2051
+CC Montaña Plaza, local 4 · Cajicá
 
-Manicure y pedicure · tradicional, semipermanente, secado rápido, acrílico y polygel.
-CC Montaña Plaza, local 4 (Km 2 vía Tabio) · Cajicá
-
-#AlmaHouse #Cajicá #NailBarCajicá #ManicureCajicá #PedicureCajicá #ReservaTuMomento
-
-### Versión corta
-
-La agenda de octubre ya está abierta en Alma House. Cuatro sillas y un momento completo, solo para ti. Reserva por WhatsApp: 311 566 2051 · CC Montaña Plaza, Cajicá.
+#AlmaHouse #UñasDeTemporada #Cajicá #NailBarCajicá #TuMomento #ColoresDeOtoño
 
 ---
 
-## Nº 03 · La edición de octubre
-**Mar 6 oct · 12:30 p. m.** · Carrusel · 7
+## Nº 09 · Lo que nunca vas a escuchar aquí
+**Mar 27 oct · 7:00 p. m.** · Reel · 20–30 s
 
-### Caption
+Frases que nunca vas a escuchar en Alma House. 😌
 
-La edición de octubre.
+Aquí nadie te apura porque viene otra, nadie te cambia el color que elegiste y el café no se acaba.
 
-Cinco tonos. Cero improvisación.
-
-01 — Cereza negra. Profundo, casi negro.
-02 — Rojo casa. El clásico, cálido y terroso.
-03 — Café con leche. El nude en su mejor día.
-04 — Leche de almendra. Lechoso, luminoso, silencioso.
-05 — Verde oliva. El inesperado.
-
-¿Cuál es el tuyo? Cuéntanos en comentarios, o dínoslo al reservar y lo tenemos listo.
-
-WhatsApp 311 566 2051 · CC Montaña Plaza, local 4 · Cajicá
-
-#AlmaHouse #OctoberNails #UñasOtoño #CherryNails #Cajicá #NailBarCajicá
-
-### Versión corta
-
-Cinco tonos curados para octubre: cereza negra, rojo casa, café con leche, leche de almendra y verde oliva. Elige el tuyo y reserva tu momento en Alma House, Cajicá. WhatsApp 311 566 2051.
-
----
-
-## Nº 02 · Los códigos de la casa
-**Jue 8 oct · 7:00 p. m.** · Carrusel · 9
-
-### Caption
-
-Toda casa tiene sus códigos. Estos son los nuestros.
-
-I. Solo con reserva.
-II. Tu momento no se comparte.
-III. Cuatro sillas. Ni una más.
-IV. El café llega antes que la lima.
-V. Kit individual. Siempre.
-VI. Te llamamos por tu nombre.
-VII. El silencio también se ofrece.
-
-No son reglas para ponerte límites. Son las que nos ponemos nosotras, para que cuando cruces la puerta no tengas que pedir nada.
-
-Guárdalo. Lo vas a sentir desde la primera visita.
+¿Cuál has escuchado tú? Te leemos.
 
 Reserva tu momento por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #Cajicá #NailBarCajicá #ManicurePremium #SlowBeauty #Autocuidado
-
-### Versión corta
-
-Solo con reserva. Cuatro sillas. Café antes que la lima. Kit individual siempre. Así funciona Alma House, el nails bar de Cajicá donde tu momento es tuyo. Reserva: 311 566 2051.
+#AlmaHouse #TuMomento #Cajicá #NailBarCajicá #HumorDeSalon #UñasCajicá
 
 ---
 
-## Nº 05 · Todo puede esperar. Tú no.
-**Mar 13 oct · 7:00 a. m.** · Carrusel · 5
+## Nº 10 · Algo se está sirviendo
+**Jue 29 oct · 7:00 p. m.** · Reel · 10–15 s
 
-### Caption
+Algo se está sirviendo en Alma House. 🥂
 
-Todo puede esperar.
+Todavía no te podemos contar qué es. Solo que se disfruta mejor con tu amiga al lado.
 
-Los correos. Los grupos. Ese audio de cuatro minutos.
+Noviembre. Muy pronto.
 
-Tú no.
+Activa las notificaciones para no perdértelo.
 
-En Alma House el celular se queda boca abajo, el café llega recién servido y tu momento dura lo que tenga que durar. Sin reloj encima.
+#AlmaHouse #MuyPronto #Cajicá #NailBarCajicá #PlanConAmigas #TuMomento
+
+---
+
+## Nº 11 · El sonido de tu momento
+**Mar 3 nov · 8:00 p. m.** · Reel · 20–25 s
+
+Sube el volumen. 🔊
+
+Así suena un momento en Alma House: el café, la lima, el pincel y nada más. Sin afán y sin ruido.
+
+Guárdalo para cuando necesites una pausa.
 
 Reserva tu momento por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá
 
-#AlmaHouse #Cajicá #TuMomento #SlowLiving #NailBarCajicá #Autocuidado
+#AlmaHouse #ASMR #ASMRNails #TuMomento #Cajicá #NailBarCajicá
 
-### Versión corta
+---
 
-Todo puede esperar: los correos, los grupos, ese audio de cuatro minutos. Tú no. Reserva tu momento en Alma House, Cajicá. WhatsApp 311 566 2051.
+## Nº 12 · Mismas manos, otro momento
+**Jue 5 nov · 12:30 p. m.** · Reel · 12–18 s
+
+Mismas manos. Otro momento. ✨
+
+Sin filtros: así llegó y así se fue. Con la misma luz y desde el mismo lugar. Lo demás fue un café y alguien que no tenía afán.
+
+Gracias por dejarnos mostrarlo. 🤍
+
+Reserva tu momento por WhatsApp: 311 566 2051
+CC Montaña Plaza, local 4 · Cajicá
+
+#AlmaHouse #AntesYDespues #TuMomento #Cajicá #NailBarCajicá #UñasCajicá
 
