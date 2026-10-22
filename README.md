@@ -21,7 +21,7 @@ El capítulo IV lo cuenta **Yissel, hablando a cámara en los 6 reels**: la anfi
 
 ## Carruseles e historias con fotos de la casa
 
-Fotos tomadas en el local en octubre (), cada pieza con su versión de historias en el estilo de las plantillas de la casa (El tono de hoy, Recién salidas, Hoy en la casa).
+Fotos tomadas en el local en octubre (`Contenidos/Material Iphone Octubre/Fotos`), cada pieza con su versión de historias en el estilo de las plantillas de la casa (El tono de hoy, Recién salidas, Hoy en la casa).
 
 | Fecha | Nº | Pieza | La idea |
 |---|---|---|---|
@@ -30,68 +30,7 @@ Fotos tomadas en el local en octubre (), cada pieza con su versión de historias
 | Dom 1 nov · 11:00 a. m. | 15 | [Exposición permanente](piezas/15-exposicion-permanente/copy.md) | El nail art colgado como en una galería: siete obras con su cartela de museo |
 | Sáb 7 nov · 11:00 a. m. | 14 | [No grita. Se nota.](piezas/14-no-grita-se-nota/copy.md) | La edición minimal: seis tonos sencillos, uno por diseño |
 
-Las fotos nunca se amplían (control con ok     0.53x  13-tintos-01.png rojo-manos.jpg (1086x1448 → 580x640)
-ok     0.86x  13-tintos-02.png tinto-manos.jpg (960x1280 → 500x1100)
-ok     0.86x  13-tintos-03.png tinto-pies.jpg (960x1280 → 500x1100)
-ok     0.76x  13-tintos-04.png rojo-manos.jpg (1086x1448 → 500x1100)
-ok     0.76x  13-tintos-05.png rojo-pies-salvia.jpg (1086x1448 → 500x1100)
-ok     0.29x  13-tintos-06.png tinto-manos.jpg (960x1280 → 280x300)
-ok     0.26x  13-tintos-06.png rojo-pies-salvia.jpg (1086x1448 → 280x300)
-ok     0.74x  13-tintos-historia-1.png rojo-manos.jpg (1086x1448 → 800x960)
-ok     0.52x  13-tintos-historia-2.png rojo-manos.jpg (1086x1448 → 456x760)
-ok     0.52x  13-tintos-historia-2.png rojo-pies-salvia.jpg (1086x1448 → 456x760)
-ok     0.67x  14-simple-01.png perla.jpg (896x1195 → 600x800)
-ok     0.89x  14-simple-02.png perla.jpg (896x1195 → 800x880)
-ok     0.73x  14-simple-03.png french-plata.jpg (1103x1426 → 800x880)
-ok     0.85x  14-simple-04.png french-nude.jpg (941x1672 → 800x880)
-ok     0.74x  14-simple-05.png rosa-bebe.jpg (1086x1448 → 800x880)
-ok     0.74x  14-simple-06.png nude-oro.jpg (1086x1448 → 800x880)
-ok     0.74x  14-simple-07.png taupe.jpg (1086x1448 → 800x880)
-ok     0.23x  14-simple-08.png rosa-bebe.jpg (1086x1448 → 250x340)
-ok     0.28x  14-simple-08.png perla.jpg (896x1195 → 250x340)
-ok     0.23x  14-simple-08.png taupe.jpg (1086x1448 → 250x340)
-ok     0.90x  14-simple-historia-1.png nude-oro.jpg (1086x1448 → 956x1304)
-ok     0.40x  14-simple-historia-2.png rosa-bebe.jpg (1086x1448 → 439x420)
-ok     0.40x  14-simple-historia-2.png taupe.jpg (1086x1448 → 439x420)
-ok     0.40x  14-simple-historia-2.png french-plata.jpg (1103x1426 → 439x420)
-ok     0.40x  14-simple-historia-2.png nude-oro.jpg (1086x1448 → 439x420)
-ok     0.40x  15-expo-01.png   esmeralda.jpg (950x1656 → 380x560)
-ok     0.59x  15-expo-02.png   esmeralda.jpg (950x1656 → 560x760)
-ok     0.60x  15-expo-03.png   oro-y-flor.jpg (941x1672 → 560x760)
-ok     0.60x  15-expo-04.png   constelacion.jpg (941x1672 → 560x760)
-ok     0.52x  15-expo-05.png   lunares-verdes.jpg (1086x1448 → 560x760)
-ok     0.52x  15-expo-06.png   trazo-azul.jpg (1086x1448 → 560x760)
-ok     0.52x  15-expo-07.png   perla-gris.jpg (1086x1448 → 560x760)
-ok     0.52x  15-expo-08.png   atardecer.jpg (1086x1448 → 560x760)
-ok     0.22x  15-expo-09.png   constelacion.jpg (941x1672 → 210x290)
-ok     0.20x  15-expo-09.png   trazo-azul.jpg (1086x1448 → 210x290)
-ok     0.68x  15-expo-historia-1.png constelacion.jpg (941x1672 → 640x860)
-ok     0.39x  15-expo-historia-2.png esmeralda.jpg (950x1656 → 368x360)
-ok     0.39x  15-expo-historia-2.png oro-y-flor.jpg (941x1672 → 368x360)
-ok     0.34x  15-expo-historia-2.png lunares-verdes.jpg (1086x1448 → 368x360)
-ok     0.34x  15-expo-historia-2.png atardecer.jpg (1086x1448 → 368x360)
-ok     0.99x  16-halloween-post.png halloween.jpg (1086x1448 → 1080x900)
-ok     0.77x  16-halloween-historia-1.png halloween.jpg (1086x1448 → 840x1000)
-ok     0.33x  16-halloween-historia-2.png halloween.jpg (1086x1448 → 360x300)
-
-Todas las fotos a resolución nativa o mayor). Para re-exportar: 	into-manos.jpg          960x1280
-tinto-pies.jpg           960x1280
-rojo-manos.jpg           1086x1448
-rojo-pies-salvia.jpg     1086x1448
-perla.jpg                896x1195
-french-plata.jpg         1103x1426
-french-nude.jpg          941x1672
-rosa-bebe.jpg            1086x1448
-nude-oro.jpg             1086x1448
-taupe.jpg                1086x1448
-esmeralda.jpg            950x1656
-oro-y-flor.jpg           941x1672
-constelacion.jpg         941x1672
-lunares-verdes.jpg       1086x1448
-trazo-azul.jpg           1086x1448
-perla-gris.jpg           1086x1448
-atardecer.jpg            1086x1448
-halloween.jpg            1086x1448,  y .
+Las fotos nunca se amplían (control con `node scripts/resolucion.mjs`). Para re-exportar: `node scripts/prep-fotos.mjs`, `node scripts/render.mjs 13` (o el Nº de la pieza) y `npm run site`.
 
 ## Los 6 reels
 
