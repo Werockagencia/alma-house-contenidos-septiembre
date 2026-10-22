@@ -22,12 +22,12 @@ CC Montaña Plaza, local 4 · Cajicá
 
 ## Texto alternativo
 
-- Post: mano con uñas nude decoradas con una momia, arañas y una telaraña, y una uña negra mate. "Halloween, en voz baja." Fecha 31 de octubre.
+- Post: mano a toda la imagen con uñas nude decoradas con una momia, arañas y una telaraña, y una uña negra mate. "Halloween, en voz baja. Una momia, dos arañas y una telaraña."
 
 ## Historias
 
 - **Historia 1**: sticker de mención al post.
-- **Historia 2**: sticker de **encuesta** o **quiz** "¿Truco o trato?" con las tres ideas (1, 2 o 3), en el espacio libre junto a la foto pequeña.
+- **Historia 2**: sticker de **encuesta** "¿Truco o trato?" debajo del texto.
 
 ## Notas
 

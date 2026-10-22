@@ -21,13 +21,13 @@ El capítulo IV lo cuenta **Yissel, hablando a cámara en los 6 reels**: la anfi
 
 ## Carruseles e historias con fotos de la casa
 
-Fotos tomadas en el local en octubre (`Contenidos/Material Iphone Octubre/Fotos`), cada pieza con su versión de historias en el estilo de las plantillas de la casa (El tono de hoy, Recién salidas, Hoy en la casa).
+Fotos tomadas en el local en octubre (`Contenidos/Material Iphone Octubre/Fotos`). La foto es la protagonista: a toda la imagen (o con un filo mínimo si es más pequeña) y cada diseño lleva solo un título y una línea. Cada pieza tiene su versión de historias.
 
 | Fecha | Nº | Pieza | La idea |
 |---|---|---|---|
-| Sáb 24 oct · 11:00 a. m. | 13 | [Tintos de la casa](piezas/13-tintos-de-la-casa/copy.md) | Los burdeos y rojos como la carta de vinos de la casa: cuatro cosechas con notas de cata |
+| Sáb 24 oct · 11:00 a. m. | 13 | [Todo un clásico](piezas/13-todo-un-clasico/copy.md) | Rojo y burdeos, en manos y pies: un clásico que nunca pasa de moda |
 | Vie 30 oct · 6:00 p. m. | 16 | [Halloween, en voz baja](piezas/16-halloween-en-voz-baja/copy.md) | Post + historias: una momia, dos arañas y una telaraña. Lo justo para el 31 |
-| Dom 1 nov · 11:00 a. m. | 15 | [Exposición permanente](piezas/15-exposicion-permanente/copy.md) | El nail art colgado como en una galería: siete obras con su cartela de museo |
+| Dom 1 nov · 11:00 a. m. | 15 | [Exposición permanente](piezas/15-exposicion-permanente/copy.md) | El nail art colgado como en una galería: siete obras en marcos grandes |
 | Sáb 7 nov · 11:00 a. m. | 14 | [No grita. Se nota.](piezas/14-no-grita-se-nota/copy.md) | La edición minimal: seis tonos sencillos, uno por diseño |
 
 Las fotos nunca se amplían (control con `node scripts/resolucion.mjs`). Para re-exportar: `node scripts/prep-fotos.mjs`, `node scripts/render.mjs 13` (o el Nº de la pieza) y `npm run site`.

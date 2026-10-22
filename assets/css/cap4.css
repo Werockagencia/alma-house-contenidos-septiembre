@@ -47,3 +47,23 @@
 
 /* Espacio reservado para un sticker de Instagram (no se exporta visible: solo guía de composición) */
 .sticker-zone { position: absolute; border: 2px dashed currentColor; border-radius: 24px; opacity: .0; }
+
+/* ---------- Foto protagonista + un título y una línea ---------- */
+.full { position: absolute; inset: 0; overflow: hidden; }
+.full img, .print img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.print { position: absolute; overflow: hidden; }            /* foto un poco más pequeña que el lienzo: filo mínimo, nunca se amplía */
+.fade-b { position: absolute; inset: 0; z-index: 2; background: linear-gradient(180deg, rgba(28,20,17,0) 50%, rgba(28,20,17,.88) 100%); }
+.fade-t { position: absolute; inset: 0; z-index: 2; background: linear-gradient(0deg, rgba(28,20,17,0) 55%, rgba(28,20,17,.85) 100%); }
+.fade-r { position: absolute; inset: 0; z-index: 2; background: linear-gradient(270deg, rgba(28,20,17,.9) 0%, rgba(28,20,17,.55) 38%, rgba(28,20,17,0) 62%); }
+.tx { position: absolute; left: 80px; right: 80px; z-index: 5; color: var(--white-beach); }
+.tx h1 { font-family: var(--serif); font-weight: 400; font-size: 132px; line-height: .88; letter-spacing: -.02em; -webkit-text-stroke: .5px currentColor; text-shadow: 0 2px 24px rgba(0,0,0,.18); }
+.tx h1 em { font-style: italic; color: var(--smoke-dragon); }
+.tx p { margin-top: 22px; font-family: var(--serif); font-style: italic; font-size: 38px; line-height: 1.2; -webkit-text-stroke: .4px currentColor; color: rgba(247,239,231,.94); }
+.tx.dark { color: var(--espresso); }
+.tx.dark h1 { text-shadow: none; }
+.tx.dark h1 em { color: var(--hot-brown); }
+.tx.dark p { color: #4a3b31; }
+.tx.c { text-align: center; }
+.tx.r { text-align: right; }
+.bottom { bottom: 110px; }
+.story .bottom { bottom: 480px; }

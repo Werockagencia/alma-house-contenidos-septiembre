@@ -109,16 +109,14 @@ CC Montaña Plaza, local 4 · Cajicá
 
 ---
 
-## Nº 13 · Tintos de la casa
-**Sáb 24 oct · 11:00 a. m.** · Carrusel · 6 + 2 historias
+## Nº 13 · Todo un clásico
+**Sáb 24 oct · 11:00 a. m.** · Carrusel · 5 + 2 historias
 
-La carta de la casa, edición octubre. 🍷
+Todo un clásico. ❤️
 
-Tinto reserva, cosecha tardía, rojo de la casa y rubí sobre salvia: cuatro cosechas de temporada para manos y pies.
+Rojo y burdeos, en manos y pies. De los que nunca pasan de moda.
 
-Se sirven con café y sin afán.
-
-¿Cuál pedirías? Cuéntanos en comentarios.
+¿Manos, pies o las dos? Cuéntanos.
 
 Reserva tu momento por WhatsApp: 311 566 2051
 CC Montaña Plaza, local 4 · Cajicá

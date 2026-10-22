@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Nº 13 · Todo un clásico — Alma House</title>
+<link rel="stylesheet" href="../../assets/css/alma.css">
+<link rel="stylesheet" href="../../assets/css/cap4.css">
+<style>
+  /* Fotos de 960 px de ancho: filo mínimo arriba, a los lados y abajo, nunca se amplían */
+  .p960 { left: 60px; top: 35px; width: 960px; height: 1280px; }
+  .halves { position: absolute; inset: 0; display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
+  .halves div { position: relative; overflow: hidden; }
+  .halves img { width: 100%; height: 100%; object-fit: cover; display: block; }
+  .story .halves { bottom: auto; height: 1440px; }
+  .story .full { bottom: auto; height: 1440px; }
+  .story .fade-b { bottom: auto; height: 1440px; background: linear-gradient(180deg, rgba(28,20,17,0) 45%, var(--espresso) 100%); }
+  .story .tx.bottom { bottom: 470px; }
+</style>
+</head>
+<body>
+
+<section class="slide bg-espresso grain light-grain" data-file="13-clasico-01.png">
+  <div class="full grade-real"><img src="../../assets/photos/real/rojo-manos.jpg" alt="" style="object-position:50% 55%"></div>
+  <div class="fade-b"></div>
+  <div class="tx bottom"><h1>Todo un<br><em>clásico.</em></h1><p>Rojo, en manos y pies. Nunca pasa de moda.</p></div>
+</section>
+
+<section class="slide bg-espresso grain light-grain" data-file="13-clasico-02.png">
+  <div class="print p960 grade-real"><img src="../../assets/photos/real/tinto-manos.jpg" alt=""></div>
+  <div class="fade-r" style="background:linear-gradient(270deg, rgba(28,20,17,.98) 0%, rgba(28,20,17,.93) 33%, rgba(28,20,17,.5) 44%, rgba(28,20,17,0) 56%)"></div>
+  <div class="tx r" style="top:140px; left: 520px"><h1><em>Burdeos.</em></h1><p>Casi negro, con fondo rojo.</p></div>
+</section>
+
+<section class="slide bg-espresso grain light-grain" data-file="13-clasico-03.png">
+  <div class="print p960 grade-real"><img src="../../assets/photos/real/tinto-pies.jpg" alt=""></div>
+  <div class="fade-t"></div>
+  <div class="tx" style="top:110px"><h1>También<br><em>en pies.</em></h1></div>
+</section>
+
+<section class="slide bg-espresso grain light-grain" data-file="13-clasico-04.png">
+  <div class="full grade-real"><img src="../../assets/photos/real/rojo-pies-salvia.jpg" alt=""></div>
+  <div class="fade-b"></div>
+  <div class="tx bottom"><h1>Rojo<br><em>sobre salvia.</em></h1><p>Encendido, en nuestra silla verde.</p></div>
+</section>
+
+<section class="slide bg-espresso grain light-grain" data-file="13-clasico-05.png">
+  <div class="halves">
+    <div class="grade-real"><img src="../../assets/photos/real/rojo-manos.jpg" alt=""></div>
+    <div class="grade-real"><img src="../../assets/photos/real/rojo-pies-salvia.jpg" alt="" style="object-position:40% 50%"></div>
+  </div>
+  <div class="fade-b"></div>
+  <div class="tx c bottom"><h1>¿Manos, pies<br><em>o las dos?</em></h1><p>Reserva tu momento · WhatsApp 311 566 2051</p></div>
+</section>
+
+<section class="slide story bg-espresso grain light-grain" data-file="13-clasico-historia-1.png">
+  <div class="full grade-real"><img src="../../assets/photos/real/rojo-manos.jpg" alt="" style="object-position:50% 55%"></div>
+  <div class="fade-b"></div>
+  <div class="tx c bottom"><h1>Todo un<br><em>clásico.</em></h1><p>Nuevo en el feed</p></div>
+</section>
+
+<section class="slide story bg-espresso grain light-grain" data-file="13-clasico-historia-2.png">
+  <div class="halves">
+    <div class="grade-real"><img src="../../assets/photos/real/rojo-manos.jpg" alt=""></div>
+    <div class="grade-real"><img src="../../assets/photos/real/rojo-pies-salvia.jpg" alt="" style="object-position:40% 50%"></div>
+  </div>
+  <div class="fade-b"></div>
+  <div class="tx c bottom"><h1>¿Manos<br><em>o pies?</em></h1><p>Vota aquí abajo</p></div>
+</section>
+
+</body>
+</html>

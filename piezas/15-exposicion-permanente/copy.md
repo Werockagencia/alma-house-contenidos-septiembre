@@ -24,15 +24,15 @@ CC Montaña Plaza, local 4 · Cajicá
 
 ## Texto alternativo
 
-- 1: Pared de galería con un cuadro de manos con uñas verde esmeralda, un ticket "Entrada con reserva" y el título "Exposición permanente".
-- 2 a 8: cada diseño enmarcado como una obra, con su cartela: nombre y una frase corta.
+- 1: Manos con uñas verde esmeralda junto a un vaso, casi a toda la imagen, como el afiche de una exposición. "Exposición permanente. Siete obras. Entrada con reserva."
+- 2 a 8: cada diseño en un marco grande sobre una pared de galería, con su nombre y una frase corta.
 - 9: tres marcos, el del centro vacío con "¿La tuya?". "La próxima obra puede ser la tuya."
 
 ## Historias
 
 - **Historia 1** (plantilla "Hoy en la casa"): sticker de mención al post o "Nuevo post".
-- **Historia 2**: sticker de **encuesta** o **slider de emoji** "¿Cuál te llevas a casa?" debajo de los cuadros.
+- **Historia 2**: sticker de **encuesta** o **slider de emoji** "¿Cuál te llevas a casa?" debajo del texto, sobre los cuadros.
 
 ## Notas
 
-- Las descripciones de cada obra hablan de lo que se ve en la foto. Si Yissel quiere nombrar la técnica real (cromo, relieve, encapsulado), se ajusta la cartela.
+- Las frases de cada obra hablan de lo que se ve en la foto. Si Yissel quiere nombrar la técnica real (cromo, relieve, encapsulado), se ajusta.

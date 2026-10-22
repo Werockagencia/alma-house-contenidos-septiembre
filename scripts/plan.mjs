@@ -13,7 +13,7 @@ export const plan = [
 
 // Carruseles, post e historias con fotos tomadas en el local (octubre). Van en días sin reel.
 export const visuales = [
-  { dir: '13-tintos-de-la-casa',     n: '13', title: 'Tintos de la casa',      kind: 'Carrusel · 6 + 2 historias', date: 'Sáb 24 oct', time: '11:00 a. m.' },
+  { dir: '13-todo-un-clasico',       n: '13', title: 'Todo un clásico',        kind: 'Carrusel · 5 + 2 historias', date: 'Sáb 24 oct', time: '11:00 a. m.' },
   { dir: '16-halloween-en-voz-baja', n: '16', title: 'Halloween, en voz baja', kind: 'Post + 2 historias',         date: 'Vie 30 oct', time: '6:00 p. m.' },
   { dir: '15-exposicion-permanente', n: '15', title: 'Exposición permanente',  kind: 'Carrusel · 9 + 2 historias', date: 'Dom 1 nov',  time: '11:00 a. m.' },
   { dir: '14-no-grita-se-nota',      n: '14', title: 'No grita. Se nota.',     kind: 'Carrusel · 8 + 2 historias', date: 'Sáb 7 nov',  time: '11:00 a. m.' },
