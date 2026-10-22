@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Nº 16 · Halloween, en voz baja — Alma House</title>
+<link rel="stylesheet" href="../../assets/css/alma.css">
+<link rel="stylesheet" href="../../assets/css/cap4.css">
+<style>
+  :root { --night: #1C1411; }
+  .bg-night { background: var(--night); color: var(--white-beach); }
+
+  /* Post: la foto a sangre (resolución nativa) y el texto en la sombra de abajo */
+  .post .photo { inset: auto; left: 0; right: 0; top: 0; height: 900px; }
+  .post .photo img { object-position: 50% 88%; }
+  .post .shade { position: absolute; left: 0; right: 0; top: 0; height: 900px; background: linear-gradient(180deg, rgba(28,20,17,.5) 0%, rgba(28,20,17,0) 20%, rgba(28,20,17,0) 75%, rgba(28,20,17,1) 100%); z-index: 2; }
+  .post .mast { color: var(--white-beach); z-index: 10; }
+  .post .t { position: absolute; left: 72px; right: 72px; top: 900px; z-index: 5; }
+  .post .k { color: var(--smoke-dragon); margin-bottom: 20px; }
+  .post h1 { font-size: 118px; line-height: .88; color: var(--white-beach); }
+  .post h1 em { color: var(--smoke-dragon); }
+  .post .sub { margin-top: 22px; font-size: 34px; line-height: 1.2; color: rgba(247,239,231,.9); }
+  .post .folio { color: var(--white-beach); z-index: 10; }
+  .post .date { position: absolute; right: 72px; top: 140px; z-index: 5; text-align: right; color: var(--white-beach); font-family: var(--serif); font-style: italic; font-size: 120px; line-height: .8; -webkit-text-stroke: .5px currentColor; }
+  .post .date small { display: block; font-family: var(--label); font-style: normal; font-weight: 650; font-size: 17px; letter-spacing: .26em; margin-top: 14px; color: var(--smoke-dragon); -webkit-text-stroke: 0; }
+
+  /* Historias */
+  .st1 .mast, .st2 .mast { color: var(--smoke-dragon); }
+  .st1 .win { left: 120px; top: 290px; width: 840px; height: 1000px; border-radius: 420px 420px 4px 4px; }
+  .st1 .k { position: absolute; left: 0; right: 0; top: 1330px; text-align: center; color: var(--smoke-dragon); }
+  .st1 h2 { position: absolute; left: 0; right: 0; top: 1376px; text-align: center; font-size: 120px; line-height: .9; color: var(--white-beach); }
+  .st1 h2 em { color: var(--smoke-dragon); }
+  .st2 h2 { position: absolute; left: 72px; right: 72px; top: 300px; font-size: 128px; line-height: .88; color: var(--white-beach); }
+  .st2 h2 em { color: var(--smoke-dragon); }
+  .st2 .list { position: absolute; left: 72px; right: 72px; top: 640px; display: flex; flex-direction: column; }
+  .st2 .list div { display: grid; grid-template-columns: 90px 1fr; align-items: baseline; padding: 26px 0; border-top: 1px solid rgba(247,239,231,.2); }
+  .st2 .list div:last-child { border-bottom: 1px solid rgba(247,239,231,.2); }
+  .st2 .list b { font-family: var(--serif); font-style: italic; font-weight: 400; font-size: 60px; color: var(--smoke-dragon); line-height: 1; }
+  .st2 .list span { font-family: var(--serif); font-size: 50px; line-height: 1.1; -webkit-text-stroke: .35px currentColor; }
+  .st2 .win { right: 72px; top: 1140px; width: 360px; height: 300px; }
+  .st2 .cta { position: absolute; left: 72px; top: 1240px; color: var(--white-beach); }
+</style>
+</head>
+<body>
+
+<!-- Post -->
+<section class="slide post bg-night grain light-grain" data-file="16-halloween-post.png">
+  <div class="photo grade-real"><img src="../../assets/photos/real/halloween.jpg" alt=""></div>
+  <div class="shade"></div>
+  <div class="mast label sm"><span>Alma House — Nº 16</span><span class="rule"></span><span>Temporada</span></div>
+  <p class="date">31<small>Octubre</small></p>
+  <div class="t">
+    <p class="label k">Halloween en la casa</p>
+    <h1 class="serif">Halloween,<br><em>en voz baja.</em></h1>
+    <p class="it-note sub">Una momia, dos arañas y una telaraña. Lo justo.</p>
+  </div>
+  <div class="folio label sm"><span>Reserva tu momento · 311 566 2051</span><span>Cajicá</span></div>
+</section>
+
+<!-- Historia 1 -->
+<section class="slide story st1 bg-night grain light-grain" data-file="16-halloween-historia-1.png">
+  <div class="mast label sm"><span>Alma House</span><span class="rule"></span><span>Hoy en la casa</span></div>
+  <div class="win grade-real"><img src="../../assets/photos/real/halloween.jpg" alt="" style="object-position:50% 55%"></div>
+  <p class="label k">Recién salidas · Temporada</p>
+  <h2 class="serif">Halloween,<br><em>en voz baja.</em></h2>
+</section>
+
+<!-- Historia 2 · encuesta -->
+<section class="slide story st2 bg-night grain light-grain" data-file="16-halloween-historia-2.png">
+  <div class="mast label sm"><span>Alma House</span><span class="rule"></span><span>Para el 31</span></div>
+  <h2 class="serif">¿Truco<br><em>o trato?</em></h2>
+  <div class="list">
+    <div><b>1</b><span>Una momia en el anular</span></div>
+    <div><b>2</b><span>Arañas y una telaraña</span></div>
+    <div><b>3</b><span>Una uña negra mate, y ya</span></div>
+  </div>
+  <p class="cta label pill">Escríbenos · 311 566 2051</p>
+  <div class="win grade-real"><img src="../../assets/photos/real/halloween.jpg" alt="" style="object-position:50% 70%"></div>
+</section>
+
+</body>
+</html>

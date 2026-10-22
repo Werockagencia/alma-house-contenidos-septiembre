@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>Nº 15 · Exposición permanente — Alma House</title>
+<link rel="stylesheet" href="../../assets/css/alma.css">
+<link rel="stylesheet" href="../../assets/css/cap4.css">
+<style>
+  .wall .mast { color: var(--hot-brown); }
+  .wall .folio { color: var(--hot-brown); }
+
+  /* Portada */
+  .cover .spot { left: 90px; top: 40px; }
+  .cover .art { left: 560px; top: 210px; }
+  .cover .art .win { width: 380px; height: 560px; }
+  .cover .k { position: absolute; left: 72px; top: 230px; color: var(--hot-brown); line-height: 1.7; }
+  .cover h1 { position: absolute; left: 72px; top: 860px; font-size: 156px; line-height: .86; color: var(--espresso); }
+  .cover h1 em { color: var(--hot-brown); }
+  .cover .ticket { position: absolute; left: 72px; top: 420px; width: 440px; padding-right: 110px; border: 2px solid var(--espresso); padding: 22px 26px; color: var(--espresso); }
+  .cover .ticket::after { content: ''; position: absolute; right: 90px; top: -2px; bottom: -2px; border-left: 2px dashed var(--espresso); }
+  .cover .ticket b { display: block; font-family: var(--serif); font-weight: 400; font-style: italic; font-size: 44px; -webkit-text-stroke: .4px currentColor; margin: 8px 0 6px; }
+  .cover .ticket span { font-family: var(--sans); font-size: 20px; font-weight: 600; letter-spacing: .04em; }
+  .cover .ticket i { position: absolute; right: 22px; top: 50%; transform: translateY(-50%) rotate(-90deg); font-style: normal; font-family: var(--label); font-weight: 650; font-size: 14px; letter-spacing: .26em; }
+
+  /* Cada obra: marco centrado con luz y cartela debajo */
+  .obra .spot { left: 90px; top: 0; }
+  .obra .art { left: 230px; top: 140px; }
+  .obra .art .win { width: 560px; height: 760px; }
+  .obra .cartela { left: 230px; width: 620px; top: 1010px; display: grid; grid-template-columns: 1fr auto; gap: 0 24px; }
+  .obra .cartela .y { font-family: var(--label); font-weight: 650; font-size: 14px; letter-spacing: .24em; color: #8a7462; align-self: end; text-align: right; line-height: 1.7; }
+
+  /* Cierre */
+  .close .spot { left: 90px; top: 60px; }
+  .close .row { position: absolute; left: 0; right: 0; top: 200px; display: flex; justify-content: center; gap: 44px; align-items: flex-start; }
+  .close .row .art { position: relative; padding: 18px; }
+  .close .row .art::before { border-width: 7px; }
+  .close .row .art .win { width: 210px; height: 290px; }
+  .close .row .art:nth-child(2) { margin-top: 60px; }
+  .close .row .art.empty .win { background: repeating-linear-gradient(45deg, #F4ECE2, #F4ECE2 12px, #EFE5D9 12px, #EFE5D9 24px); display: grid; place-items: center; }
+  .close .row .art.empty .win span { font-family: var(--serif); font-style: italic; font-size: 34px; color: var(--hot-brown); }
+  .close h2 { position: absolute; left: 0; right: 0; top: 700px; text-align: center; font-size: 138px; line-height: .88; color: var(--espresso); }
+  .close h2 em { color: var(--hot-brown); }
+  .close .cta { position: absolute; left: 0; right: 0; top: 1060px; display: flex; justify-content: center; color: var(--espresso); }
+
+  /* Historias · plantilla "Hoy en la casa" */
+  .st1 .mast { color: var(--smoke-dragon); }
+  .st1 .spot { left: 90px; top: 160px; opacity: .25; }
+  .st1 .art { left: 190px; top: 300px; }
+  .st1 .art .win { width: 640px; height: 860px; }
+  .st1 .k { position: absolute; left: 0; right: 0; top: 1270px; text-align: center; color: var(--smoke-dragon); }
+  .st1 h2 { position: absolute; left: 0; right: 0; top: 1316px; text-align: center; font-size: 140px; line-height: .9; color: var(--white-beach); }
+  .st1 h2 em { color: var(--smoke-dragon); }
+  .st2 .mast { color: var(--hot-brown); }
+  .st2 h2 { position: absolute; left: 0; right: 0; top: 290px; text-align: center; font-size: 124px; line-height: .88; color: var(--espresso); }
+  .st2 h2 em { color: var(--hot-brown); }
+  .st2 .grid { position: absolute; left: 110px; right: 110px; top: 560px; display: grid; grid-template-columns: 1fr 1fr; gap: 50px 60px; }
+  .st2 .grid .art { position: relative; padding: 16px; }
+  .st2 .grid .art::before { border-width: 6px; }
+  .st2 .grid .art .win { width: 100%; height: 360px; }
+  .st2 .grid p { text-align: center; margin-top: 14px; font-family: var(--serif); font-style: italic; font-size: 30px; color: var(--espresso); -webkit-text-stroke: .3px currentColor; }
+</style>
+</head>
+<body>
+
+<!-- 1 · Portada -->
+<section class="slide cover wall grain" data-file="15-expo-01.png">
+  <div class="mast label sm"><span>Alma House — Nº 15</span><span class="rule"></span><span>Colección octubre</span></div>
+  <div class="spot"></div>
+  <p class="label k">Sala Alma House<br>Cajicá</p>
+  <div class="ticket"><span class="label sm">Entrada</span><b>Con reserva</b><span>7 obras · Colección octubre</span><i>Nº 015</i></div>
+  <div class="art"><div class="win grade-real"><img src="../../assets/photos/real/esmeralda.jpg" alt="" style="object-position:55% 45%"></div></div>
+  <h1 class="serif">Exposición<br><em>permanente.</em></h1>
+  <div class="folio label sm"><span>01 / 09</span><span class="swipe">Pasa a la sala</span></div>
+</section>
+
+<section class="slide obra wall grain" data-file="15-expo-02.png">
+  <div class="mast label sm"><span>Alma House — Nº 15</span><span class="rule"></span><span>Sala 1</span></div>
+  <div class="spot"></div>
+  <div class="art"><div class="win grade-real"><img src="../../assets/photos/real/esmeralda.jpg" alt="" style="object-position:60% 40%"></div></div>
+  <div class="cartela"><div><p class="n">Obra Nº 01</p><h3>Esmeralda</h3><p>Verde joya con acentos de cromo. Se mira mejor con el vaso en la mano.</p></div><p class="y">Alma House<br>2026</p></div>
+  <div class="folio label sm"><span>02 / 09</span><span>Colección octubre</span></div>
+</section>
+
+<section class="slide obra wall grain" data-file="15-expo-03.png">
+  <div class="mast label sm"><span>Alma House — Nº 15</span><span class="rule"></span><span>Sala 1</span></div>
+  <div class="spot"></div>
+  <div class="art"><div class="win grade-real"><img src="../../assets/photos/real/oro-y-flor.jpg" alt="" style="object-position:50% 40%"></div></div>
+  <div class="cartela"><div><p class="n">Obra Nº 02</p><h3>Oro y flor</h3><p>French con filo dorado, una flor en relieve y hojas de oro.</p></div><p class="y">Alma House<br>2026</p></div>
+  <div class="folio label sm"><span>03 / 09</span><span>Colección octubre</span></div>
+</section>
+
+<section class="slide obra wall grain" data-file="15-expo-04.png">
+  <div class="mast label sm"><span>Alma House — Nº 15</span><span class="rule"></span><span>Sala 2</span></div>
+  <div class="spot"></div>
+  <div class="art"><div class="win grade-real"><img src="../../assets/photos/real/constelacion.jpg" alt="" style="object-position:50% 45%"></div></div>
+  <div class="cartela"><div><p class="n">Obra Nº 03</p><h3>Constelación</h3><p>Nude con pequeños cristales de color. Un cielo en la punta de los dedos.</p></div><p class="y">Alma House<br>2026</p></div>
+  <div class="folio label sm"><span>04 / 09</span><span>Colección octubre</span></div>
+</section>
+
+<section class="slide obra wall grain" data-file="15-expo-05.png">
+  <div class="mast label sm"><span>Alma House — Nº 15</span><span class="rule"></span><span>Sala 2</span></div>
+  <div class="spot"></div>
+  <div class="art"><div class="win grade-real"><img src="../../assets/photos/real/lunares-verdes.jpg" alt="" style="object-position:50% 50%"></div></div>
+  <div class="cartela"><div><p class="n">Obra Nº 04</p><h3>Lunares en verde</h3><p>Lunares, rayas y un tono liso. Tres ideas, una sola mano.</p></div><p class="y">Alma House<br>2026</p></div>
+  <div class="folio label sm"><span>05 / 09</span><span>Colección octubre</span></div>
+</section>
+
+<section class="slide obra wall grain" data-file="15-expo-06.png">
+  <div class="mast label sm"><span>Alma House — Nº 15</span><span class="rule"></span><span>Sala 3</span></div>
+  <div class="spot"></div>
+  <div class="art"><div class="win grade-real"><img src="../../assets/photos/real/trazo-azul.jpg" alt="" style="object-position:50% 55%"></div></div>
+  <div class="cartela"><div><p class="n">Obra Nº 05</p><h3>Trazo azul</h3><p>Una línea a mano alzada que no se repite en ninguna uña.</p></div><p class="y">Alma House<br>2026</p></div>
+  <div class="folio label sm"><span>06 / 09</span><span>Colección octubre</span></div>
+</section>
+
+<section class="slide obra wall grain" data-file="15-expo-07.png">
+  <div class="mast label sm"><span>Alma House — Nº 15</span><span class="rule"></span><span>Sala 3</span></div>
+  <div class="spot"></div>
+  <div class="art"><div class="win grade-real"><img src="../../assets/photos/real/perla-gris.jpg" alt="" style="object-position:50% 50%"></div></div>
+  <div class="cartela"><div><p class="n">Obra Nº 06</p><h3>Perla sobre gris</h3><p>Gris lavanda con un punto de perla. Discreta, hasta que la miras.</p></div><p class="y">Alma House<br>2026</p></div>
+  <div class="folio label sm"><span>07 / 09</span><span>Colección octubre</span></div>
+</section>
+
+<section class="slide obra wall grain" data-file="15-expo-08.png">
+  <div class="mast label sm"><span>Alma House — Nº 15</span><span class="rule"></span><span>Sala 3</span></div>
+  <div class="spot"></div>
+  <div class="art"><div class="win grade-real"><img src="../../assets/photos/real/atardecer.jpg" alt="" style="object-position:50% 50%"></div></div>
+  <div class="cartela"><div><p class="n">Obra Nº 07</p><h3>Atardecer</h3><p>Melón suave y un anillo dorado. Para estirar el verano un poco más.</p></div><p class="y">Alma House<br>2026</p></div>
+  <div class="folio label sm"><span>08 / 09</span><span>Colección octubre</span></div>
+</section>
+
+<!-- 9 · Cierre -->
+<section class="slide close wall grain" data-file="15-expo-09.png">
+  <div class="mast label sm"><span>Alma House — Nº 15</span><span class="rule"></span><span>Salida</span></div>
+  <div class="spot"></div>
+  <div class="row">
+    <div class="art"><div class="win grade-real"><img src="../../assets/photos/real/constelacion.jpg" alt=""></div></div>
+    <div class="art empty"><div class="win"><span>¿La tuya?</span></div></div>
+    <div class="art"><div class="win grade-real"><img src="../../assets/photos/real/trazo-azul.jpg" alt=""></div></div>
+  </div>
+  <h2 class="serif">La próxima obra<br><em>puede ser la tuya.</em></h2>
+  <div class="cta"><span class="label pill">Reserva tu momento · WhatsApp 311 566 2051</span></div>
+  <div class="folio label sm"><span>09 / 09</span><span>CC Montaña Plaza, local 4 · Cajicá</span></div>
+</section>
+
+<!-- Historia 1 · plantilla "Hoy en la casa" -->
+<section class="slide story st1 bg-espresso grain light-grain" data-file="15-expo-historia-1.png">
+  <div class="mast label sm"><span>Alma House</span><span class="rule"></span><span>Hoy en la casa</span></div>
+  <div class="spot"></div>
+  <div class="art"><div class="win grade-real"><img src="../../assets/photos/real/constelacion.jpg" alt="" style="object-position:50% 45%"></div></div>
+  <p class="label k">Nueva obra en sala</p>
+  <h2 class="serif"><em>Constelación.</em></h2>
+</section>
+
+<!-- Historia 2 · ¿cuál te llevas? -->
+<section class="slide story st2 wall grain" data-file="15-expo-historia-2.png">
+  <div class="mast label sm"><span>Alma House</span><span class="rule"></span><span>Exposición permanente</span></div>
+  <h2 class="serif">¿Cuál te llevas<br><em>a casa?</em></h2>
+  <div class="grid">
+    <div><div class="art"><div class="win grade-real"><img src="../../assets/photos/real/esmeralda.jpg" alt="" style="object-position:60% 40%"></div></div><p>Esmeralda</p></div>
+    <div><div class="art"><div class="win grade-real"><img src="../../assets/photos/real/oro-y-flor.jpg" alt="" style="object-position:50% 40%"></div></div><p>Oro y flor</p></div>
+    <div><div class="art"><div class="win grade-real"><img src="../../assets/photos/real/lunares-verdes.jpg" alt=""></div></div><p>Lunares en verde</p></div>
+    <div><div class="art"><div class="win grade-real"><img src="../../assets/photos/real/atardecer.jpg" alt=""></div></div><p>Atardecer</p></div>
+  </div>
+</section>
+
+</body>
+</html>

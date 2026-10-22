@@ -103,3 +103,77 @@ CC Montaña Plaza, local 4 · Cajicá
 
 #AlmaHouse #AntesYDespues #TuMomento #Cajicá #NailBarCajicá #UñasCajicá
 
+---
+
+# Carruseles e historias · fotos de la casa
+
+---
+
+## Nº 13 · Tintos de la casa
+**Sáb 24 oct · 11:00 a. m.** · Carrusel · 6 + 2 historias
+
+La carta de la casa, edición octubre. 🍷
+
+Tinto reserva, cosecha tardía, rojo de la casa y rubí sobre salvia: cuatro cosechas de temporada para manos y pies.
+
+Se sirven con café y sin afán.
+
+¿Cuál pedirías? Cuéntanos en comentarios.
+
+Reserva tu momento por WhatsApp: 311 566 2051
+CC Montaña Plaza, local 4 · Cajicá
+
+#AlmaHouse #TuMomento #UñasRojas #Cajicá #NailBarCajicá #PedicureCajicá
+
+---
+
+## Nº 16 · Halloween, en voz baja
+**Vie 30 oct · 6:00 p. m.** · Post + 2 historias
+
+Halloween, en voz baja. 🕷️
+
+Una momia, dos arañas, una telaraña y una uña negra mate. Lo justo para la noche del 31.
+
+¿Truco o trato?
+
+Reserva tu momento por WhatsApp: 311 566 2051
+CC Montaña Plaza, local 4 · Cajicá
+
+#AlmaHouse #Halloween #UñasHalloween #NailArt #Cajicá #NailBarCajicá
+
+---
+
+## Nº 15 · Exposición permanente
+**Dom 1 nov · 11:00 a. m.** · Carrusel · 9 + 2 historias
+
+Exposición permanente. Sala Alma House, Cajicá. 🖼️
+
+Siete obras de la colección de octubre: Esmeralda, Oro y flor, Constelación, Lunares en verde, Trazo azul, Perla sobre gris y Atardecer.
+
+Entrada con reserva. La próxima obra puede ser la tuya.
+
+¿Cuál te llevarías a casa?
+
+Reserva tu momento por WhatsApp: 311 566 2051
+CC Montaña Plaza, local 4 · Cajicá
+
+#AlmaHouse #NailArt #TuMomento #Cajicá #NailBarCajicá #UñasDecoradas
+
+---
+
+## Nº 14 · No grita. Se nota.
+**Sáb 7 nov · 11:00 a. m.** · Carrusel · 8 + 2 historias
+
+No grita. Se nota. 🤍
+
+Perla, french de plata, nude francés, rosa bebé, nude con oro y taupe: seis tonos que no necesitan levantar la voz.
+
+Lo simple, bien hecho, también se nota.
+
+¿Cuál es el tuyo? Te leemos.
+
+Reserva tu momento por WhatsApp: 311 566 2051
+CC Montaña Plaza, local 4 · Cajicá
+
+#AlmaHouse #TuMomento #UñasNude #CleanGirlNails #Cajicá #NailBarCajicá
+

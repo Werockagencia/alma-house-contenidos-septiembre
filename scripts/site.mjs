@@ -1,8 +1,9 @@
 // Construye la página de guiones (index.html, GitHub Pages) y CAPTIONS.md
 // a partir de scripts/plan.mjs + piezas/*/guion.md. Pensada para leerse en el celular durante la grabación.
-import { readFile, writeFile } from 'node:fs/promises';
+import { readFile, writeFile, readdir, mkdir } from 'node:fs/promises';
 import path from 'node:path';
-import { plan, chapter } from './plan.mjs';
+import sharp from 'sharp';
+import { plan, chapter, visuales } from './plan.mjs';
 
 const ROOT = path.resolve(import.meta.dirname, '..');
 const REPO = 'https://github.com/Werockagencia/alma-house-contenidos-septiembre';
@@ -28,9 +29,29 @@ for (const p of plan) {
   eps.push({ ...p, meta, sections });
 }
 
+// ---------- carruseles e historias con fotos de la casa ----------
+await mkdir(path.join(ROOT, 'web'), { recursive: true });
+await mkdir(path.join(ROOT, 'descargas'), { recursive: true });
+const vis = [];
+for (const v of visuales) {
+  const dir = path.join(ROOT, 'piezas', v.dir);
+  const { meta, sections } = parse(await readFile(path.join(dir, 'copy.md'), 'utf8'));
+  const files = (await readdir(path.join(dir, 'export'))).filter(f => f.endsWith('.png')).sort();
+  const imgs = [];
+  for (const f of files) {
+    const src = path.join(dir, 'export', f), base = f.replace('.png', '.jpg');
+    await sharp(src).resize({ width: 1080, withoutEnlargement: true }).jpeg({ quality: 86, mozjpeg: true }).toFile(path.join(ROOT, 'web', base));
+    await sharp(src).jpeg({ quality: 93, chromaSubsampling: '4:4:4', mozjpeg: true }).toFile(path.join(ROOT, 'descargas', `alma-house-${base}`));
+    imgs.push({ web: `web/${base}`, dl: `descargas/alma-house-${base}`, story: f.includes('historia') });
+  }
+  vis.push({ ...v, meta, sections, imgs });
+}
+
 // ---------- CAPTIONS.md ----------
 let caps = `# Captions · Capítulo ${chapter.n} — ${chapter.name}\n\n6 reels en orden de publicación. Fuente: \`piezas/<reel>/guion.md\`.\n\n`;
 for (const e of eps) caps += `---\n\n## Nº ${e.n} · ${e.title}\n**${e.date} · ${e.time}** · ${e.kind}\n\n${e.sections['Caption']}\n\n${e.sections['Hashtags'] ?? ''}\n\n`;
+caps += `---\n\n# Carruseles e historias · fotos de la casa\n\n`;
+for (const v of vis) caps += `---\n\n## Nº ${v.n} · ${v.title}\n**${v.date} · ${v.time}** · ${v.kind}\n\n${v.sections['Caption']}\n\n${v.sections['Hashtags'] ?? ''}\n\n`;
 await writeFile(path.join(ROOT, 'CAPTIONS.md'), caps);
 
 // ---------- index.html ----------
@@ -61,6 +82,25 @@ const epHtml = e => `
     <div class="cap-t" id="cap${e.n}">${esc(e.sections['Caption'] ?? '')}\n\n${esc(e.sections['Hashtags'] ?? '')}</div>
   </details>
   <div class="notes"><p class="k">Notas</p><ul>${[`<b>Portada:</b> ${inline(e.sections['Portada'] ?? '')}`, ...list(e.sections['Notas'] ?? '').map(inline)].map(x => `<li>${x}</li>`).join('')}</ul></div>
+</article>`;
+
+const visHtml = v => `
+<article class="ep vis" id="n${v.n}">
+  <header class="eh">
+    <p class="eyebrow">Nº ${v.n} · ${esc(v.kind)}</p>
+    <h2>${esc(v.title)}</h2>
+    <p class="when"><span>${v.date}</span><span>${v.time}</span></p>
+  </header>
+  <div class="idea"><p class="k">La idea</p><p>${inline(cap(v.meta['La idea'] ?? ''))}</p></div>
+  <h3>${v.imgs.some(i => !i.story) && v.imgs.filter(i => !i.story).length > 1 ? 'Carrusel' : 'Post'} · desliza</h3>
+  <div class="strip">${v.imgs.filter(i => !i.story).map((i, k) => `<figure><a href="${i.dl}" target="_blank"><img src="${i.web}" alt="" loading="lazy"></a><figcaption><span>${String(k + 1).padStart(2, '0')}</span><a class="dl" href="${i.dl}" download>↓ JPG</a></figcaption></figure>`).join('')}</div>
+  <h3>Historias</h3>
+  <div class="strip st">${v.imgs.filter(i => i.story).map((i, k) => `<figure><a href="${i.dl}" target="_blank"><img src="${i.web}" alt="" loading="lazy"></a><figcaption><span>Historia ${k + 1}</span><a class="dl" href="${i.dl}" download>↓ JPG</a></figcaption></figure>`).join('')}</div>
+  <details class="cap"><summary>Caption <button class="copy" data-copy="cap${v.n}" type="button">Copiar</button></summary>
+    <div class="cap-t" id="cap${v.n}">${esc(v.sections['Caption'] ?? '')}\n\n${esc(v.sections['Hashtags'] ?? '')}</div>
+  </details>
+  <div class="notes"><p class="k">Para las historias</p><ul>${list(v.sections['Historias'] ?? '').map(x => `<li>${inline(x)}</li>`).join('')}</ul></div>
+  <div class="notes"><p class="k">Notas</p><ul>${list(v.sections['Notas'] ?? '').map(x => `<li>${inline(x)}</li>`).join('')}</ul></div>
 </article>`;
 
 const html = `<!doctype html>
@@ -134,6 +174,16 @@ h3{color:var(--brown);margin:28px 0 12px}
 .notes .k{color:var(--brown);margin-bottom:8px}
 .notes ul{padding-left:20px;display:flex;flex-direction:column;gap:6px}
 code{font-size:13px;background:rgba(153,71,29,.08);padding:1px 5px;border-radius:3px}
+.strip{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 2px 12px;scrollbar-width:thin}
+.strip figure{flex:0 0 min(78%,340px);scroll-snap-align:start}
+.strip.st figure{flex:0 0 min(58%,250px)}
+.strip img{width:100%;display:block;border-radius:4px;box-shadow:0 10px 26px rgba(42,31,26,.16)}
+.strip figcaption{display:flex;justify-content:space-between;align-items:center;margin-top:8px;font-family:'Uncage',sans-serif;font-size:11px;letter-spacing:.16em;text-transform:uppercase;color:var(--brown);font-weight:650}
+.dl{background:var(--brown);color:var(--cream);text-decoration:none;border-radius:999px;padding:7px 12px;font-size:10px}
+.part{margin-top:56px;padding:26px 22px;background:var(--espresso);color:var(--cream);border-radius:12px}
+.part h2{font-family:'Aurora',serif;font-weight:400;font-size:clamp(32px,7vw,48px);line-height:.95}
+.part h2 em{color:var(--blush)}
+.part p{margin-top:10px;color:rgba(247,239,231,.88)}
 .foot{background:var(--espresso);color:var(--cream);margin-top:60px;padding:36px 0;font-size:14.5px}
 .foot .label{color:var(--blush)}
 .foot a{color:var(--blush)}
@@ -148,7 +198,7 @@ code{font-size:13px;background:rgba(153,71,29,.08);padding:1px 5px;border-radius
     <div class="mast label"><span>Alma House · Nails Bar</span><span class="rule"></span><span>Cap. ${chapter.n}</span></div>
     <h1>Capítulo ${chapter.n}<br><em>${chapter.name}.</em></h1>
     <p class="lede">${chapter.line}</p>
-    <p class="by label">6 reels · un celular · todo en el local<br>Guiones · We Rock Agencia</p>
+    <p class="by label">6 reels · 3 carruseles · 1 post · historias<br>We Rock Agencia</p>
   </div>
 </header>
 
@@ -157,6 +207,17 @@ code{font-size:13px;background:rgba(153,71,29,.08);padding:1px 5px;border-radius
     <h2>La continuidad</h2>
     <p>El capítulo I creó la expectativa, el II abrió la puerta y el III mostró los códigos de la casa. El IV lo cuenta Yissel: la anfitriona que abrió la puerta en el reel Nº 00 ahora le habla a cámara en cada reel. Habla de cómo llegas, de sus colores de octubre, de sus secretos para que las uñas duren, de lo que viene en noviembre, del sonido de la casa y de un resultado real. Todo se graba con un celular, dentro del local. La gente le compra a personas: una cara y una voz constantes hacen que la marca se sienta cercana.</p>
   </section>
+
+  <div class="part" id="fotos"><p class="label" style="color:var(--blush)">Parte 1</p><h2>Carruseles e historias,<br><em>con fotos de la casa.</em></h2><p>Cuatro piezas hechas con las fotos que se tomaron en el local en octubre, cada una con su versión de historias en el estilo de las plantillas de la casa. Toca cualquier imagen para verla en tamaño completo o descárgala con el botón.</p></div>
+
+  <section class="sec">
+    <h2>Calendario de las piezas</h2>
+    <div class="cal">${vis.map(v => `<a href="#n${v.n}"><span class="d">${v.date}</span><span class="t">Nº ${v.n} · ${esc(v.title)}<small>${esc(v.kind)} · ${v.time}</small></span></a>`).join('')}</div>
+  </section>
+
+  ${vis.map(visHtml).join('\n')}
+
+  <div class="part" id="reels"><p class="label" style="color:var(--blush)">Parte 2</p><h2>Los 6 reels,<br><em>con Yissel a cámara.</em></h2><p>Guiones para grabar con un celular, todo en el local.</p></div>
 
   <section class="sec">
     <h2>Antes de grabar</h2>
@@ -177,7 +238,7 @@ code{font-size:13px;background:rgba(153,71,29,.08);padding:1px 5px;border-radius
   </section>
 
   <section class="sec">
-    <h2>Calendario</h2>
+    <h2>Calendario de los reels</h2>
     <div class="cal">${eps.map(e => `<a href="#n${e.n}"><span class="d">${e.date}</span><span class="t">Nº ${e.n} · ${esc(e.title)}<small>${esc(e.kind)} · ${e.time}</small></span></a>`).join('')}</div>
   </section>
 
@@ -203,4 +264,4 @@ document.querySelectorAll('.copy').forEach(b => b.addEventListener('click', asyn
 </html>
 `;
 await writeFile(path.join(ROOT, 'index.html'), html);
-console.log(`index.html · CAPTIONS.md · ${eps.length} reels`);
+console.log(`index.html · CAPTIONS.md · ${eps.length} reels · ${vis.length} piezas con fotos`);
