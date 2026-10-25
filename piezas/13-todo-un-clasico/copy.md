@@ -25,7 +25,7 @@ CC Montaña Plaza, local 4 · Cajicá
 - 1: Mano con uñas rojas a toda la imagen. "Todo un clásico. Rojo, en manos y pies."
 - 2: Manos con uñas burdeos sobre un cojín de cuero. "Burdeos. Casi negro, con fondo rojo."
 - 3: Pies con esmalte burdeos. "También en pies."
-- 4: Pies con esmalte rojo sobre la silla verde salvia. "Rojo sobre salvia."
+- 4: Pies con esmalte rojo sobre una silla verde. "Rojo, sin pedir permiso. De los que se notan desde lejos."
 - 5: Mano y pies en rojo, lado a lado. "¿Manos, pies o las dos?" y el WhatsApp para reservar.
 
 ## Historias
